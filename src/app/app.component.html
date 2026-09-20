@@ -1,0 +1,114 @@
+<div class="container">
+  <header class="header">
+    <div class="brand">
+      <div class="brand-icon">▣</div>
+      <div>
+        <h1>BSE Dividend Calendar</h1>
+        <p>Dividend companies from today to the next 60 days</p>
+      </div>
+    </div>
+
+    <div class="header-actions">
+      <button class="refresh-btn" (click)="refresh()" [disabled]="loading">
+        {{ loading ? 'Loading...' : '↻ Refresh' }}
+      </button>
+    </div>
+  </header>
+
+  <section class="summary">
+    <div class="summary-card">
+      <span class="summary-label">Period</span>
+      <strong>{{ fromDate }} → {{ toDate }}</strong>
+    </div>
+
+    <div class="summary-card">
+      <span class="summary-label">Total Companies</span>
+      <strong>{{ dividends.length }}</strong>
+    </div>
+
+    <div class="summary-card" *ngIf="lastUpdated">
+      <span class="summary-label">Last Updated</span>
+      <strong>{{ lastUpdated }}</strong>
+    </div>
+  </section>
+
+  <div *ngIf="loading" class="message">
+    Loading BSE dividend data and latest share prices...
+  </div>
+
+  <div *ngIf="!loading && error" class="error">
+    <strong>⚠️ Unable to load BSE data</strong>
+    <p>{{ error }}</p>
+    <button class="retry-btn" (click)="refresh()">Try Again</button>
+  </div>
+
+  <div *ngIf="!loading && !error && dividends.length === 0" class="message">
+    No dividend companies found for this period.
+  </div>
+
+  <section *ngIf="!loading && !error && dividends.length > 0" class="table-wrap">
+    <div class="table-title">
+      <h2>Dividend Companies</h2>
+      <span>{{ dividends.length }} companies</span>
+    </div>
+
+    <div class="scroll">
+      <table>
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>BSE Code</th>
+            <th>Symbol</th>
+            <th>Company Name</th>
+            <th>Latest Price (₹)</th>
+            <th>Record Date</th>
+            <th>Dividend / Purpose</th>
+            <th>Dividend / Share (₹)</th>
+            <th>Dividend Yield (%)</th>
+          </tr>
+        </thead>
+
+        <tbody>
+          <tr *ngFor="let company of dividends; let i = index; trackBy: trackByCode">
+            <td>{{ i + 1 }}</td>
+
+            <td>{{ company.scrip_code || '-' }}</td>
+
+            <td>
+              <strong class="symbol">{{ company.short_name || '-' }}</strong>
+            </td>
+
+            <td class="company-cell">
+              <strong>{{ company.long_name || '-' }}</strong>
+              <div class="inline-price">
+                Latest Price: {{ formatPrice(company.latest_price) }}
+              </div>
+            </td>
+
+            <td class="price-cell">
+              {{ formatPrice(company.latest_price) }}
+            </td>
+
+            <td>{{ formatUiDate(company.RD_Date) }}</td>
+
+            <td>{{ company.Purpose || '-' }}</td>
+
+            <td class="dividend-cell">
+              {{ formatDividend(company.dividend_per_share) }}
+            </td>
+
+            <td>
+              <span [class]="'yield-badge ' + yieldClass(company.dividend_yield)">
+                {{ formatYield(company.dividend_yield) }}
+              </span>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <footer>
+    Data source: BSE India &nbsp;|&nbsp; Latest prices fetched server-side with fallback lookup
+  </footer>
+</div>
