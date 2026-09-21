@@ -1481,7 +1481,7 @@
       "record_date": "23-Sep-2026",
       "purpose": "Final Dividend - Rs. - 3.0000",
       "dividend_per_share": 3,
-      "latest_price": 529.55,
+      "latest_price": 524.05,
       "dividend_yield": 0.57,
       "first_seen": "20-Sep-2026 07:34:15 am"
     },
@@ -2069,5 +2069,5 @@
       "first_seen": "21-Sep-2026 01:32:16 pm"
     }
   },
-  "last_checked": "21-Sep-2026 07:00:21 pm"
+  "last_checked": "21-Sep-2026 10:32:38 pm"
 }
