@@ -1473,7 +1473,29 @@
       "latest_price": 123.45,
       "dividend_yield": 0.41,
       "first_seen": "21-Sep-2026 01:32:16 pm"
+    },
+    "523031|26 Sep 2026|Dividend - Rs. - 1.2000": {
+      "scrip_code": "523031",
+      "short_name": "ADSDIAG",
+      "long_name": "A D S Diagnostics Ltd",
+      "record_date": "26-Sep-2026",
+      "purpose": "Dividend - Rs. - 1.2000",
+      "dividend_per_share": 1.2,
+      "latest_price": 11.34,
+      "dividend_yield": 10.58,
+      "first_seen": "22-Sep-2026 04:40:12 pm"
+    },
+    "532540|14 Oct 2026|Interim Dividend": {
+      "scrip_code": "532540",
+      "short_name": "TCS",
+      "long_name": "Tata Consultancy Services Ltd",
+      "record_date": "14-Oct-2026",
+      "purpose": "Interim Dividend",
+      "dividend_per_share": null,
+      "latest_price": 2106,
+      "dividend_yield": 0,
+      "first_seen": "22-Sep-2026 04:40:12 pm"
     }
   },
-  "last_checked": "22-Sep-2026 11:59:34 am"
+  "last_checked": "22-Sep-2026 04:40:12 pm"
 }
