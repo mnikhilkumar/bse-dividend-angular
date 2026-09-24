@@ -7,8 +7,8 @@
       "record_date": "24-Sep-2026",
       "purpose": "Final Dividend - Rs. - 1.1000",
       "dividend_per_share": 1.1,
-      "latest_price": 47,
-      "dividend_yield": 2.34,
+      "latest_price": 48.3,
+      "dividend_yield": 2.28,
       "first_seen": "20-Sep-2026 07:34:15 am"
     },
     "539151|24 Sep 2026|Interim Dividend - Rs. - 0.1200": {
@@ -18,7 +18,7 @@
       "record_date": "24-Sep-2026",
       "purpose": "Interim Dividend - Rs. - 0.1200",
       "dividend_per_share": 0.12,
-      "latest_price": 89.75,
+      "latest_price": 89.56,
       "dividend_yield": 0.13,
       "first_seen": "20-Sep-2026 07:34:15 am"
     },
@@ -29,7 +29,7 @@
       "record_date": "24-Sep-2026",
       "purpose": "Final Dividend - Rs. - 2.5000",
       "dividend_per_share": 2.5,
-      "latest_price": 297,
+      "latest_price": 296.8,
       "dividend_yield": 0.84,
       "first_seen": "20-Sep-2026 07:34:15 am"
     },
@@ -40,8 +40,8 @@
       "record_date": "24-Sep-2026",
       "purpose": "Final Dividend - Rs. - 1.0000",
       "dividend_per_share": 1,
-      "latest_price": 610.1,
-      "dividend_yield": 0.16,
+      "latest_price": 605.8,
+      "dividend_yield": 0.17,
       "first_seen": "20-Sep-2026 07:34:15 am"
     },
     "544489|25 Sep 2026|Dividend - Rs. - 0.2500": {
@@ -62,7 +62,7 @@
       "record_date": "25-Sep-2026",
       "purpose": "Final Dividend - Rs. - 0.5000",
       "dividend_per_share": 0.5,
-      "latest_price": 217.55,
+      "latest_price": 218.2,
       "dividend_yield": 0.23,
       "first_seen": "20-Sep-2026 07:34:15 am"
     },
@@ -128,8 +128,8 @@
       "record_date": "07-Oct-2026",
       "purpose": "Final Dividend - Rs. - 5.5000",
       "dividend_per_share": 5.5,
-      "latest_price": 156.45,
-      "dividend_yield": 3.52,
+      "latest_price": 155.55,
+      "dividend_yield": 3.54,
       "first_seen": "20-Sep-2026 07:34:15 am"
     },
     "544890|09 Oct 2026|Interim Dividend - Rs. - 0.2500": {
@@ -172,8 +172,8 @@
       "record_date": "02-Oct-2026",
       "purpose": "Final Dividend - Rs. - 0.5000",
       "dividend_per_share": 0.5,
-      "latest_price": 13.19,
-      "dividend_yield": 3.79,
+      "latest_price": 13.29,
+      "dividend_yield": 3.76,
       "first_seen": "23-Sep-2026 07:23:40 pm"
     },
     "530265|01 Oct 2026|Interim Dividend - Rs. - 0.5000": {
@@ -186,7 +186,18 @@
       "latest_price": 37.85,
       "dividend_yield": 1.32,
       "first_seen": "23-Sep-2026 07:23:40 pm"
+    },
+    "544230|30 Sep 2026|Interim Dividend - Rs. - 3.0000": {
+      "scrip_code": "544230",
+      "short_name": "SSDL",
+      "long_name": "Saraswati Saree Depot Ltd",
+      "record_date": "30-Sep-2026",
+      "purpose": "Interim Dividend - Rs. - 3.0000",
+      "dividend_per_share": 3,
+      "latest_price": 66.22,
+      "dividend_yield": 4.53,
+      "first_seen": "24-Sep-2026 03:40:30 pm"
     }
   },
-  "last_checked": "24-Sep-2026 10:55:12 am"
+  "last_checked": "24-Sep-2026 03:40:30 pm"
 }
