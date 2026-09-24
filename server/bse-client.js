@@ -365,8 +365,15 @@ async function fetchBse(searchParams) {
   }
 }
 
-async function fetchDividends(from, to) {
-  const searchParams = new URLSearchParams({ Fdate: from, TDate: to });
+async function fetchDividends(from, to, options = {}) {
+  const searchParams = new URLSearchParams({
+    Fdate: from,
+    TDate: to,
+    Purposecode: options.Purposecode || 'P9',
+    ddlcategorys: options.ddlcategorys || 'E',
+    ddlindustrys: options.ddlindustrys || '',
+    segment: options.segment || '0'
+  });
   const result = await fetchBse(searchParams);
   let data = fromJson(result.text);
   if (!data.length) data = fromHtml(result.text);

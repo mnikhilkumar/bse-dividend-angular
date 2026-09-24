@@ -58,6 +58,20 @@ const path = require('path');
     assert.equal(exactUrl, 'https://api.bseindia.com/BseIndiaAPI/api/DefaultData/w?scripcode=&Fdate=20260924&Purposecode=P9&TDate=20261103&ddlcategorys=E&ddlindustrys=&segment=0&strSearch=S');
     console.log('PASS: exact BSE endpoint uses strSearch=S');
 
+    const forwardedUrl = bseClient.buildBseUrl(new URLSearchParams({
+      Fdate: '20260924',
+      Purposecode: 'P9',
+      TDate: '20261123',
+      ddlcategorys: 'E',
+      ddlindustrys: '',
+      segment: '0'
+    }));
+    assert.equal(
+      forwardedUrl,
+      'https://api.bseindia.com/BseIndiaAPI/api/DefaultData/w?scripcode=&Fdate=20260924&Purposecode=P9&TDate=20261123&ddlcategorys=E&ddlindustrys=&segment=0&strSearch=S'
+    );
+    console.log('PASS: Vercel query parameters forward to exact BSE S endpoint');
+
     const originalFetch = global.fetch;
     let capturedUrl = null;
     global.fetch = async (url) => {

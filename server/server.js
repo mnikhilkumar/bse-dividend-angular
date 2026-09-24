@@ -20,6 +20,10 @@ const server = http.createServer(async (req, res) => {
     try {
       const from = requestUrl.searchParams.get('Fdate') || '';
       const to = requestUrl.searchParams.get('TDate') || '';
+      const purposeCode = requestUrl.searchParams.get('Purposecode') || 'P9';
+      const category = requestUrl.searchParams.get('ddlcategorys') || 'E';
+      const industry = requestUrl.searchParams.get('ddlindustrys') || '';
+      const segment = requestUrl.searchParams.get('segment') || '0';
 
       if (!/^\d{8}$/.test(from) || !/^\d{8}$/.test(to)) {
         res.writeHead(400);
@@ -28,7 +32,12 @@ const server = http.createServer(async (req, res) => {
       }
 
       try {
-        const data = await fetchDividends(from, to);
+        const data = await fetchDividends(from, to, {
+          Purposecode: purposeCode,
+          ddlcategorys: category,
+          ddlindustrys: industry,
+          segment
+        });
         if (data.length > 0) {
           res.writeHead(200);
           res.end(JSON.stringify(data));
