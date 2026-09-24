@@ -1,1 +1,203 @@
-{"companies":{},"last_checked":null}
+{
+  "companies": {
+    "544185|24 Sep 2026|Final Dividend - Rs. - 1.1000": {
+      "scrip_code": "544185",
+      "short_name": "ADTECH",
+      "long_name": "Adtech Systems Ltd",
+      "record_date": "24-Sep-2026",
+      "purpose": "Final Dividend - Rs. - 1.1000",
+      "dividend_per_share": 1.1,
+      "latest_price": 48.3,
+      "dividend_yield": 2.28,
+      "first_seen": "24-Sep-2026 03:50:33 pm"
+    },
+    "539151|24 Sep 2026|Interim Dividend - Rs. - 0.1200": {
+      "scrip_code": "539151",
+      "short_name": "ARFIN",
+      "long_name": "Arfin India Ltd",
+      "record_date": "24-Sep-2026",
+      "purpose": "Interim Dividend - Rs. - 0.1200",
+      "dividend_per_share": 0.12,
+      "latest_price": 89.56,
+      "dividend_yield": 0.13,
+      "first_seen": "24-Sep-2026 03:50:33 pm"
+    },
+    "532178|24 Sep 2026|Final Dividend - Rs. - 2.5000": {
+      "scrip_code": "532178",
+      "short_name": "ENGINERSIN",
+      "long_name": "Engineers India Ltd",
+      "record_date": "24-Sep-2026",
+      "purpose": "Final Dividend - Rs. - 2.5000",
+      "dividend_per_share": 2.5,
+      "latest_price": 296.8,
+      "dividend_yield": 0.84,
+      "first_seen": "24-Sep-2026 03:50:33 pm"
+    },
+    "543373|24 Sep 2026|Final Dividend - Rs. - 1.0000": {
+      "scrip_code": "543373",
+      "short_name": "SVRL",
+      "long_name": "Shri Venkatesh Refineries Ltd",
+      "record_date": "24-Sep-2026",
+      "purpose": "Final Dividend - Rs. - 1.0000",
+      "dividend_per_share": 1,
+      "latest_price": 605.8,
+      "dividend_yield": 0.17,
+      "first_seen": "24-Sep-2026 03:50:33 pm"
+    },
+    "523031|26 Sep 2026|Dividend - Rs. - 1.2000": {
+      "scrip_code": "523031",
+      "short_name": "ADSDIAG",
+      "long_name": "A D S Diagnostics Ltd",
+      "record_date": "26-Sep-2026",
+      "purpose": "Dividend - Rs. - 1.2000",
+      "dividend_per_share": 1.2,
+      "latest_price": 11.34,
+      "dividend_yield": 10.58,
+      "first_seen": "24-Sep-2026 03:50:33 pm"
+    },
+    "544489|25 Sep 2026|Dividend - Rs. - 0.2500": {
+      "scrip_code": "544489",
+      "short_name": "LGT",
+      "long_name": "LGT Global Hospitality Ltd",
+      "record_date": "25-Sep-2026",
+      "purpose": "Dividend - Rs. - 0.2500",
+      "dividend_per_share": 0.25,
+      "latest_price": 37.1,
+      "dividend_yield": 0.67,
+      "first_seen": "24-Sep-2026 03:50:33 pm"
+    },
+    "544469|25 Sep 2026|Final Dividend - Rs. - 0.5000": {
+      "scrip_code": "544469",
+      "short_name": "LOTUSDEV",
+      "long_name": "Sri Lotus Developers and Realty Ltd",
+      "record_date": "25-Sep-2026",
+      "purpose": "Final Dividend - Rs. - 0.5000",
+      "dividend_per_share": 0.5,
+      "latest_price": 218.2,
+      "dividend_yield": 0.23,
+      "first_seen": "24-Sep-2026 03:50:33 pm"
+    },
+    "539200|25 Sep 2026|Final Dividend - Rs. - 0.0500": {
+      "scrip_code": "539200",
+      "short_name": "NOBPOL",
+      "long_name": "Noble Polymers Ltd",
+      "record_date": "25-Sep-2026",
+      "purpose": "Final Dividend - Rs. - 0.0500",
+      "dividend_per_share": 0.05,
+      "latest_price": 15.97,
+      "dividend_yield": 0.31,
+      "first_seen": "24-Sep-2026 03:50:33 pm"
+    },
+    "544329|29 Sep 2026|Final Dividend - Rs. - 0.5000": {
+      "scrip_code": "544329",
+      "short_name": "VANDU",
+      "long_name": "Leo Dryfruits & Spices Trading Ltd",
+      "record_date": "29-Sep-2026",
+      "purpose": "Final Dividend - Rs. - 0.5000",
+      "dividend_per_share": 0.5,
+      "latest_price": 58.75,
+      "dividend_yield": 0.85,
+      "first_seen": "24-Sep-2026 03:50:33 pm"
+    },
+    "500113|30 Sep 2026|Final Dividend - Rs. - 2.3500": {
+      "scrip_code": "500113",
+      "short_name": "SAIL",
+      "long_name": "Steel Authority of India Ltd",
+      "record_date": "30-Sep-2026",
+      "purpose": "Final Dividend - Rs. - 2.3500",
+      "dividend_per_share": 2.35,
+      "latest_price": 184,
+      "dividend_yield": 1.28,
+      "first_seen": "24-Sep-2026 03:50:33 pm"
+    },
+    "544230|30 Sep 2026|Interim Dividend - Rs. - 3.0000": {
+      "scrip_code": "544230",
+      "short_name": "SSDL",
+      "long_name": "Saraswati Saree Depot Ltd",
+      "record_date": "30-Sep-2026",
+      "purpose": "Interim Dividend - Rs. - 3.0000",
+      "dividend_per_share": 3,
+      "latest_price": 66.22,
+      "dividend_yield": 4.53,
+      "first_seen": "24-Sep-2026 03:50:33 pm"
+    },
+    "538787|02 Oct 2026|Final Dividend - Rs. - 0.5000": {
+      "scrip_code": "538787",
+      "short_name": "GBFL",
+      "long_name": "Goenka Business & Finance Ltd",
+      "record_date": "02-Oct-2026",
+      "purpose": "Final Dividend - Rs. - 0.5000",
+      "dividend_per_share": 0.5,
+      "latest_price": 13.29,
+      "dividend_yield": 3.76,
+      "first_seen": "24-Sep-2026 03:50:33 pm"
+    },
+    "532514|01 Oct 2026|Final Dividend - Rs. - 1.5000": {
+      "scrip_code": "532514",
+      "short_name": "IGL",
+      "long_name": "Indraprastha Gas Ltd",
+      "record_date": "01-Oct-2026",
+      "purpose": "Final Dividend - Rs. - 1.5000",
+      "dividend_per_share": 1.5,
+      "latest_price": 145.7,
+      "dividend_yield": 1.03,
+      "first_seen": "24-Sep-2026 03:50:33 pm"
+    },
+    "530265|01 Oct 2026|Interim Dividend - Rs. - 0.5000": {
+      "scrip_code": "530265",
+      "short_name": "SAINIK",
+      "long_name": "Sainik Finance & Industries Ltd",
+      "record_date": "01-Oct-2026",
+      "purpose": "Interim Dividend - Rs. - 0.5000",
+      "dividend_per_share": 0.5,
+      "latest_price": 37.85,
+      "dividend_yield": 1.32,
+      "first_seen": "24-Sep-2026 03:50:33 pm"
+    },
+    "526371|05 Oct 2026|Final Dividend - Rs. - 1.0000": {
+      "scrip_code": "526371",
+      "short_name": "NMDC",
+      "long_name": "NMDC Ltd",
+      "record_date": "05-Oct-2026",
+      "purpose": "Final Dividend - Rs. - 1.0000",
+      "dividend_per_share": 1,
+      "latest_price": 80.85,
+      "dividend_yield": 1.24,
+      "first_seen": "24-Sep-2026 03:50:33 pm"
+    },
+    "532524|07 Oct 2026|Final Dividend - Rs. - 5.5000": {
+      "scrip_code": "532524",
+      "short_name": "PTC",
+      "long_name": "PTC India Ltd",
+      "record_date": "07-Oct-2026",
+      "purpose": "Final Dividend - Rs. - 5.5000",
+      "dividend_per_share": 5.5,
+      "latest_price": 155.55,
+      "dividend_yield": 3.54,
+      "first_seen": "24-Sep-2026 03:50:33 pm"
+    },
+    "544890|09 Oct 2026|Interim Dividend - Rs. - 0.2500": {
+      "scrip_code": "544890",
+      "short_name": "SKYWAYS",
+      "long_name": "Skyways Air Services Ltd",
+      "record_date": "09-Oct-2026",
+      "purpose": "Interim Dividend - Rs. - 0.2500",
+      "dividend_per_share": 0.25,
+      "latest_price": 131.2,
+      "dividend_yield": 0.19,
+      "first_seen": "24-Sep-2026 03:50:33 pm"
+    },
+    "532540|14 Oct 2026|Interim Dividend": {
+      "scrip_code": "532540",
+      "short_name": "TCS",
+      "long_name": "Tata Consultancy Services Ltd",
+      "record_date": "14-Oct-2026",
+      "purpose": "Interim Dividend",
+      "dividend_per_share": null,
+      "latest_price": 2077,
+      "dividend_yield": 0,
+      "first_seen": "24-Sep-2026 03:50:33 pm"
+    }
+  },
+  "last_checked": "24-Sep-2026 03:50:33 pm"
+}
