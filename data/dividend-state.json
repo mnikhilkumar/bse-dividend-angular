@@ -11,39 +11,6 @@
       "dividend_yield": 10.58,
       "first_seen": "24-Sep-2026 03:50:33 pm"
     },
-    "544489|25 Sep 2026|Dividend - Rs. - 0.2500": {
-      "scrip_code": "544489",
-      "short_name": "LGT",
-      "long_name": "LGT Global Hospitality Ltd",
-      "record_date": "25-Sep-2026",
-      "purpose": "Dividend - Rs. - 0.2500",
-      "dividend_per_share": 0.25,
-      "latest_price": 37.1,
-      "dividend_yield": 0.67,
-      "first_seen": "24-Sep-2026 03:50:33 pm"
-    },
-    "544469|25 Sep 2026|Final Dividend - Rs. - 0.5000": {
-      "scrip_code": "544469",
-      "short_name": "LOTUSDEV",
-      "long_name": "Sri Lotus Developers and Realty Ltd",
-      "record_date": "25-Sep-2026",
-      "purpose": "Final Dividend - Rs. - 0.5000",
-      "dividend_per_share": 0.5,
-      "latest_price": 217.6,
-      "dividend_yield": 0.23,
-      "first_seen": "24-Sep-2026 03:50:33 pm"
-    },
-    "539200|25 Sep 2026|Final Dividend - Rs. - 0.0500": {
-      "scrip_code": "539200",
-      "short_name": "NOBPOL",
-      "long_name": "Noble Polymers Ltd",
-      "record_date": "25-Sep-2026",
-      "purpose": "Final Dividend - Rs. - 0.0500",
-      "dividend_per_share": 0.05,
-      "latest_price": 16.28,
-      "dividend_yield": 0.31,
-      "first_seen": "24-Sep-2026 03:50:33 pm"
-    },
     "544329|29 Sep 2026|Final Dividend - Rs. - 0.5000": {
       "scrip_code": "544329",
       "short_name": "VANDU",
@@ -153,7 +120,18 @@
       "latest_price": 2083.95,
       "dividend_yield": 0,
       "first_seen": "24-Sep-2026 03:50:33 pm"
+    },
+    "532735|01 Oct 2026|Interim Dividend - Rs. - 8.0000": {
+      "scrip_code": "532735",
+      "short_name": "RSYSTEMS",
+      "long_name": "R Systems International Ltd",
+      "record_date": "01-Oct-2026",
+      "purpose": "Interim Dividend - Rs. - 8.0000",
+      "dividend_per_share": 8,
+      "latest_price": 235.7,
+      "dividend_yield": 3.39,
+      "first_seen": "26-Sep-2026 02:59:56 am"
     }
   },
-  "last_checked": "25-Sep-2026 11:45:29 pm"
+  "last_checked": "26-Sep-2026 02:59:56 am"
 }
