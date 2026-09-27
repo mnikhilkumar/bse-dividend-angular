@@ -1,16 +1,5 @@
 {
   "companies": {
-    "523031|26 Sep 2026|Dividend - Rs. - 1.2000": {
-      "scrip_code": "523031",
-      "short_name": "ADSDIAG",
-      "long_name": "A D S Diagnostics Ltd",
-      "record_date": "26-Sep-2026",
-      "purpose": "Dividend - Rs. - 1.2000",
-      "dividend_per_share": 1.2,
-      "latest_price": 11.34,
-      "dividend_yield": 10.58,
-      "first_seen": "24-Sep-2026 03:50:33 pm"
-    },
     "544329|29 Sep 2026|Final Dividend - Rs. - 0.5000": {
       "scrip_code": "544329",
       "short_name": "VANDU",
@@ -133,5 +122,5 @@
       "first_seen": "26-Sep-2026 02:59:56 am"
     }
   },
-  "last_checked": "26-Sep-2026 11:03:12 pm"
+  "last_checked": "27-Sep-2026 01:37:50 am"
 }
