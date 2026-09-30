@@ -1,16 +1,5 @@
 {
   "companies": {
-    "544329|29 Sep 2026|Final Dividend - Rs. - 0.5000": {
-      "scrip_code": "544329",
-      "short_name": "VANDU",
-      "long_name": "Leo Dryfruits & Spices Trading Ltd",
-      "record_date": "29-Sep-2026",
-      "purpose": "Final Dividend - Rs. - 0.5000",
-      "dividend_per_share": 0.5,
-      "latest_price": 60.4,
-      "dividend_yield": 0.83,
-      "first_seen": "24-Sep-2026 03:50:33 pm"
-    },
     "500113|30 Sep 2026|Final Dividend - Rs. - 2.3500": {
       "scrip_code": "500113",
       "short_name": "SAIL",
@@ -122,5 +111,5 @@
       "first_seen": "26-Sep-2026 02:59:56 am"
     }
   },
-  "last_checked": "29-Sep-2026 08:56:25 pm"
+  "last_checked": "30-Sep-2026 12:03:19 am"
 }

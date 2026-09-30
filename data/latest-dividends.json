@@ -1,23 +1,8 @@
 {
-  "fetched_at": "29-Sep-2026 08:56:25 pm",
-  "from_date": "20260929",
-  "to_date": "20261128",
+  "fetched_at": "30-Sep-2026 12:03:19 am",
+  "from_date": "20260930",
+  "to_date": "20261129",
   "data": [
-    {
-      "scrip_code": "544329",
-      "short_name": "VANDU",
-      "long_name": "Leo Dryfruits & Spices Trading Ltd",
-      "RD_Date": "29 Sep 2026",
-      "Purpose": "Final Dividend - Rs. - 0.5000",
-      "BCRD_FROM": "",
-      "BCRD_TO": "",
-      "ND_START_DATE": "29 Sep 2026",
-      "ND_END_DATE": "29 Sep 2026",
-      "payment_date": "",
-      "latest_price": 60.4,
-      "dividend_per_share": 0.5,
-      "dividend_yield": 0.83
-    },
     {
       "scrip_code": "500113",
       "short_name": "SAIL",
