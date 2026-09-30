@@ -109,7 +109,29 @@
       "latest_price": 277.3,
       "dividend_yield": 2.88,
       "first_seen": "26-Sep-2026 02:59:56 am"
+    },
+    "532268|09 Oct 2026|Final Dividend - Rs. - 35.0000": {
+      "scrip_code": "532268",
+      "short_name": "ACCELYA",
+      "long_name": "Accelya Solutions India Ltd",
+      "record_date": "09-Oct-2026",
+      "purpose": "Final Dividend - Rs. - 35.0000",
+      "dividend_per_share": 35,
+      "latest_price": 1091.6,
+      "dividend_yield": 3.21,
+      "first_seen": "30-Sep-2026 05:25:03 pm"
+    },
+    "534732|09 Oct 2026|Final Dividend - Rs. - 0.5000": {
+      "scrip_code": "534732",
+      "short_name": "CASPIAN",
+      "long_name": "Caspian Corporate Services Ltd",
+      "record_date": "09-Oct-2026",
+      "purpose": "Final Dividend - Rs. - 0.5000",
+      "dividend_per_share": 0.5,
+      "latest_price": 33.57,
+      "dividend_yield": 1.49,
+      "first_seen": "30-Sep-2026 05:25:03 pm"
     }
   },
-  "last_checked": "30-Sep-2026 11:44:57 am"
+  "last_checked": "30-Sep-2026 05:25:03 pm"
 }
