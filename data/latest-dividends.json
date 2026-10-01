@@ -1,5 +1,5 @@
 {
-  "fetched_at": "01-Oct-2026 12:45:30 am",
+  "fetched_at": "01-Oct-2026 06:44:57 am",
   "from_date": "20261001",
   "to_date": "20261130",
   "data": [
@@ -14,9 +14,9 @@
       "ND_START_DATE": "01 Oct 2026",
       "ND_END_DATE": "01 Oct 2026",
       "payment_date": "",
-      "latest_price": 14.83,
+      "latest_price": 14.54,
       "dividend_per_share": 0.5,
-      "dividend_yield": 3.37
+      "dividend_yield": 3.44
     },
     {
       "scrip_code": "532514",
@@ -29,9 +29,9 @@
       "ND_START_DATE": "01 Oct 2026",
       "ND_END_DATE": "01 Oct 2026",
       "payment_date": "",
-      "latest_price": 145.65,
+      "latest_price": 141.9,
       "dividend_per_share": 1.5,
-      "dividend_yield": 1.03
+      "dividend_yield": 1.06
     },
     {
       "scrip_code": "532735",
@@ -44,9 +44,9 @@
       "ND_START_DATE": "01 Oct 2026",
       "ND_END_DATE": "01 Oct 2026",
       "payment_date": "",
-      "latest_price": 277.3,
+      "latest_price": 261.5,
       "dividend_per_share": 8,
-      "dividend_yield": 2.88
+      "dividend_yield": 3.06
     },
     {
       "scrip_code": "530265",
@@ -59,9 +59,9 @@
       "ND_START_DATE": "01 Oct 2026",
       "ND_END_DATE": "01 Oct 2026",
       "payment_date": "",
-      "latest_price": 42.41,
+      "latest_price": 40.3,
       "dividend_per_share": 0.5,
-      "dividend_yield": 1.18
+      "dividend_yield": 1.24
     },
     {
       "scrip_code": "526371",
@@ -74,9 +74,9 @@
       "ND_START_DATE": "01 Oct 2026",
       "ND_END_DATE": "05 Oct 2026",
       "payment_date": "",
-      "latest_price": 76.79,
+      "latest_price": 75.79,
       "dividend_per_share": 1,
-      "dividend_yield": 1.3
+      "dividend_yield": 1.32
     },
     {
       "scrip_code": "532524",
@@ -89,9 +89,9 @@
       "ND_START_DATE": "01 Oct 2026",
       "ND_END_DATE": "07 Oct 2026",
       "payment_date": "",
-      "latest_price": 155.6,
+      "latest_price": 154.6,
       "dividend_per_share": 5.5,
-      "dividend_yield": 3.53
+      "dividend_yield": 3.56
     },
     {
       "scrip_code": "532268",
@@ -104,9 +104,9 @@
       "ND_START_DATE": "",
       "ND_END_DATE": "",
       "payment_date": "",
-      "latest_price": 1091.6,
+      "latest_price": 1103.3,
       "dividend_per_share": 35,
-      "dividend_yield": 3.21
+      "dividend_yield": 3.17
     },
     {
       "scrip_code": "534732",
@@ -119,7 +119,7 @@
       "ND_START_DATE": "",
       "ND_END_DATE": "",
       "payment_date": "",
-      "latest_price": 33.57,
+      "latest_price": 33.5,
       "dividend_per_share": 0.5,
       "dividend_yield": 1.49
     },
@@ -134,9 +134,9 @@
       "ND_START_DATE": "",
       "ND_END_DATE": "",
       "payment_date": "",
-      "latest_price": 113.3,
+      "latest_price": 110.35,
       "dividend_per_share": 0.25,
-      "dividend_yield": 0.22
+      "dividend_yield": 0.23
     },
     {
       "scrip_code": "532540",
@@ -149,7 +149,7 @@
       "ND_START_DATE": "",
       "ND_END_DATE": "",
       "payment_date": "",
-      "latest_price": 2050,
+      "latest_price": 2065.6,
       "dividend_per_share": null,
       "dividend_yield": 0
     }
