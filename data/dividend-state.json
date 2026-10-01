@@ -1,27 +1,5 @@
 {
   "companies": {
-    "500113|30 Sep 2026|Final Dividend - Rs. - 2.3500": {
-      "scrip_code": "500113",
-      "short_name": "SAIL",
-      "long_name": "Steel Authority of India Ltd",
-      "record_date": "30-Sep-2026",
-      "purpose": "Final Dividend - Rs. - 2.3500",
-      "dividend_per_share": 2.35,
-      "latest_price": 181.6,
-      "dividend_yield": 1.29,
-      "first_seen": "24-Sep-2026 03:50:33 pm"
-    },
-    "544230|30 Sep 2026|Interim Dividend - Rs. - 3.0000": {
-      "scrip_code": "544230",
-      "short_name": "SSDL",
-      "long_name": "Saraswati Saree Depot Ltd",
-      "record_date": "30-Sep-2026",
-      "purpose": "Interim Dividend - Rs. - 3.0000",
-      "dividend_per_share": 3,
-      "latest_price": 76.27,
-      "dividend_yield": 3.93,
-      "first_seen": "24-Sep-2026 03:50:33 pm"
-    },
     "538787|02 Oct 2026|Final Dividend - Rs. - 0.5000": {
       "scrip_code": "538787",
       "short_name": "GBFL",
@@ -133,5 +111,5 @@
       "first_seen": "30-Sep-2026 05:25:03 pm"
     }
   },
-  "last_checked": "30-Sep-2026 09:29:29 pm"
+  "last_checked": "01-Oct-2026 12:45:30 am"
 }
