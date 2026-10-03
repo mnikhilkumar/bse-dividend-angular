@@ -1,16 +1,5 @@
 {
   "companies": {
-    "538787|02 Oct 2026|Final Dividend - Rs. - 0.5000": {
-      "scrip_code": "538787",
-      "short_name": "GBFL",
-      "long_name": "Goenka Business & Finance Ltd",
-      "record_date": "02-Oct-2026",
-      "purpose": "Final Dividend - Rs. - 0.5000",
-      "dividend_per_share": 0.5,
-      "latest_price": 14.47,
-      "dividend_yield": 3.46,
-      "first_seen": "24-Sep-2026 03:50:33 pm"
-    },
     "526371|05 Oct 2026|Final Dividend - Rs. - 1.0000": {
       "scrip_code": "526371",
       "short_name": "NMDC",
@@ -78,5 +67,5 @@
       "first_seen": "30-Sep-2026 05:25:03 pm"
     }
   },
-  "last_checked": "02-Oct-2026 08:51:21 pm"
+  "last_checked": "03-Oct-2026 12:05:56 am"
 }
