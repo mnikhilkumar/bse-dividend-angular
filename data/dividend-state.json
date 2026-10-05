@@ -7,8 +7,8 @@
       "record_date": "05-Oct-2026",
       "purpose": "Final Dividend - Rs. - 1.0000",
       "dividend_per_share": 1,
-      "latest_price": 75,
-      "dividend_yield": 1.33,
+      "latest_price": 73.95,
+      "dividend_yield": 1.35,
       "first_seen": "24-Sep-2026 03:50:33 pm"
     },
     "532524|07 Oct 2026|Final Dividend - Rs. - 5.5000": {
@@ -18,8 +18,8 @@
       "record_date": "07-Oct-2026",
       "purpose": "Final Dividend - Rs. - 5.5000",
       "dividend_per_share": 5.5,
-      "latest_price": 154.85,
-      "dividend_yield": 3.55,
+      "latest_price": 157.1,
+      "dividend_yield": 3.5,
       "first_seen": "24-Sep-2026 03:50:33 pm"
     },
     "544890|09 Oct 2026|Interim Dividend - Rs. - 0.2500": {
@@ -29,7 +29,7 @@
       "record_date": "09-Oct-2026",
       "purpose": "Interim Dividend - Rs. - 0.2500",
       "dividend_per_share": 0.25,
-      "latest_price": 110.4,
+      "latest_price": 111.1,
       "dividend_yield": 0.23,
       "first_seen": "24-Sep-2026 03:50:33 pm"
     },
@@ -40,7 +40,7 @@
       "record_date": "14-Oct-2026",
       "purpose": "Interim Dividend",
       "dividend_per_share": null,
-      "latest_price": 2079.3,
+      "latest_price": 2102.9,
       "dividend_yield": 0,
       "first_seen": "24-Sep-2026 03:50:33 pm"
     },
@@ -51,8 +51,8 @@
       "record_date": "09-Oct-2026",
       "purpose": "Final Dividend - Rs. - 35.0000",
       "dividend_per_share": 35,
-      "latest_price": 1096.3,
-      "dividend_yield": 3.19,
+      "latest_price": 1112.25,
+      "dividend_yield": 3.15,
       "first_seen": "30-Sep-2026 05:25:03 pm"
     },
     "534732|09 Oct 2026|Final Dividend - Rs. - 0.5000": {
@@ -62,10 +62,10 @@
       "record_date": "09-Oct-2026",
       "purpose": "Final Dividend - Rs. - 0.5000",
       "dividend_per_share": 0.5,
-      "latest_price": 33.86,
+      "latest_price": 33.72,
       "dividend_yield": 1.48,
       "first_seen": "30-Sep-2026 05:25:03 pm"
     }
   },
-  "last_checked": "05-Oct-2026 02:12:49 am"
+  "last_checked": "05-Oct-2026 09:22:20 am"
 }
