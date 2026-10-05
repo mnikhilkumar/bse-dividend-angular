@@ -1,5 +1,5 @@
 {
-  "fetched_at": "05-Oct-2026 09:22:20 am",
+  "fetched_at": "05-Oct-2026 06:41:06 pm",
   "from_date": "20261005",
   "to_date": "20261204",
   "data": [
@@ -14,9 +14,9 @@
       "ND_START_DATE": "05 Oct 2026",
       "ND_END_DATE": "05 Oct 2026",
       "payment_date": "",
-      "latest_price": 73.95,
+      "latest_price": 73.8,
       "dividend_per_share": 1,
-      "dividend_yield": 1.35
+      "dividend_yield": 1.36
     },
     {
       "scrip_code": "532524",
@@ -26,12 +26,12 @@
       "Purpose": "Final Dividend - Rs. - 5.5000",
       "BCRD_FROM": "",
       "BCRD_TO": "",
-      "ND_START_DATE": "05 Oct 2026",
+      "ND_START_DATE": "06 Oct 2026",
       "ND_END_DATE": "07 Oct 2026",
       "payment_date": "",
-      "latest_price": 157.1,
+      "latest_price": 157.45,
       "dividend_per_share": 5.5,
-      "dividend_yield": 3.5
+      "dividend_yield": 3.49
     },
     {
       "scrip_code": "532268",
@@ -41,12 +41,12 @@
       "Purpose": "Final Dividend - Rs. - 35.0000",
       "BCRD_FROM": "",
       "BCRD_TO": "",
-      "ND_START_DATE": "05 Oct 2026",
+      "ND_START_DATE": "06 Oct 2026",
       "ND_END_DATE": "09 Oct 2026",
       "payment_date": "",
-      "latest_price": 1112.25,
+      "latest_price": 1105.05,
       "dividend_per_share": 35,
-      "dividend_yield": 3.15
+      "dividend_yield": 3.17
     },
     {
       "scrip_code": "534732",
@@ -56,12 +56,12 @@
       "Purpose": "Final Dividend - Rs. - 0.5000",
       "BCRD_FROM": "",
       "BCRD_TO": "",
-      "ND_START_DATE": "05 Oct 2026",
+      "ND_START_DATE": "06 Oct 2026",
       "ND_END_DATE": "09 Oct 2026",
       "payment_date": "",
-      "latest_price": 33.72,
+      "latest_price": 34.33,
       "dividend_per_share": 0.5,
-      "dividend_yield": 1.48
+      "dividend_yield": 1.46
     },
     {
       "scrip_code": "544890",
@@ -71,10 +71,10 @@
       "Purpose": "Interim Dividend - Rs. - 0.2500",
       "BCRD_FROM": "",
       "BCRD_TO": "",
-      "ND_START_DATE": "05 Oct 2026",
+      "ND_START_DATE": "06 Oct 2026",
       "ND_END_DATE": "09 Oct 2026",
       "payment_date": "",
-      "latest_price": 111.1,
+      "latest_price": 109.4,
       "dividend_per_share": 0.25,
       "dividend_yield": 0.23
     },
@@ -89,7 +89,7 @@
       "ND_START_DATE": "",
       "ND_END_DATE": "",
       "payment_date": "",
-      "latest_price": 2102.9,
+      "latest_price": 2108.35,
       "dividend_per_share": null,
       "dividend_yield": 0
     }

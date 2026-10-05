@@ -7,8 +7,8 @@
       "record_date": "05-Oct-2026",
       "purpose": "Final Dividend - Rs. - 1.0000",
       "dividend_per_share": 1,
-      "latest_price": 73.95,
-      "dividend_yield": 1.35,
+      "latest_price": 73.8,
+      "dividend_yield": 1.36,
       "first_seen": "24-Sep-2026 03:50:33 pm"
     },
     "532524|07 Oct 2026|Final Dividend - Rs. - 5.5000": {
@@ -18,8 +18,8 @@
       "record_date": "07-Oct-2026",
       "purpose": "Final Dividend - Rs. - 5.5000",
       "dividend_per_share": 5.5,
-      "latest_price": 157.1,
-      "dividend_yield": 3.5,
+      "latest_price": 157.45,
+      "dividend_yield": 3.49,
       "first_seen": "24-Sep-2026 03:50:33 pm"
     },
     "544890|09 Oct 2026|Interim Dividend - Rs. - 0.2500": {
@@ -29,7 +29,7 @@
       "record_date": "09-Oct-2026",
       "purpose": "Interim Dividend - Rs. - 0.2500",
       "dividend_per_share": 0.25,
-      "latest_price": 111.1,
+      "latest_price": 109.4,
       "dividend_yield": 0.23,
       "first_seen": "24-Sep-2026 03:50:33 pm"
     },
@@ -40,7 +40,7 @@
       "record_date": "14-Oct-2026",
       "purpose": "Interim Dividend",
       "dividend_per_share": null,
-      "latest_price": 2102.9,
+      "latest_price": 2108.35,
       "dividend_yield": 0,
       "first_seen": "24-Sep-2026 03:50:33 pm"
     },
@@ -51,8 +51,8 @@
       "record_date": "09-Oct-2026",
       "purpose": "Final Dividend - Rs. - 35.0000",
       "dividend_per_share": 35,
-      "latest_price": 1112.25,
-      "dividend_yield": 3.15,
+      "latest_price": 1105.05,
+      "dividend_yield": 3.17,
       "first_seen": "30-Sep-2026 05:25:03 pm"
     },
     "534732|09 Oct 2026|Final Dividend - Rs. - 0.5000": {
@@ -62,10 +62,10 @@
       "record_date": "09-Oct-2026",
       "purpose": "Final Dividend - Rs. - 0.5000",
       "dividend_per_share": 0.5,
-      "latest_price": 33.72,
-      "dividend_yield": 1.48,
+      "latest_price": 34.33,
+      "dividend_yield": 1.46,
       "first_seen": "30-Sep-2026 05:25:03 pm"
     }
   },
-  "last_checked": "05-Oct-2026 09:22:20 am"
+  "last_checked": "05-Oct-2026 06:41:06 pm"
 }
