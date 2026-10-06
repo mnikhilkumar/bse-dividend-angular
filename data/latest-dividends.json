@@ -1,5 +1,5 @@
 {
-  "fetched_at": "06-Oct-2026 07:04:50 am",
+  "fetched_at": "06-Oct-2026 02:19:29 pm",
   "from_date": "20261006",
   "to_date": "20261205",
   "data": [
@@ -11,10 +11,10 @@
       "Purpose": "Final Dividend - Rs. - 5.5000",
       "BCRD_FROM": "",
       "BCRD_TO": "",
-      "ND_START_DATE": "06 Oct 2026",
+      "ND_START_DATE": "07 Oct 2026",
       "ND_END_DATE": "07 Oct 2026",
       "payment_date": "",
-      "latest_price": 157.25,
+      "latest_price": 157.15,
       "dividend_per_share": 5.5,
       "dividend_yield": 3.5
     },
@@ -26,12 +26,12 @@
       "Purpose": "Final Dividend - Rs. - 35.0000",
       "BCRD_FROM": "",
       "BCRD_TO": "",
-      "ND_START_DATE": "06 Oct 2026",
+      "ND_START_DATE": "07 Oct 2026",
       "ND_END_DATE": "09 Oct 2026",
       "payment_date": "",
-      "latest_price": 1110,
+      "latest_price": 1098.75,
       "dividend_per_share": 35,
-      "dividend_yield": 3.15
+      "dividend_yield": 3.19
     },
     {
       "scrip_code": "534732",
@@ -41,12 +41,12 @@
       "Purpose": "Final Dividend - Rs. - 0.5000",
       "BCRD_FROM": "",
       "BCRD_TO": "",
-      "ND_START_DATE": "06 Oct 2026",
+      "ND_START_DATE": "07 Oct 2026",
       "ND_END_DATE": "09 Oct 2026",
       "payment_date": "",
-      "latest_price": 34.29,
+      "latest_price": 34.45,
       "dividend_per_share": 0.5,
-      "dividend_yield": 1.46
+      "dividend_yield": 1.45
     },
     {
       "scrip_code": "544890",
@@ -56,12 +56,12 @@
       "Purpose": "Interim Dividend - Rs. - 0.2500",
       "BCRD_FROM": "",
       "BCRD_TO": "",
-      "ND_START_DATE": "06 Oct 2026",
+      "ND_START_DATE": "07 Oct 2026",
       "ND_END_DATE": "09 Oct 2026",
       "payment_date": "",
-      "latest_price": 110.55,
+      "latest_price": 114,
       "dividend_per_share": 0.25,
-      "dividend_yield": 0.23
+      "dividend_yield": 0.22
     },
     {
       "scrip_code": "532540",
@@ -74,7 +74,7 @@
       "ND_START_DATE": "",
       "ND_END_DATE": "",
       "payment_date": "",
-      "latest_price": 2087.8,
+      "latest_price": 2098,
       "dividend_per_share": null,
       "dividend_yield": 0
     },
@@ -89,7 +89,22 @@
       "ND_START_DATE": "",
       "ND_END_DATE": "",
       "payment_date": "",
-      "latest_price": 263,
+      "latest_price": 266.55,
+      "dividend_per_share": null,
+      "dividend_yield": 0
+    },
+    {
+      "scrip_code": "543235",
+      "short_name": "ANGELONE",
+      "long_name": "Angel One Ltd",
+      "RD_Date": "22 Oct 2026",
+      "Purpose": "Interim Dividend",
+      "BCRD_FROM": "",
+      "BCRD_TO": "",
+      "ND_START_DATE": "",
+      "ND_END_DATE": "",
+      "payment_date": "",
+      "latest_price": 293.95,
       "dividend_per_share": null,
       "dividend_yield": 0
     }
