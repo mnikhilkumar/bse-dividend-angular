@@ -1,23 +1,8 @@
 {
-  "fetched_at": "05-Oct-2026 06:41:06 pm",
-  "from_date": "20261005",
-  "to_date": "20261204",
+  "fetched_at": "06-Oct-2026 12:31:58 am",
+  "from_date": "20261006",
+  "to_date": "20261205",
   "data": [
-    {
-      "scrip_code": "526371",
-      "short_name": "NMDC",
-      "long_name": "NMDC Ltd",
-      "RD_Date": "05 Oct 2026",
-      "Purpose": "Final Dividend - Rs. - 1.0000",
-      "BCRD_FROM": "",
-      "BCRD_TO": "",
-      "ND_START_DATE": "05 Oct 2026",
-      "ND_END_DATE": "05 Oct 2026",
-      "payment_date": "",
-      "latest_price": 73.8,
-      "dividend_per_share": 1,
-      "dividend_yield": 1.36
-    },
     {
       "scrip_code": "532524",
       "short_name": "PTC",
@@ -90,6 +75,21 @@
       "ND_END_DATE": "",
       "payment_date": "",
       "latest_price": 2108.35,
+      "dividend_per_share": null,
+      "dividend_yield": 0
+    },
+    {
+      "scrip_code": "500295",
+      "short_name": "VEDL",
+      "long_name": "Vedanta Ltd",
+      "RD_Date": "14 Oct 2026",
+      "Purpose": "Interim Dividend",
+      "BCRD_FROM": "",
+      "BCRD_TO": "",
+      "ND_START_DATE": "",
+      "ND_END_DATE": "",
+      "payment_date": "",
+      "latest_price": 255,
       "dividend_per_share": null,
       "dividend_yield": 0
     }
