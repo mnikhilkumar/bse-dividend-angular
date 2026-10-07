@@ -1,5 +1,5 @@
 {
-  "fetched_at": "07-Oct-2026 09:38:42 am",
+  "fetched_at": "07-Oct-2026 05:09:30 pm",
   "from_date": "20261007",
   "to_date": "20261206",
   "data": [
@@ -14,9 +14,9 @@
       "ND_START_DATE": "07 Oct 2026",
       "ND_END_DATE": "07 Oct 2026",
       "payment_date": "",
-      "latest_price": 151.9,
+      "latest_price": 151.7,
       "dividend_per_share": 5.5,
-      "dividend_yield": 3.62
+      "dividend_yield": 3.63
     },
     {
       "scrip_code": "532268",
@@ -26,10 +26,10 @@
       "Purpose": "Final Dividend - Rs. - 35.0000",
       "BCRD_FROM": "",
       "BCRD_TO": "",
-      "ND_START_DATE": "07 Oct 2026",
+      "ND_START_DATE": "08 Oct 2026",
       "ND_END_DATE": "09 Oct 2026",
       "payment_date": "",
-      "latest_price": 1100.5,
+      "latest_price": 1099.95,
       "dividend_per_share": 35,
       "dividend_yield": 3.18
     },
@@ -41,7 +41,7 @@
       "Purpose": "Final Dividend - Rs. - 0.5000",
       "BCRD_FROM": "",
       "BCRD_TO": "",
-      "ND_START_DATE": "07 Oct 2026",
+      "ND_START_DATE": "08 Oct 2026",
       "ND_END_DATE": "09 Oct 2026",
       "payment_date": "",
       "latest_price": 33.9,
@@ -56,10 +56,10 @@
       "Purpose": "Interim Dividend - Rs. - 0.2500",
       "BCRD_FROM": "",
       "BCRD_TO": "",
-      "ND_START_DATE": "07 Oct 2026",
+      "ND_START_DATE": "08 Oct 2026",
       "ND_END_DATE": "09 Oct 2026",
       "payment_date": "",
-      "latest_price": 114.85,
+      "latest_price": 114.3,
       "dividend_per_share": 0.25,
       "dividend_yield": 0.22
     },
@@ -71,10 +71,10 @@
       "Purpose": "Interim Dividend",
       "BCRD_FROM": "",
       "BCRD_TO": "",
-      "ND_START_DATE": "",
-      "ND_END_DATE": "",
+      "ND_START_DATE": "08 Oct 2026",
+      "ND_END_DATE": "14 Oct 2026",
       "payment_date": "",
-      "latest_price": 2086.05,
+      "latest_price": 2084,
       "dividend_per_share": null,
       "dividend_yield": 0
     },
@@ -86,10 +86,10 @@
       "Purpose": "Interim Dividend",
       "BCRD_FROM": "",
       "BCRD_TO": "",
-      "ND_START_DATE": "",
-      "ND_END_DATE": "",
+      "ND_START_DATE": "08 Oct 2026",
+      "ND_END_DATE": "14 Oct 2026",
       "payment_date": "",
-      "latest_price": 260.9,
+      "latest_price": 261.2,
       "dividend_per_share": null,
       "dividend_yield": 0
     },
@@ -104,7 +104,22 @@
       "ND_START_DATE": "",
       "ND_END_DATE": "",
       "payment_date": "",
-      "latest_price": 304.25,
+      "latest_price": 302.55,
+      "dividend_per_share": null,
+      "dividend_yield": 0
+    },
+    {
+      "scrip_code": "543257",
+      "short_name": "IRFC",
+      "long_name": "Indian Railway Finance Corporation Ltd",
+      "RD_Date": "23 Oct 2026",
+      "Purpose": "Interim Dividend",
+      "BCRD_FROM": "",
+      "BCRD_TO": "",
+      "ND_START_DATE": "",
+      "ND_END_DATE": "",
+      "payment_date": "",
+      "latest_price": 76.25,
       "dividend_per_share": null,
       "dividend_yield": 0
     }
