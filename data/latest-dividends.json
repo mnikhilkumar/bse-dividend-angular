@@ -1,5 +1,5 @@
 {
-  "fetched_at": "08-Oct-2026 09:15:54 am",
+  "fetched_at": "08-Oct-2026 04:43:08 pm",
   "from_date": "20261008",
   "to_date": "20261207",
   "data": [
@@ -11,12 +11,12 @@
       "Purpose": "Final Dividend - Rs. - 35.0000",
       "BCRD_FROM": "",
       "BCRD_TO": "",
-      "ND_START_DATE": "08 Oct 2026",
+      "ND_START_DATE": "09 Oct 2026",
       "ND_END_DATE": "09 Oct 2026",
       "payment_date": "",
-      "latest_price": 1097.4,
+      "latest_price": 1095.05,
       "dividend_per_share": 35,
-      "dividend_yield": 3.19
+      "dividend_yield": 3.2
     },
     {
       "scrip_code": "534732",
@@ -26,12 +26,12 @@
       "Purpose": "Final Dividend - Rs. - 0.5000",
       "BCRD_FROM": "",
       "BCRD_TO": "",
-      "ND_START_DATE": "08 Oct 2026",
+      "ND_START_DATE": "09 Oct 2026",
       "ND_END_DATE": "09 Oct 2026",
       "payment_date": "",
-      "latest_price": 34.68,
+      "latest_price": 34.29,
       "dividend_per_share": 0.5,
-      "dividend_yield": 1.44
+      "dividend_yield": 1.46
     },
     {
       "scrip_code": "544890",
@@ -41,40 +41,55 @@
       "Purpose": "Interim Dividend - Rs. - 0.2500",
       "BCRD_FROM": "",
       "BCRD_TO": "",
-      "ND_START_DATE": "08 Oct 2026",
+      "ND_START_DATE": "09 Oct 2026",
       "ND_END_DATE": "09 Oct 2026",
       "payment_date": "",
-      "latest_price": 112.3,
+      "latest_price": 111.1,
       "dividend_per_share": 0.25,
-      "dividend_yield": 0.22
+      "dividend_yield": 0.23
     },
     {
       "scrip_code": "532540",
       "short_name": "TCS",
       "long_name": "Tata Consultancy Services Ltd",
       "RD_Date": "14 Oct 2026",
-      "Purpose": "Interim Dividend",
+      "Purpose": "Interim Dividend - Rs. - 12.0000",
       "BCRD_FROM": "",
       "BCRD_TO": "",
-      "ND_START_DATE": "08 Oct 2026",
+      "ND_START_DATE": "09 Oct 2026",
       "ND_END_DATE": "14 Oct 2026",
       "payment_date": "",
-      "latest_price": 2072.55,
-      "dividend_per_share": null,
-      "dividend_yield": 0
+      "latest_price": 2075.25,
+      "dividend_per_share": 12,
+      "dividend_yield": 0.58
     },
     {
       "scrip_code": "500295",
       "short_name": "VEDL",
       "long_name": "Vedanta Ltd",
       "RD_Date": "14 Oct 2026",
+      "Purpose": "Interim Dividend - Rs. - 5.0000",
+      "BCRD_FROM": "",
+      "BCRD_TO": "",
+      "ND_START_DATE": "09 Oct 2026",
+      "ND_END_DATE": "14 Oct 2026",
+      "payment_date": "",
+      "latest_price": 253.1,
+      "dividend_per_share": 5,
+      "dividend_yield": 1.98
+    },
+    {
+      "scrip_code": "543415",
+      "short_name": "ANANDRATHI",
+      "long_name": "Anand Rathi Wealth Ltd",
+      "RD_Date": "15 Oct 2026",
       "Purpose": "Interim Dividend",
       "BCRD_FROM": "",
       "BCRD_TO": "",
-      "ND_START_DATE": "08 Oct 2026",
-      "ND_END_DATE": "14 Oct 2026",
+      "ND_START_DATE": "09 Oct 2026",
+      "ND_END_DATE": "15 Oct 2026",
       "payment_date": "",
-      "latest_price": 254.9,
+      "latest_price": 2144,
       "dividend_per_share": null,
       "dividend_yield": 0
     },
@@ -89,7 +104,7 @@
       "ND_START_DATE": "",
       "ND_END_DATE": "",
       "payment_date": "",
-      "latest_price": 296.9,
+      "latest_price": 295.1,
       "dividend_per_share": null,
       "dividend_yield": 0
     },
@@ -104,7 +119,7 @@
       "ND_START_DATE": "",
       "ND_END_DATE": "",
       "payment_date": "",
-      "latest_price": 74.62,
+      "latest_price": 74.15,
       "dividend_per_share": null,
       "dividend_yield": 0
     }
