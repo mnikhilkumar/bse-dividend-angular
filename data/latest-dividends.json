@@ -1,23 +1,8 @@
 {
-  "fetched_at": "07-Oct-2026 10:09:28 pm",
-  "from_date": "20261007",
-  "to_date": "20261206",
+  "fetched_at": "08-Oct-2026 02:09:41 am",
+  "from_date": "20261008",
+  "to_date": "20261207",
   "data": [
-    {
-      "scrip_code": "532524",
-      "short_name": "PTC",
-      "long_name": "PTC India Ltd",
-      "RD_Date": "07 Oct 2026",
-      "Purpose": "Final Dividend - Rs. - 5.5000",
-      "BCRD_FROM": "",
-      "BCRD_TO": "",
-      "ND_START_DATE": "07 Oct 2026",
-      "ND_END_DATE": "07 Oct 2026",
-      "payment_date": "",
-      "latest_price": 151.7,
-      "dividend_per_share": 5.5,
-      "dividend_yield": 3.63
-    },
     {
       "scrip_code": "532268",
       "short_name": "ACCELYA",
