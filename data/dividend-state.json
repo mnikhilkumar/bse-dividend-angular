@@ -109,7 +109,18 @@
       "latest_price": 2144,
       "dividend_yield": 0,
       "first_seen": "08-Oct-2026 04:43:08 pm"
+    },
+    "540005|23 Oct 2026|Interim Dividend": {
+      "scrip_code": "540005",
+      "short_name": "LTM",
+      "long_name": "LTM Ltd",
+      "record_date": "23-Oct-2026",
+      "purpose": "Interim Dividend",
+      "dividend_per_share": null,
+      "latest_price": 3908.5,
+      "dividend_yield": 0,
+      "first_seen": "09-Oct-2026 01:38:01 am"
     }
   },
-  "last_checked": "08-Oct-2026 09:42:55 pm"
+  "last_checked": "09-Oct-2026 01:38:01 am"
 }

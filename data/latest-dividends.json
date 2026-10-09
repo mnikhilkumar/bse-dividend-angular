@@ -1,7 +1,7 @@
 {
-  "fetched_at": "08-Oct-2026 09:42:55 pm",
-  "from_date": "20261008",
-  "to_date": "20261207",
+  "fetched_at": "09-Oct-2026 01:38:01 am",
+  "from_date": "20261009",
+  "to_date": "20261208",
   "data": [
     {
       "scrip_code": "532268",
@@ -120,6 +120,21 @@
       "ND_END_DATE": "",
       "payment_date": "",
       "latest_price": 74.15,
+      "dividend_per_share": null,
+      "dividend_yield": 0
+    },
+    {
+      "scrip_code": "540005",
+      "short_name": "LTM",
+      "long_name": "LTM Ltd",
+      "RD_Date": "23 Oct 2026",
+      "Purpose": "Interim Dividend",
+      "BCRD_FROM": "",
+      "BCRD_TO": "",
+      "ND_START_DATE": "",
+      "ND_END_DATE": "",
+      "payment_date": "",
+      "latest_price": 3908.5,
       "dividend_per_share": null,
       "dividend_yield": 0
     }
