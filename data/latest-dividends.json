@@ -1,53 +1,8 @@
 {
-  "fetched_at": "09-Oct-2026 01:38:01 am",
-  "from_date": "20261009",
-  "to_date": "20261208",
+  "fetched_at": "10-Oct-2026 05:35:04 pm",
+  "from_date": "20261010",
+  "to_date": "20261209",
   "data": [
-    {
-      "scrip_code": "532268",
-      "short_name": "ACCELYA",
-      "long_name": "Accelya Solutions India Ltd",
-      "RD_Date": "09 Oct 2026",
-      "Purpose": "Final Dividend - Rs. - 35.0000",
-      "BCRD_FROM": "",
-      "BCRD_TO": "",
-      "ND_START_DATE": "09 Oct 2026",
-      "ND_END_DATE": "09 Oct 2026",
-      "payment_date": "",
-      "latest_price": 1095.05,
-      "dividend_per_share": 35,
-      "dividend_yield": 3.2
-    },
-    {
-      "scrip_code": "534732",
-      "short_name": "CASPIAN",
-      "long_name": "Caspian Corporate Services Ltd",
-      "RD_Date": "09 Oct 2026",
-      "Purpose": "Final Dividend - Rs. - 0.5000",
-      "BCRD_FROM": "",
-      "BCRD_TO": "",
-      "ND_START_DATE": "09 Oct 2026",
-      "ND_END_DATE": "09 Oct 2026",
-      "payment_date": "",
-      "latest_price": 34.29,
-      "dividend_per_share": 0.5,
-      "dividend_yield": 1.46
-    },
-    {
-      "scrip_code": "544890",
-      "short_name": "SKYWAYS",
-      "long_name": "Skyways Air Services Ltd",
-      "RD_Date": "09 Oct 2026",
-      "Purpose": "Interim Dividend - Rs. - 0.2500",
-      "BCRD_FROM": "",
-      "BCRD_TO": "",
-      "ND_START_DATE": "09 Oct 2026",
-      "ND_END_DATE": "09 Oct 2026",
-      "payment_date": "",
-      "latest_price": 111.1,
-      "dividend_per_share": 0.25,
-      "dividend_yield": 0.23
-    },
     {
       "scrip_code": "532540",
       "short_name": "TCS",
@@ -56,12 +11,12 @@
       "Purpose": "Interim Dividend - Rs. - 12.0000",
       "BCRD_FROM": "",
       "BCRD_TO": "",
-      "ND_START_DATE": "09 Oct 2026",
+      "ND_START_DATE": "12 Oct 2026",
       "ND_END_DATE": "14 Oct 2026",
       "payment_date": "",
-      "latest_price": 2075.25,
+      "latest_price": 2163,
       "dividend_per_share": 12,
-      "dividend_yield": 0.58
+      "dividend_yield": 0.55
     },
     {
       "scrip_code": "500295",
@@ -71,27 +26,42 @@
       "Purpose": "Interim Dividend - Rs. - 5.0000",
       "BCRD_FROM": "",
       "BCRD_TO": "",
-      "ND_START_DATE": "09 Oct 2026",
+      "ND_START_DATE": "12 Oct 2026",
       "ND_END_DATE": "14 Oct 2026",
       "payment_date": "",
-      "latest_price": 253.1,
+      "latest_price": 263.5,
       "dividend_per_share": 5,
-      "dividend_yield": 1.98
+      "dividend_yield": 1.9
     },
     {
       "scrip_code": "543415",
       "short_name": "ANANDRATHI",
       "long_name": "Anand Rathi Wealth Ltd",
       "RD_Date": "15 Oct 2026",
-      "Purpose": "Interim Dividend",
+      "Purpose": "Interim Dividend - Rs. - 4.0000",
       "BCRD_FROM": "",
       "BCRD_TO": "",
-      "ND_START_DATE": "09 Oct 2026",
+      "ND_START_DATE": "12 Oct 2026",
       "ND_END_DATE": "15 Oct 2026",
       "payment_date": "",
-      "latest_price": 2144,
-      "dividend_per_share": null,
-      "dividend_yield": 0
+      "latest_price": 2042,
+      "dividend_per_share": 4,
+      "dividend_yield": 0.2
+    },
+    {
+      "scrip_code": "544580",
+      "short_name": "CRAMC",
+      "long_name": "Canara Robeco Asset Management Company Ltd",
+      "RD_Date": "16 Oct 2026",
+      "Purpose": "Interim Dividend - Rs. - 2.0000",
+      "BCRD_FROM": "",
+      "BCRD_TO": "",
+      "ND_START_DATE": "12 Oct 2026",
+      "ND_END_DATE": "16 Oct 2026",
+      "payment_date": "",
+      "latest_price": 219.75,
+      "dividend_per_share": 2,
+      "dividend_yield": 0.91
     },
     {
       "scrip_code": "543235",
@@ -104,7 +74,7 @@
       "ND_START_DATE": "",
       "ND_END_DATE": "",
       "payment_date": "",
-      "latest_price": 295.1,
+      "latest_price": 292,
       "dividend_per_share": null,
       "dividend_yield": 0
     },
@@ -119,7 +89,7 @@
       "ND_START_DATE": "",
       "ND_END_DATE": "",
       "payment_date": "",
-      "latest_price": 74.15,
+      "latest_price": 74.85,
       "dividend_per_share": null,
       "dividend_yield": 0
     },
@@ -134,7 +104,7 @@
       "ND_START_DATE": "",
       "ND_END_DATE": "",
       "payment_date": "",
-      "latest_price": 3908.5,
+      "latest_price": 4065.15,
       "dividend_per_share": null,
       "dividend_yield": 0
     }
