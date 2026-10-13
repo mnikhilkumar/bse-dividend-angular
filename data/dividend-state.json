@@ -29,7 +29,7 @@
       "record_date": "22-Oct-2026",
       "purpose": "Interim Dividend",
       "dividend_per_share": null,
-      "latest_price": 301.6,
+      "latest_price": 303.5,
       "dividend_yield": 0,
       "first_seen": "06-Oct-2026 02:19:29 pm"
     },
@@ -40,7 +40,7 @@
       "record_date": "23-Oct-2026",
       "purpose": "Interim Dividend",
       "dividend_per_share": null,
-      "latest_price": 77.45,
+      "latest_price": 79.17,
       "dividend_yield": 0,
       "first_seen": "07-Oct-2026 05:09:30 pm"
     },
@@ -51,8 +51,8 @@
       "record_date": "14-Oct-2026",
       "purpose": "Interim Dividend - Rs. - 12.0000",
       "dividend_per_share": 12,
-      "latest_price": 2126.9,
-      "dividend_yield": 0.56,
+      "latest_price": 2235.9,
+      "dividend_yield": 0.54,
       "first_seen": "08-Oct-2026 04:43:08 pm"
     },
     "500295|14 Oct 2026|Interim Dividend - Rs. - 5.0000": {
@@ -62,8 +62,8 @@
       "record_date": "14-Oct-2026",
       "purpose": "Interim Dividend - Rs. - 5.0000",
       "dividend_per_share": 5,
-      "latest_price": 264.75,
-      "dividend_yield": 1.89,
+      "latest_price": 257.3,
+      "dividend_yield": 1.94,
       "first_seen": "08-Oct-2026 04:43:08 pm"
     },
     "543415|15 Oct 2026|Interim Dividend": {
@@ -84,7 +84,7 @@
       "record_date": "23-Oct-2026",
       "purpose": "Interim Dividend",
       "dividend_per_share": null,
-      "latest_price": 4033.85,
+      "latest_price": 4121.35,
       "dividend_yield": 0,
       "first_seen": "09-Oct-2026 01:38:01 am"
     },
@@ -95,7 +95,7 @@
       "record_date": "15-Oct-2026",
       "purpose": "Interim Dividend - Rs. - 4.0000",
       "dividend_per_share": 4,
-      "latest_price": 2089.95,
+      "latest_price": 2098.4,
       "dividend_yield": 0.19,
       "first_seen": "10-Oct-2026 05:35:04 pm"
     },
@@ -106,10 +106,43 @@
       "record_date": "16-Oct-2026",
       "purpose": "Interim Dividend - Rs. - 2.0000",
       "dividend_per_share": 2,
-      "latest_price": 220.4,
-      "dividend_yield": 0.91,
+      "latest_price": 222.35,
+      "dividend_yield": 0.9,
       "first_seen": "10-Oct-2026 05:35:04 pm"
+    },
+    "532281|16 Oct 2026|Interim Dividend - Rs. - 12.0000": {
+      "scrip_code": "532281",
+      "short_name": "HCLTECH",
+      "long_name": "HCL Technologies Ltd",
+      "record_date": "16-Oct-2026",
+      "purpose": "Interim Dividend - Rs. - 12.0000",
+      "dividend_per_share": 12,
+      "latest_price": 1287.95,
+      "dividend_yield": 0.93,
+      "first_seen": "13-Oct-2026 04:58:03 am"
+    },
+    "509635|16 Oct 2026|Special Dividend - Rs. - 21.0000": {
+      "scrip_code": "509635",
+      "short_name": "HINDCOMPOS",
+      "long_name": "Hindustan Composites Ltd",
+      "record_date": "16-Oct-2026",
+      "purpose": "Special Dividend - Rs. - 21.0000",
+      "dividend_per_share": 21,
+      "latest_price": 429.25,
+      "dividend_yield": 4.89,
+      "first_seen": "13-Oct-2026 04:58:03 am"
+    },
+    "544658|21 Oct 2026|Interim Dividend - Rs. - 30.0000": {
+      "scrip_code": "544658",
+      "short_name": "ICICIAMC",
+      "long_name": "ICICI Prudential Asset Management Company Ltd",
+      "record_date": "21-Oct-2026",
+      "purpose": "Interim Dividend - Rs. - 30.0000",
+      "dividend_per_share": 30,
+      "latest_price": 2975.15,
+      "dividend_yield": 1.01,
+      "first_seen": "13-Oct-2026 04:58:03 am"
     }
   },
-  "last_checked": "12-Oct-2026 11:42:17 pm"
+  "last_checked": "13-Oct-2026 04:58:03 am"
 }

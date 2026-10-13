@@ -1,7 +1,7 @@
 {
-  "fetched_at": "12-Oct-2026 11:42:17 pm",
-  "from_date": "20261012",
-  "to_date": "20261211",
+  "fetched_at": "13-Oct-2026 04:58:03 am",
+  "from_date": "20261013",
+  "to_date": "20261212",
   "data": [
     {
       "scrip_code": "532540",
@@ -14,9 +14,9 @@
       "ND_START_DATE": "13 Oct 2026",
       "ND_END_DATE": "14 Oct 2026",
       "payment_date": "",
-      "latest_price": 2126.9,
+      "latest_price": 2235.9,
       "dividend_per_share": 12,
-      "dividend_yield": 0.56
+      "dividend_yield": 0.54
     },
     {
       "scrip_code": "500295",
@@ -29,9 +29,9 @@
       "ND_START_DATE": "13 Oct 2026",
       "ND_END_DATE": "14 Oct 2026",
       "payment_date": "",
-      "latest_price": 264.75,
+      "latest_price": 257.3,
       "dividend_per_share": 5,
-      "dividend_yield": 1.89
+      "dividend_yield": 1.94
     },
     {
       "scrip_code": "543415",
@@ -44,7 +44,7 @@
       "ND_START_DATE": "13 Oct 2026",
       "ND_END_DATE": "15 Oct 2026",
       "payment_date": "",
-      "latest_price": 2089.95,
+      "latest_price": 2098.4,
       "dividend_per_share": 4,
       "dividend_yield": 0.19
     },
@@ -59,9 +59,54 @@
       "ND_START_DATE": "13 Oct 2026",
       "ND_END_DATE": "16 Oct 2026",
       "payment_date": "",
-      "latest_price": 220.4,
+      "latest_price": 222.35,
       "dividend_per_share": 2,
-      "dividend_yield": 0.91
+      "dividend_yield": 0.9
+    },
+    {
+      "scrip_code": "532281",
+      "short_name": "HCLTECH",
+      "long_name": "HCL Technologies Ltd",
+      "RD_Date": "16 Oct 2026",
+      "Purpose": "Interim Dividend - Rs. - 12.0000",
+      "BCRD_FROM": "",
+      "BCRD_TO": "",
+      "ND_START_DATE": "13 Oct 2026",
+      "ND_END_DATE": "16 Oct 2026",
+      "payment_date": "",
+      "latest_price": 1287.95,
+      "dividend_per_share": 12,
+      "dividend_yield": 0.93
+    },
+    {
+      "scrip_code": "509635",
+      "short_name": "HINDCOMPOS",
+      "long_name": "Hindustan Composites Ltd",
+      "RD_Date": "16 Oct 2026",
+      "Purpose": "Special Dividend - Rs. - 21.0000",
+      "BCRD_FROM": "",
+      "BCRD_TO": "",
+      "ND_START_DATE": "13 Oct 2026",
+      "ND_END_DATE": "16 Oct 2026",
+      "payment_date": "",
+      "latest_price": 429.25,
+      "dividend_per_share": 21,
+      "dividend_yield": 4.89
+    },
+    {
+      "scrip_code": "544658",
+      "short_name": "ICICIAMC",
+      "long_name": "ICICI Prudential Asset Management Company Ltd",
+      "RD_Date": "21 Oct 2026",
+      "Purpose": "Interim Dividend - Rs. - 30.0000",
+      "BCRD_FROM": "",
+      "BCRD_TO": "",
+      "ND_START_DATE": "",
+      "ND_END_DATE": "",
+      "payment_date": "",
+      "latest_price": 2975.15,
+      "dividend_per_share": 30,
+      "dividend_yield": 1.01
     },
     {
       "scrip_code": "543235",
@@ -74,7 +119,7 @@
       "ND_START_DATE": "",
       "ND_END_DATE": "",
       "payment_date": "",
-      "latest_price": 301.6,
+      "latest_price": 303.5,
       "dividend_per_share": null,
       "dividend_yield": 0
     },
@@ -89,7 +134,7 @@
       "ND_START_DATE": "",
       "ND_END_DATE": "",
       "payment_date": "",
-      "latest_price": 77.45,
+      "latest_price": 79.17,
       "dividend_per_share": null,
       "dividend_yield": 0
     },
@@ -104,7 +149,7 @@
       "ND_START_DATE": "",
       "ND_END_DATE": "",
       "payment_date": "",
-      "latest_price": 4033.85,
+      "latest_price": 4121.35,
       "dividend_per_share": null,
       "dividend_yield": 0
     }
