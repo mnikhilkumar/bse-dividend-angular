@@ -197,7 +197,40 @@
       "latest_price": 696,
       "dividend_yield": 0,
       "first_seen": "14-Oct-2026 01:14:30 pm"
+    },
+    "505700|21 Oct 2026|Interim Dividend - Rs. - 0.5000": {
+      "scrip_code": "505700",
+      "short_name": "ELECON",
+      "long_name": "Elecon Engineering Company Ltd",
+      "record_date": "21-Oct-2026",
+      "purpose": "Interim Dividend - Rs. - 0.5000",
+      "dividend_per_share": 0.5,
+      "latest_price": 486.75,
+      "dividend_yield": 0.1,
+      "first_seen": "14-Oct-2026 06:06:34 pm"
+    },
+    "544429|23 Oct 2026|Interim Dividend - Rs. - 2.0000": {
+      "scrip_code": "544429",
+      "short_name": "HDBFS",
+      "long_name": "HDB Financial Services Ltd",
+      "record_date": "23-Oct-2026",
+      "purpose": "Interim Dividend - Rs. - 2.0000",
+      "dividend_per_share": 2,
+      "latest_price": 583.55,
+      "dividend_yield": 0.34,
+      "first_seen": "14-Oct-2026 06:06:34 pm"
+    },
+    "540716|23 Oct 2026|Interim Dividend - Rs. - 7.0000": {
+      "scrip_code": "540716",
+      "short_name": "ICICIGI",
+      "long_name": "ICICI Lombard General Insurance Company Ltd",
+      "record_date": "23-Oct-2026",
+      "purpose": "Interim Dividend - Rs. - 7.0000",
+      "dividend_per_share": 7,
+      "latest_price": 1715.7,
+      "dividend_yield": 0.41,
+      "first_seen": "14-Oct-2026 06:06:34 pm"
     }
   },
-  "last_checked": "14-Oct-2026 01:14:30 pm"
+  "last_checked": "14-Oct-2026 06:06:34 pm"
 }
