@@ -1,5 +1,5 @@
 {
-  "fetched_at": "14-Oct-2026 07:52:27 am",
+  "fetched_at": "14-Oct-2026 01:14:30 pm",
   "from_date": "20261014",
   "to_date": "20261213",
   "data": [
@@ -14,7 +14,7 @@
       "ND_START_DATE": "14 Oct 2026",
       "ND_END_DATE": "14 Oct 2026",
       "payment_date": "",
-      "latest_price": 2296.35,
+      "latest_price": 2302,
       "dividend_per_share": 12,
       "dividend_yield": 0.52
     },
@@ -29,7 +29,7 @@
       "ND_START_DATE": "14 Oct 2026",
       "ND_END_DATE": "14 Oct 2026",
       "payment_date": "",
-      "latest_price": 250.75,
+      "latest_price": 250.8,
       "dividend_per_share": 5,
       "dividend_yield": 1.99
     },
@@ -41,10 +41,10 @@
       "Purpose": "Interim Dividend - Rs. - 4.0000",
       "BCRD_FROM": "",
       "BCRD_TO": "",
-      "ND_START_DATE": "14 Oct 2026",
+      "ND_START_DATE": "15 Oct 2026",
       "ND_END_DATE": "15 Oct 2026",
       "payment_date": "",
-      "latest_price": 2107.55,
+      "latest_price": 2122.55,
       "dividend_per_share": 4,
       "dividend_yield": 0.19
     },
@@ -56,12 +56,12 @@
       "Purpose": "Interim Dividend - Rs. - 2.0000",
       "BCRD_FROM": "",
       "BCRD_TO": "",
-      "ND_START_DATE": "14 Oct 2026",
+      "ND_START_DATE": "15 Oct 2026",
       "ND_END_DATE": "16 Oct 2026",
       "payment_date": "",
-      "latest_price": 223,
+      "latest_price": 224.55,
       "dividend_per_share": 2,
-      "dividend_yield": 0.9
+      "dividend_yield": 0.89
     },
     {
       "scrip_code": "532281",
@@ -71,12 +71,12 @@
       "Purpose": "Interim Dividend - Rs. - 12.0000",
       "BCRD_FROM": "",
       "BCRD_TO": "",
-      "ND_START_DATE": "14 Oct 2026",
+      "ND_START_DATE": "15 Oct 2026",
       "ND_END_DATE": "16 Oct 2026",
       "payment_date": "",
-      "latest_price": 1322,
+      "latest_price": 1329,
       "dividend_per_share": 12,
-      "dividend_yield": 0.91
+      "dividend_yield": 0.9
     },
     {
       "scrip_code": "509635",
@@ -86,12 +86,12 @@
       "Purpose": "Special Dividend - Rs. - 21.0000",
       "BCRD_FROM": "",
       "BCRD_TO": "",
-      "ND_START_DATE": "14 Oct 2026",
+      "ND_START_DATE": "15 Oct 2026",
       "ND_END_DATE": "16 Oct 2026",
       "payment_date": "",
-      "latest_price": 455,
+      "latest_price": 465.9,
       "dividend_per_share": 21,
-      "dividend_yield": 4.62
+      "dividend_yield": 4.51
     },
     {
       "scrip_code": "544658",
@@ -101,12 +101,12 @@
       "Purpose": "Interim Dividend - Rs. - 30.0000",
       "BCRD_FROM": "",
       "BCRD_TO": "",
-      "ND_START_DATE": "14 Oct 2026",
+      "ND_START_DATE": "15 Oct 2026",
       "ND_END_DATE": "21 Oct 2026",
       "payment_date": "",
-      "latest_price": 2929.8,
+      "latest_price": 2912.75,
       "dividend_per_share": 30,
-      "dividend_yield": 1.02
+      "dividend_yield": 1.03
     },
     {
       "scrip_code": "543235",
@@ -116,10 +116,10 @@
       "Purpose": "Interim Dividend",
       "BCRD_FROM": "",
       "BCRD_TO": "",
-      "ND_START_DATE": "",
-      "ND_END_DATE": "",
+      "ND_START_DATE": "15 Oct 2026",
+      "ND_END_DATE": "22 Oct 2026",
       "payment_date": "",
-      "latest_price": 304.7,
+      "latest_price": 305.6,
       "dividend_per_share": null,
       "dividend_yield": 0
     },
@@ -134,7 +134,7 @@
       "ND_START_DATE": "",
       "ND_END_DATE": "",
       "payment_date": "",
-      "latest_price": 79.54,
+      "latest_price": 79.75,
       "dividend_per_share": null,
       "dividend_yield": 0
     },
@@ -149,7 +149,82 @@
       "ND_START_DATE": "",
       "ND_END_DATE": "",
       "payment_date": "",
-      "latest_price": 4207.2,
+      "latest_price": 4230,
+      "dividend_per_share": null,
+      "dividend_yield": 0
+    },
+    {
+      "scrip_code": "500820",
+      "short_name": "ASIANPAINT",
+      "long_name": "Asian Paints Ltd",
+      "RD_Date": "04 Nov 2026",
+      "Purpose": "Interim Dividend",
+      "BCRD_FROM": "",
+      "BCRD_TO": "",
+      "ND_START_DATE": "",
+      "ND_END_DATE": "",
+      "payment_date": "",
+      "latest_price": 2349,
+      "dividend_per_share": null,
+      "dividend_yield": 0
+    },
+    {
+      "scrip_code": "532424",
+      "short_name": "GODREJCP",
+      "long_name": "Godrej Consumer Products Ltd",
+      "RD_Date": "04 Nov 2026",
+      "Purpose": "Interim Dividend",
+      "BCRD_FROM": "",
+      "BCRD_TO": "",
+      "ND_START_DATE": "",
+      "ND_END_DATE": "",
+      "payment_date": "",
+      "latest_price": 868,
+      "dividend_per_share": null,
+      "dividend_yield": 0
+    },
+    {
+      "scrip_code": "544262",
+      "short_name": "MANBA",
+      "long_name": "Manba Finance Ltd",
+      "RD_Date": "06 Nov 2026",
+      "Purpose": "Interim Dividend",
+      "BCRD_FROM": "",
+      "BCRD_TO": "",
+      "ND_START_DATE": "",
+      "ND_END_DATE": "",
+      "payment_date": "",
+      "latest_price": 140.15,
+      "dividend_per_share": null,
+      "dividend_yield": 0
+    },
+    {
+      "scrip_code": "543335",
+      "short_name": "APTUS",
+      "long_name": "Aptus Value Housing Finance India Ltd",
+      "RD_Date": "13 Nov 2026",
+      "Purpose": "Interim Dividend",
+      "BCRD_FROM": "",
+      "BCRD_TO": "",
+      "ND_START_DATE": "",
+      "ND_END_DATE": "",
+      "payment_date": "",
+      "latest_price": 221.4,
+      "dividend_per_share": null,
+      "dividend_yield": 0
+    },
+    {
+      "scrip_code": "543232",
+      "short_name": "CAMS",
+      "long_name": "Computer Age Management Services Ltd",
+      "RD_Date": "13 Nov 2026",
+      "Purpose": "Interim Dividend",
+      "BCRD_FROM": "",
+      "BCRD_TO": "",
+      "ND_START_DATE": "",
+      "ND_END_DATE": "",
+      "payment_date": "",
+      "latest_price": 696,
       "dividend_per_share": null,
       "dividend_yield": 0
     }

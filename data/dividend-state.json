@@ -29,7 +29,7 @@
       "record_date": "22-Oct-2026",
       "purpose": "Interim Dividend",
       "dividend_per_share": null,
-      "latest_price": 304.7,
+      "latest_price": 305.6,
       "dividend_yield": 0,
       "first_seen": "06-Oct-2026 02:19:29 pm"
     },
@@ -40,7 +40,7 @@
       "record_date": "23-Oct-2026",
       "purpose": "Interim Dividend",
       "dividend_per_share": null,
-      "latest_price": 79.54,
+      "latest_price": 79.75,
       "dividend_yield": 0,
       "first_seen": "07-Oct-2026 05:09:30 pm"
     },
@@ -51,7 +51,7 @@
       "record_date": "14-Oct-2026",
       "purpose": "Interim Dividend - Rs. - 12.0000",
       "dividend_per_share": 12,
-      "latest_price": 2296.35,
+      "latest_price": 2302,
       "dividend_yield": 0.52,
       "first_seen": "08-Oct-2026 04:43:08 pm"
     },
@@ -62,7 +62,7 @@
       "record_date": "14-Oct-2026",
       "purpose": "Interim Dividend - Rs. - 5.0000",
       "dividend_per_share": 5,
-      "latest_price": 250.75,
+      "latest_price": 250.8,
       "dividend_yield": 1.99,
       "first_seen": "08-Oct-2026 04:43:08 pm"
     },
@@ -84,7 +84,7 @@
       "record_date": "23-Oct-2026",
       "purpose": "Interim Dividend",
       "dividend_per_share": null,
-      "latest_price": 4207.2,
+      "latest_price": 4230,
       "dividend_yield": 0,
       "first_seen": "09-Oct-2026 01:38:01 am"
     },
@@ -95,7 +95,7 @@
       "record_date": "15-Oct-2026",
       "purpose": "Interim Dividend - Rs. - 4.0000",
       "dividend_per_share": 4,
-      "latest_price": 2107.55,
+      "latest_price": 2122.55,
       "dividend_yield": 0.19,
       "first_seen": "10-Oct-2026 05:35:04 pm"
     },
@@ -106,8 +106,8 @@
       "record_date": "16-Oct-2026",
       "purpose": "Interim Dividend - Rs. - 2.0000",
       "dividend_per_share": 2,
-      "latest_price": 223,
-      "dividend_yield": 0.9,
+      "latest_price": 224.55,
+      "dividend_yield": 0.89,
       "first_seen": "10-Oct-2026 05:35:04 pm"
     },
     "532281|16 Oct 2026|Interim Dividend - Rs. - 12.0000": {
@@ -117,8 +117,8 @@
       "record_date": "16-Oct-2026",
       "purpose": "Interim Dividend - Rs. - 12.0000",
       "dividend_per_share": 12,
-      "latest_price": 1322,
-      "dividend_yield": 0.91,
+      "latest_price": 1329,
+      "dividend_yield": 0.9,
       "first_seen": "13-Oct-2026 04:58:03 am"
     },
     "509635|16 Oct 2026|Special Dividend - Rs. - 21.0000": {
@@ -128,8 +128,8 @@
       "record_date": "16-Oct-2026",
       "purpose": "Special Dividend - Rs. - 21.0000",
       "dividend_per_share": 21,
-      "latest_price": 455,
-      "dividend_yield": 4.62,
+      "latest_price": 465.9,
+      "dividend_yield": 4.51,
       "first_seen": "13-Oct-2026 04:58:03 am"
     },
     "544658|21 Oct 2026|Interim Dividend - Rs. - 30.0000": {
@@ -139,10 +139,65 @@
       "record_date": "21-Oct-2026",
       "purpose": "Interim Dividend - Rs. - 30.0000",
       "dividend_per_share": 30,
-      "latest_price": 2929.8,
-      "dividend_yield": 1.02,
+      "latest_price": 2912.75,
+      "dividend_yield": 1.03,
       "first_seen": "13-Oct-2026 04:58:03 am"
+    },
+    "500820|04 Nov 2026|Interim Dividend": {
+      "scrip_code": "500820",
+      "short_name": "ASIANPAINT",
+      "long_name": "Asian Paints Ltd",
+      "record_date": "04-Nov-2026",
+      "purpose": "Interim Dividend",
+      "dividend_per_share": null,
+      "latest_price": 2349,
+      "dividend_yield": 0,
+      "first_seen": "14-Oct-2026 01:14:30 pm"
+    },
+    "532424|04 Nov 2026|Interim Dividend": {
+      "scrip_code": "532424",
+      "short_name": "GODREJCP",
+      "long_name": "Godrej Consumer Products Ltd",
+      "record_date": "04-Nov-2026",
+      "purpose": "Interim Dividend",
+      "dividend_per_share": null,
+      "latest_price": 868,
+      "dividend_yield": 0,
+      "first_seen": "14-Oct-2026 01:14:30 pm"
+    },
+    "544262|06 Nov 2026|Interim Dividend": {
+      "scrip_code": "544262",
+      "short_name": "MANBA",
+      "long_name": "Manba Finance Ltd",
+      "record_date": "06-Nov-2026",
+      "purpose": "Interim Dividend",
+      "dividend_per_share": null,
+      "latest_price": 140.15,
+      "dividend_yield": 0,
+      "first_seen": "14-Oct-2026 01:14:30 pm"
+    },
+    "543335|13 Nov 2026|Interim Dividend": {
+      "scrip_code": "543335",
+      "short_name": "APTUS",
+      "long_name": "Aptus Value Housing Finance India Ltd",
+      "record_date": "13-Nov-2026",
+      "purpose": "Interim Dividend",
+      "dividend_per_share": null,
+      "latest_price": 221.4,
+      "dividend_yield": 0,
+      "first_seen": "14-Oct-2026 01:14:30 pm"
+    },
+    "543232|13 Nov 2026|Interim Dividend": {
+      "scrip_code": "543232",
+      "short_name": "CAMS",
+      "long_name": "Computer Age Management Services Ltd",
+      "record_date": "13-Nov-2026",
+      "purpose": "Interim Dividend",
+      "dividend_per_share": null,
+      "latest_price": 696,
+      "dividend_yield": 0,
+      "first_seen": "14-Oct-2026 01:14:30 pm"
     }
   },
-  "last_checked": "14-Oct-2026 07:52:27 am"
+  "last_checked": "14-Oct-2026 01:14:30 pm"
 }
