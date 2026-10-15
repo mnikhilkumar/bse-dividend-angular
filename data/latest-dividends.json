@@ -1,38 +1,8 @@
 {
-  "fetched_at": "14-Oct-2026 09:51:40 pm",
-  "from_date": "20261014",
-  "to_date": "20261213",
+  "fetched_at": "15-Oct-2026 12:14:49 am",
+  "from_date": "20261015",
+  "to_date": "20261214",
   "data": [
-    {
-      "scrip_code": "532540",
-      "short_name": "TCS",
-      "long_name": "Tata Consultancy Services Ltd",
-      "RD_Date": "14 Oct 2026",
-      "Purpose": "Interim Dividend - Rs. - 12.0000",
-      "BCRD_FROM": "",
-      "BCRD_TO": "",
-      "ND_START_DATE": "14 Oct 2026",
-      "ND_END_DATE": "14 Oct 2026",
-      "payment_date": "",
-      "latest_price": 2302,
-      "dividend_per_share": 12,
-      "dividend_yield": 0.52
-    },
-    {
-      "scrip_code": "500295",
-      "short_name": "VEDL",
-      "long_name": "Vedanta Ltd",
-      "RD_Date": "14 Oct 2026",
-      "Purpose": "Interim Dividend - Rs. - 5.0000",
-      "BCRD_FROM": "",
-      "BCRD_TO": "",
-      "ND_START_DATE": "14 Oct 2026",
-      "ND_END_DATE": "14 Oct 2026",
-      "payment_date": "",
-      "latest_price": 250.8,
-      "dividend_per_share": 5,
-      "dividend_yield": 1.99
-    },
     {
       "scrip_code": "543415",
       "short_name": "ANANDRATHI",
