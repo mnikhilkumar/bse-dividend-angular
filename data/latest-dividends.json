@@ -1,23 +1,8 @@
 {
-  "fetched_at": "15-Oct-2026 09:54:04 pm",
-  "from_date": "20261015",
-  "to_date": "20261214",
+  "fetched_at": "16-Oct-2026 12:00:23 am",
+  "from_date": "20261016",
+  "to_date": "20261215",
   "data": [
-    {
-      "scrip_code": "543415",
-      "short_name": "ANANDRATHI",
-      "long_name": "Anand Rathi Wealth Ltd",
-      "RD_Date": "15 Oct 2026",
-      "Purpose": "Interim Dividend - Rs. - 4.0000",
-      "BCRD_FROM": "",
-      "BCRD_TO": "",
-      "ND_START_DATE": "15 Oct 2026",
-      "ND_END_DATE": "15 Oct 2026",
-      "payment_date": "",
-      "latest_price": 2142.45,
-      "dividend_per_share": 4,
-      "dividend_yield": 0.19
-    },
     {
       "scrip_code": "544580",
       "short_name": "CRAMC",

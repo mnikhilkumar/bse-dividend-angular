@@ -22,17 +22,6 @@
       "dividend_yield": 0,
       "first_seen": "07-Oct-2026 05:09:30 pm"
     },
-    "543415|15 Oct 2026|Interim Dividend": {
-      "scrip_code": "543415",
-      "short_name": "ANANDRATHI",
-      "long_name": "Anand Rathi Wealth Ltd",
-      "record_date": "15-Oct-2026",
-      "purpose": "Interim Dividend",
-      "dividend_per_share": null,
-      "latest_price": 2144,
-      "dividend_yield": 0,
-      "first_seen": "08-Oct-2026 04:43:08 pm"
-    },
     "540005|23 Oct 2026|Interim Dividend": {
       "scrip_code": "540005",
       "short_name": "LTM",
@@ -43,17 +32,6 @@
       "latest_price": 4250,
       "dividend_yield": 0,
       "first_seen": "09-Oct-2026 01:38:01 am"
-    },
-    "543415|15 Oct 2026|Interim Dividend - Rs. - 4.0000": {
-      "scrip_code": "543415",
-      "short_name": "ANANDRATHI",
-      "long_name": "Anand Rathi Wealth Ltd",
-      "record_date": "15-Oct-2026",
-      "purpose": "Interim Dividend - Rs. - 4.0000",
-      "dividend_per_share": 4,
-      "latest_price": 2142.45,
-      "dividend_yield": 0.19,
-      "first_seen": "10-Oct-2026 05:35:04 pm"
     },
     "544580|16 Oct 2026|Interim Dividend - Rs. - 2.0000": {
       "scrip_code": "544580",
@@ -265,5 +243,5 @@
       "first_seen": "15-Oct-2026 02:36:15 pm"
     }
   },
-  "last_checked": "15-Oct-2026 09:54:04 pm"
+  "last_checked": "16-Oct-2026 12:00:23 am"
 }
