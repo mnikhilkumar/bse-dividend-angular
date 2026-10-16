@@ -1,5 +1,5 @@
 {
-  "fetched_at": "16-Oct-2026 12:00:23 am",
+  "fetched_at": "16-Oct-2026 04:13:02 am",
   "from_date": "20261016",
   "to_date": "20261215",
   "data": [
@@ -14,7 +14,7 @@
       "ND_START_DATE": "16 Oct 2026",
       "ND_END_DATE": "16 Oct 2026",
       "payment_date": "",
-      "latest_price": 223.15,
+      "latest_price": 221.7,
       "dividend_per_share": 2,
       "dividend_yield": 0.9
     },
@@ -29,7 +29,7 @@
       "ND_START_DATE": "16 Oct 2026",
       "ND_END_DATE": "16 Oct 2026",
       "payment_date": "",
-      "latest_price": 1363.3,
+      "latest_price": 1368.85,
       "dividend_per_share": 12,
       "dividend_yield": 0.88
     },
@@ -44,9 +44,9 @@
       "ND_START_DATE": "16 Oct 2026",
       "ND_END_DATE": "16 Oct 2026",
       "payment_date": "",
-      "latest_price": 477.9,
+      "latest_price": 435.8,
       "dividend_per_share": 21,
-      "dividend_yield": 4.39
+      "dividend_yield": 4.82
     },
     {
       "scrip_code": "505700",
@@ -59,7 +59,7 @@
       "ND_START_DATE": "16 Oct 2026",
       "ND_END_DATE": "21 Oct 2026",
       "payment_date": "",
-      "latest_price": 492.9,
+      "latest_price": 493.1,
       "dividend_per_share": 0.5,
       "dividend_yield": 0.1
     },
@@ -74,9 +74,9 @@
       "ND_START_DATE": "16 Oct 2026",
       "ND_END_DATE": "21 Oct 2026",
       "payment_date": "",
-      "latest_price": 2837.15,
+      "latest_price": 2857.6,
       "dividend_per_share": 30,
-      "dividend_yield": 1.06
+      "dividend_yield": 1.05
     },
     {
       "scrip_code": "500109",
@@ -89,9 +89,9 @@
       "ND_START_DATE": "16 Oct 2026",
       "ND_END_DATE": "21 Oct 2026",
       "payment_date": "",
-      "latest_price": 174.85,
+      "latest_price": 171.75,
       "dividend_per_share": 3,
-      "dividend_yield": 1.72
+      "dividend_yield": 1.75
     },
     {
       "scrip_code": "543235",
@@ -104,7 +104,7 @@
       "ND_START_DATE": "16 Oct 2026",
       "ND_END_DATE": "22 Oct 2026",
       "payment_date": "",
-      "latest_price": 312.1,
+      "latest_price": 307.75,
       "dividend_per_share": 1.4,
       "dividend_yield": 0.45
     },
@@ -119,9 +119,9 @@
       "ND_START_DATE": "16 Oct 2026",
       "ND_END_DATE": "22 Oct 2026",
       "payment_date": "",
-      "latest_price": 682.8,
+      "latest_price": 704.35,
       "dividend_per_share": 6.5,
-      "dividend_yield": 0.95
+      "dividend_yield": 0.92
     },
     {
       "scrip_code": "542772",
@@ -134,9 +134,24 @@
       "ND_START_DATE": "16 Oct 2026",
       "ND_END_DATE": "23 Oct 2026",
       "payment_date": "",
-      "latest_price": 1072,
+      "latest_price": 1072.1,
       "dividend_per_share": 7.5,
       "dividend_yield": 0.7
+    },
+    {
+      "scrip_code": "542670",
+      "short_name": "AEPL",
+      "long_name": "Artemis Electricals and Projects Ltd",
+      "RD_Date": "23 Oct 2026",
+      "Purpose": "Interim Dividend - Rs. - 0.0060",
+      "BCRD_FROM": "",
+      "BCRD_TO": "",
+      "ND_START_DATE": "16 Oct 2026",
+      "ND_END_DATE": "23 Oct 2026",
+      "payment_date": "",
+      "latest_price": 14.8,
+      "dividend_per_share": 0.006,
+      "dividend_yield": 0.04
     },
     {
       "scrip_code": "544271",
@@ -149,7 +164,7 @@
       "ND_START_DATE": "16 Oct 2026",
       "ND_END_DATE": "23 Oct 2026",
       "payment_date": "",
-      "latest_price": 165,
+      "latest_price": 164.85,
       "dividend_per_share": 0.03,
       "dividend_yield": 0.02
     },
@@ -164,9 +179,9 @@
       "ND_START_DATE": "16 Oct 2026",
       "ND_END_DATE": "23 Oct 2026",
       "payment_date": "",
-      "latest_price": 538.6,
+      "latest_price": 525,
       "dividend_per_share": 2,
-      "dividend_yield": 0.37
+      "dividend_yield": 0.38
     },
     {
       "scrip_code": "540716",
@@ -179,9 +194,9 @@
       "ND_START_DATE": "16 Oct 2026",
       "ND_END_DATE": "23 Oct 2026",
       "payment_date": "",
-      "latest_price": 1689.75,
+      "latest_price": 1677.2,
       "dividend_per_share": 7,
-      "dividend_yield": 0.41
+      "dividend_yield": 0.42
     },
     {
       "scrip_code": "543257",
@@ -194,9 +209,9 @@
       "ND_START_DATE": "16 Oct 2026",
       "ND_END_DATE": "23 Oct 2026",
       "payment_date": "",
-      "latest_price": 79,
+      "latest_price": 78.1,
       "dividend_per_share": 1.15,
-      "dividend_yield": 1.46
+      "dividend_yield": 1.47
     },
     {
       "scrip_code": "540005",
@@ -209,7 +224,7 @@
       "ND_START_DATE": "16 Oct 2026",
       "ND_END_DATE": "23 Oct 2026",
       "payment_date": "",
-      "latest_price": 4250,
+      "latest_price": 4285.35,
       "dividend_per_share": null,
       "dividend_yield": 0
     },
@@ -224,9 +239,9 @@
       "ND_START_DATE": "16 Oct 2026",
       "ND_END_DATE": "23 Oct 2026",
       "payment_date": "",
-      "latest_price": 1648.7,
+      "latest_price": 1740.75,
       "dividend_per_share": 15,
-      "dividend_yield": 0.91
+      "dividend_yield": 0.86
     },
     {
       "scrip_code": "500820",
@@ -239,7 +254,7 @@
       "ND_START_DATE": "",
       "ND_END_DATE": "",
       "payment_date": "",
-      "latest_price": 2356.5,
+      "latest_price": 2335,
       "dividend_per_share": null,
       "dividend_yield": 0
     },
@@ -254,7 +269,7 @@
       "ND_START_DATE": "",
       "ND_END_DATE": "",
       "payment_date": "",
-      "latest_price": 864.7,
+      "latest_price": 850,
       "dividend_per_share": null,
       "dividend_yield": 0
     },
@@ -269,7 +284,7 @@
       "ND_START_DATE": "",
       "ND_END_DATE": "",
       "payment_date": "",
-      "latest_price": 140.1,
+      "latest_price": 143,
       "dividend_per_share": null,
       "dividend_yield": 0
     },
@@ -284,7 +299,7 @@
       "ND_START_DATE": "",
       "ND_END_DATE": "",
       "payment_date": "",
-      "latest_price": 224.25,
+      "latest_price": 223.5,
       "dividend_per_share": null,
       "dividend_yield": 0
     },
@@ -299,7 +314,7 @@
       "ND_START_DATE": "",
       "ND_END_DATE": "",
       "payment_date": "",
-      "latest_price": 704.2,
+      "latest_price": 704.65,
       "dividend_per_share": null,
       "dividend_yield": 0
     }
