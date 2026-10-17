@@ -33,39 +33,6 @@
       "dividend_yield": 0,
       "first_seen": "09-Oct-2026 01:38:01 am"
     },
-    "544580|16 Oct 2026|Interim Dividend - Rs. - 2.0000": {
-      "scrip_code": "544580",
-      "short_name": "CRAMC",
-      "long_name": "Canara Robeco Asset Management Company Ltd",
-      "record_date": "16-Oct-2026",
-      "purpose": "Interim Dividend - Rs. - 2.0000",
-      "dividend_per_share": 2,
-      "latest_price": 226.65,
-      "dividend_yield": 0.88,
-      "first_seen": "10-Oct-2026 05:35:04 pm"
-    },
-    "532281|16 Oct 2026|Interim Dividend - Rs. - 12.0000": {
-      "scrip_code": "532281",
-      "short_name": "HCLTECH",
-      "long_name": "HCL Technologies Ltd",
-      "record_date": "16-Oct-2026",
-      "purpose": "Interim Dividend - Rs. - 12.0000",
-      "dividend_per_share": 12,
-      "latest_price": 1378,
-      "dividend_yield": 0.87,
-      "first_seen": "13-Oct-2026 04:58:03 am"
-    },
-    "509635|16 Oct 2026|Special Dividend - Rs. - 21.0000": {
-      "scrip_code": "509635",
-      "short_name": "HINDCOMPOS",
-      "long_name": "Hindustan Composites Ltd",
-      "record_date": "16-Oct-2026",
-      "purpose": "Special Dividend - Rs. - 21.0000",
-      "dividend_per_share": 21,
-      "latest_price": 439.65,
-      "dividend_yield": 4.78,
-      "first_seen": "13-Oct-2026 04:58:03 am"
-    },
     "544658|21 Oct 2026|Interim Dividend - Rs. - 30.0000": {
       "scrip_code": "544658",
       "short_name": "ICICIAMC",
@@ -298,5 +265,5 @@
       "first_seen": "16-Oct-2026 02:05:34 pm"
     }
   },
-  "last_checked": "16-Oct-2026 11:46:24 pm"
+  "last_checked": "17-Oct-2026 02:32:47 am"
 }
