@@ -1,5 +1,5 @@
 {
-  "fetched_at": "17-Oct-2026 11:42:28 am",
+  "fetched_at": "17-Oct-2026 02:47:45 pm",
   "from_date": "20261017",
   "to_date": "20261216",
   "data": [
@@ -186,7 +186,7 @@
     {
       "scrip_code": "506261",
       "short_name": "MODISONLTD",
-      "long_name": "Modison Ltd-$",
+      "long_name": "Modison Ltd",
       "RD_Date": "23 Oct 2026",
       "Purpose": "Interim Dividend - Rs. - 4.0000",
       "BCRD_FROM": "",
