@@ -1,5 +1,5 @@
 {
-  "fetched_at": "19-Oct-2026 02:14:59 pm",
+  "fetched_at": "19-Oct-2026 08:02:07 pm",
   "from_date": "20261019",
   "to_date": "20261218",
   "data": [
@@ -111,7 +111,7 @@
     {
       "scrip_code": "500052",
       "short_name": "BEPL",
-      "long_name": "Bhansali Engineering Polymers Ltd-$",
+      "long_name": "Bhansali Engineering Polymers Ltd",
       "RD_Date": "24 Oct 2026",
       "Purpose": "Interim Dividend - Rs. - 1.0000",
       "BCRD_FROM": "",
@@ -201,7 +201,7 @@
     {
       "scrip_code": "506261",
       "short_name": "MODISONLTD",
-      "long_name": "Modison Ltd-$",
+      "long_name": "Modison Ltd",
       "RD_Date": "23 Oct 2026",
       "Purpose": "Interim Dividend - Rs. - 4.0000",
       "BCRD_FROM": "",
@@ -257,6 +257,21 @@
       "latest_price": 3609.8,
       "dividend_per_share": 20,
       "dividend_yield": 0.55
+    },
+    {
+      "scrip_code": "523367",
+      "short_name": "DCMSHRIRAM",
+      "long_name": "DCM Shriram Ltd",
+      "RD_Date": "30 Oct 2026",
+      "Purpose": "Interim Dividend",
+      "BCRD_FROM": "",
+      "BCRD_TO": "",
+      "ND_START_DATE": "",
+      "ND_END_DATE": "",
+      "payment_date": "",
+      "latest_price": 1000.4,
+      "dividend_per_share": null,
+      "dividend_yield": 0
     },
     {
       "scrip_code": "543228",
@@ -315,6 +330,21 @@
       "ND_END_DATE": "",
       "payment_date": "",
       "latest_price": 143.6,
+      "dividend_per_share": null,
+      "dividend_yield": 0
+    },
+    {
+      "scrip_code": "538646",
+      "short_name": "QGO",
+      "long_name": "QGO Finance Ltd",
+      "RD_Date": "06 Nov 2026",
+      "Purpose": "Interim Dividend",
+      "BCRD_FROM": "",
+      "BCRD_TO": "",
+      "ND_START_DATE": "",
+      "ND_END_DATE": "",
+      "payment_date": "",
+      "latest_price": 40.52,
       "dividend_per_share": null,
       "dividend_yield": 0
     },

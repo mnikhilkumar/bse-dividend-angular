@@ -285,7 +285,29 @@
       "latest_price": 3609.8,
       "dividend_yield": 0.55,
       "first_seen": "19-Oct-2026 02:14:59 pm"
+    },
+    "523367|30 Oct 2026|Interim Dividend": {
+      "scrip_code": "523367",
+      "short_name": "DCMSHRIRAM",
+      "long_name": "DCM Shriram Ltd",
+      "record_date": "30-Oct-2026",
+      "purpose": "Interim Dividend",
+      "dividend_per_share": null,
+      "latest_price": 1000.4,
+      "dividend_yield": 0,
+      "first_seen": "19-Oct-2026 08:02:07 pm"
+    },
+    "538646|06 Nov 2026|Interim Dividend": {
+      "scrip_code": "538646",
+      "short_name": "QGO",
+      "long_name": "QGO Finance Ltd",
+      "record_date": "06-Nov-2026",
+      "purpose": "Interim Dividend",
+      "dividend_per_share": null,
+      "latest_price": 40.52,
+      "dividend_yield": 0,
+      "first_seen": "19-Oct-2026 08:02:07 pm"
     }
   },
-  "last_checked": "19-Oct-2026 02:14:59 pm"
+  "last_checked": "19-Oct-2026 08:02:07 pm"
 }
