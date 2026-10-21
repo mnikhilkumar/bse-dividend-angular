@@ -40,7 +40,7 @@
       "record_date": "21-Oct-2026",
       "purpose": "Interim Dividend - Rs. - 30.0000",
       "dividend_per_share": 30,
-      "latest_price": 2725.6,
+      "latest_price": 2718.65,
       "dividend_yield": 1.1,
       "first_seen": "13-Oct-2026 04:58:03 am"
     },
@@ -62,7 +62,7 @@
       "record_date": "04-Nov-2026",
       "purpose": "Interim Dividend",
       "dividend_per_share": null,
-      "latest_price": 859,
+      "latest_price": 857.25,
       "dividend_yield": 0,
       "first_seen": "14-Oct-2026 01:14:30 pm"
     },
@@ -73,7 +73,7 @@
       "record_date": "06-Nov-2026",
       "purpose": "Interim Dividend",
       "dividend_per_share": null,
-      "latest_price": 143.6,
+      "latest_price": 143.7,
       "dividend_yield": 0,
       "first_seen": "14-Oct-2026 01:14:30 pm"
     },
@@ -84,7 +84,7 @@
       "record_date": "13-Nov-2026",
       "purpose": "Interim Dividend",
       "dividend_per_share": null,
-      "latest_price": 208.5,
+      "latest_price": 207.55,
       "dividend_yield": 0,
       "first_seen": "14-Oct-2026 01:14:30 pm"
     },
@@ -106,7 +106,7 @@
       "record_date": "21-Oct-2026",
       "purpose": "Interim Dividend - Rs. - 0.5000",
       "dividend_per_share": 0.5,
-      "latest_price": 430.6,
+      "latest_price": 433.7,
       "dividend_yield": 0.12,
       "first_seen": "14-Oct-2026 06:06:34 pm"
     },
@@ -117,7 +117,7 @@
       "record_date": "23-Oct-2026",
       "purpose": "Interim Dividend - Rs. - 2.0000",
       "dividend_per_share": 2,
-      "latest_price": 513.45,
+      "latest_price": 512.25,
       "dividend_yield": 0.39,
       "first_seen": "14-Oct-2026 06:06:34 pm"
     },
@@ -128,7 +128,7 @@
       "record_date": "23-Oct-2026",
       "purpose": "Interim Dividend - Rs. - 7.0000",
       "dividend_per_share": 7,
-      "latest_price": 1634.65,
+      "latest_price": 1637,
       "dividend_yield": 0.43,
       "first_seen": "14-Oct-2026 06:06:34 pm"
     },
@@ -139,7 +139,7 @@
       "record_date": "21-Oct-2026",
       "purpose": "Interim Dividend - Rs. - 3.0000",
       "dividend_per_share": 3,
-      "latest_price": 167.4,
+      "latest_price": 167.65,
       "dividend_yield": 1.79,
       "first_seen": "15-Oct-2026 04:57:31 am"
     },
@@ -161,8 +161,8 @@
       "record_date": "22-Oct-2026",
       "purpose": "Interim Dividend - Rs. - 6.5000",
       "dividend_per_share": 6.5,
-      "latest_price": 740,
-      "dividend_yield": 0.88,
+      "latest_price": 749.1,
+      "dividend_yield": 0.87,
       "first_seen": "15-Oct-2026 02:36:15 pm"
     },
     "542772|23 Oct 2026|Interim Dividend - Rs. - 7.5000": {
@@ -249,7 +249,7 @@
       "record_date": "23-Oct-2026",
       "purpose": "Interim Dividend - Rs. - 2.0000",
       "dividend_per_share": 2,
-      "latest_price": 1648.45,
+      "latest_price": 1644.2,
       "dividend_yield": 0.12,
       "first_seen": "16-Oct-2026 02:05:34 pm"
     },
@@ -260,7 +260,7 @@
       "record_date": "02-Nov-2026",
       "purpose": "Interim Dividend",
       "dividend_per_share": null,
-      "latest_price": 427.3,
+      "latest_price": 430.4,
       "dividend_yield": 0,
       "first_seen": "16-Oct-2026 02:05:34 pm"
     },
@@ -282,7 +282,7 @@
       "record_date": "27-Oct-2026",
       "purpose": "Interim Dividend - Rs. - 20.0000",
       "dividend_per_share": 20,
-      "latest_price": 3982.6,
+      "latest_price": 3998.05,
       "dividend_yield": 0.5,
       "first_seen": "19-Oct-2026 02:14:59 pm"
     },
@@ -293,7 +293,7 @@
       "record_date": "30-Oct-2026",
       "purpose": "Interim Dividend",
       "dividend_per_share": null,
-      "latest_price": 992.9,
+      "latest_price": 998.25,
       "dividend_yield": 0,
       "first_seen": "19-Oct-2026 08:02:07 pm"
     },
@@ -307,7 +307,29 @@
       "latest_price": 41.33,
       "dividend_yield": 0,
       "first_seen": "19-Oct-2026 08:02:07 pm"
+    },
+    "543265|30 Oct 2026|Interim Dividend": {
+      "scrip_code": "543265",
+      "short_name": "RAILTEL",
+      "long_name": "RailTel Corporation of India Ltd",
+      "record_date": "30-Oct-2026",
+      "purpose": "Interim Dividend",
+      "dividend_per_share": null,
+      "latest_price": 240.4,
+      "dividend_yield": 0,
+      "first_seen": "21-Oct-2026 03:27:54 pm"
+    },
+    "532663|03 Nov 2026|Interim Dividend": {
+      "scrip_code": "532663",
+      "short_name": "SASKEN",
+      "long_name": "Sasken Technologies Ltd",
+      "record_date": "03-Nov-2026",
+      "purpose": "Interim Dividend",
+      "dividend_per_share": null,
+      "latest_price": 1621.6,
+      "dividend_yield": 0,
+      "first_seen": "21-Oct-2026 03:27:54 pm"
     }
   },
-  "last_checked": "21-Oct-2026 10:24:32 am"
+  "last_checked": "21-Oct-2026 03:27:54 pm"
 }
