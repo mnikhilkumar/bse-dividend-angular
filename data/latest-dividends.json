@@ -1,5 +1,5 @@
 {
-  "fetched_at": "22-Oct-2026 05:26:39 pm",
+  "fetched_at": "22-Oct-2026 08:41:59 pm",
   "from_date": "20261022",
   "to_date": "20261221",
   "data": [
@@ -66,7 +66,7 @@
     {
       "scrip_code": "500052",
       "short_name": "BEPL",
-      "long_name": "Bhansali Engineering Polymers Ltd",
+      "long_name": "Bhansali Engineering Polymers Ltd-$",
       "RD_Date": "24 Oct 2026",
       "Purpose": "Interim Dividend - Rs. - 1.0000",
       "BCRD_FROM": "",
@@ -156,7 +156,7 @@
     {
       "scrip_code": "506261",
       "short_name": "MODISONLTD",
-      "long_name": "Modison Ltd",
+      "long_name": "Modison Ltd-$",
       "RD_Date": "23 Oct 2026",
       "Purpose": "Interim Dividend - Rs. - 4.0000",
       "BCRD_FROM": "",
