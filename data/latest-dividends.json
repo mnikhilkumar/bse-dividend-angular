@@ -1,53 +1,8 @@
 {
-  "fetched_at": "21-Oct-2026 10:36:26 pm",
-  "from_date": "20261021",
-  "to_date": "20261220",
+  "fetched_at": "22-Oct-2026 01:08:40 am",
+  "from_date": "20261022",
+  "to_date": "20261221",
   "data": [
-    {
-      "scrip_code": "505700",
-      "short_name": "ELECON",
-      "long_name": "Elecon Engineering Company Ltd",
-      "RD_Date": "21 Oct 2026",
-      "Purpose": "Interim Dividend - Rs. - 0.5000",
-      "BCRD_FROM": "",
-      "BCRD_TO": "",
-      "ND_START_DATE": "21 Oct 2026",
-      "ND_END_DATE": "21 Oct 2026",
-      "payment_date": "",
-      "latest_price": 433.7,
-      "dividend_per_share": 0.5,
-      "dividend_yield": 0.12
-    },
-    {
-      "scrip_code": "544658",
-      "short_name": "ICICIAMC",
-      "long_name": "ICICI Prudential Asset Management Company Ltd",
-      "RD_Date": "21 Oct 2026",
-      "Purpose": "Interim Dividend - Rs. - 30.0000",
-      "BCRD_FROM": "",
-      "BCRD_TO": "",
-      "ND_START_DATE": "21 Oct 2026",
-      "ND_END_DATE": "21 Oct 2026",
-      "payment_date": "",
-      "latest_price": 2718.65,
-      "dividend_per_share": 30,
-      "dividend_yield": 1.1
-    },
-    {
-      "scrip_code": "500109",
-      "short_name": "MRPL",
-      "long_name": "Mangalore Refinery and Petrochemicals Ltd",
-      "RD_Date": "21 Oct 2026",
-      "Purpose": "Interim Dividend - Rs. - 3.0000",
-      "BCRD_FROM": "",
-      "BCRD_TO": "",
-      "ND_START_DATE": "21 Oct 2026",
-      "ND_END_DATE": "21 Oct 2026",
-      "payment_date": "",
-      "latest_price": 167.65,
-      "dividend_per_share": 3,
-      "dividend_yield": 1.79
-    },
     {
       "scrip_code": "543235",
       "short_name": "ANGELONE",
@@ -111,7 +66,7 @@
     {
       "scrip_code": "500052",
       "short_name": "BEPL",
-      "long_name": "Bhansali Engineering Polymers Ltd-$",
+      "long_name": "Bhansali Engineering Polymers Ltd",
       "RD_Date": "24 Oct 2026",
       "Purpose": "Interim Dividend - Rs. - 1.0000",
       "BCRD_FROM": "",
@@ -201,7 +156,7 @@
     {
       "scrip_code": "506261",
       "short_name": "MODISONLTD",
-      "long_name": "Modison Ltd-$",
+      "long_name": "Modison Ltd",
       "RD_Date": "23 Oct 2026",
       "Purpose": "Interim Dividend - Rs. - 4.0000",
       "BCRD_FROM": "",
@@ -257,6 +212,21 @@
       "latest_price": 3998.05,
       "dividend_per_share": 20,
       "dividend_yield": 0.5
+    },
+    {
+      "scrip_code": "517041",
+      "short_name": "ADOR",
+      "long_name": "Ador Welding Ltd",
+      "RD_Date": "30 Oct 2026",
+      "Purpose": "Interim Dividend - Rs. - 7.5000",
+      "BCRD_FROM": "",
+      "BCRD_TO": "",
+      "ND_START_DATE": "",
+      "ND_END_DATE": "",
+      "payment_date": "",
+      "latest_price": 1439.3,
+      "dividend_per_share": 7.5,
+      "dividend_yield": 0.52
     },
     {
       "scrip_code": "523367",
@@ -345,6 +315,21 @@
       "ND_END_DATE": "",
       "payment_date": "",
       "latest_price": 857.25,
+      "dividend_per_share": null,
+      "dividend_yield": 0
+    },
+    {
+      "scrip_code": "532400",
+      "short_name": "BSOFT",
+      "long_name": "Birlasoft Ltd",
+      "RD_Date": "05 Nov 2026",
+      "Purpose": "Interim Dividend",
+      "BCRD_FROM": "",
+      "BCRD_TO": "",
+      "ND_START_DATE": "",
+      "ND_END_DATE": "",
+      "payment_date": "",
+      "latest_price": 315.65,
       "dividend_per_share": null,
       "dividend_yield": 0
     },

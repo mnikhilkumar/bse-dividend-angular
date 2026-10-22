@@ -33,17 +33,6 @@
       "dividend_yield": 0,
       "first_seen": "09-Oct-2026 01:38:01 am"
     },
-    "544658|21 Oct 2026|Interim Dividend - Rs. - 30.0000": {
-      "scrip_code": "544658",
-      "short_name": "ICICIAMC",
-      "long_name": "ICICI Prudential Asset Management Company Ltd",
-      "record_date": "21-Oct-2026",
-      "purpose": "Interim Dividend - Rs. - 30.0000",
-      "dividend_per_share": 30,
-      "latest_price": 2718.65,
-      "dividend_yield": 1.1,
-      "first_seen": "13-Oct-2026 04:58:03 am"
-    },
     "500820|04 Nov 2026|Interim Dividend": {
       "scrip_code": "500820",
       "short_name": "ASIANPAINT",
@@ -99,17 +88,6 @@
       "dividend_yield": 0,
       "first_seen": "14-Oct-2026 01:14:30 pm"
     },
-    "505700|21 Oct 2026|Interim Dividend - Rs. - 0.5000": {
-      "scrip_code": "505700",
-      "short_name": "ELECON",
-      "long_name": "Elecon Engineering Company Ltd",
-      "record_date": "21-Oct-2026",
-      "purpose": "Interim Dividend - Rs. - 0.5000",
-      "dividend_per_share": 0.5,
-      "latest_price": 433.7,
-      "dividend_yield": 0.12,
-      "first_seen": "14-Oct-2026 06:06:34 pm"
-    },
     "544429|23 Oct 2026|Interim Dividend - Rs. - 2.0000": {
       "scrip_code": "544429",
       "short_name": "HDBFS",
@@ -131,17 +109,6 @@
       "latest_price": 1637,
       "dividend_yield": 0.43,
       "first_seen": "14-Oct-2026 06:06:34 pm"
-    },
-    "500109|21 Oct 2026|Interim Dividend - Rs. - 3.0000": {
-      "scrip_code": "500109",
-      "short_name": "MRPL",
-      "long_name": "Mangalore Refinery and Petrochemicals Ltd",
-      "record_date": "21-Oct-2026",
-      "purpose": "Interim Dividend - Rs. - 3.0000",
-      "dividend_per_share": 3,
-      "latest_price": 167.65,
-      "dividend_yield": 1.79,
-      "first_seen": "15-Oct-2026 04:57:31 am"
     },
     "543235|22 Oct 2026|Interim Dividend - Rs. - 1.4000": {
       "scrip_code": "543235",
@@ -329,7 +296,29 @@
       "latest_price": 1621.6,
       "dividend_yield": 0,
       "first_seen": "21-Oct-2026 03:27:54 pm"
+    },
+    "517041|30 Oct 2026|Interim Dividend - Rs. - 7.5000": {
+      "scrip_code": "517041",
+      "short_name": "ADOR",
+      "long_name": "Ador Welding Ltd",
+      "record_date": "30-Oct-2026",
+      "purpose": "Interim Dividend - Rs. - 7.5000",
+      "dividend_per_share": 7.5,
+      "latest_price": 1439.3,
+      "dividend_yield": 0.52,
+      "first_seen": "22-Oct-2026 01:08:40 am"
+    },
+    "532400|05 Nov 2026|Interim Dividend": {
+      "scrip_code": "532400",
+      "short_name": "BSOFT",
+      "long_name": "Birlasoft Ltd",
+      "record_date": "05-Nov-2026",
+      "purpose": "Interim Dividend",
+      "dividend_per_share": null,
+      "latest_price": 315.65,
+      "dividend_yield": 0,
+      "first_seen": "22-Oct-2026 01:08:40 am"
     }
   },
-  "last_checked": "21-Oct-2026 10:36:26 pm"
+  "last_checked": "22-Oct-2026 01:08:40 am"
 }
