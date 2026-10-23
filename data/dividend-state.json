@@ -1,16 +1,5 @@
 {
   "companies": {
-    "543235|22 Oct 2026|Interim Dividend": {
-      "scrip_code": "543235",
-      "short_name": "ANGELONE",
-      "long_name": "Angel One Ltd",
-      "record_date": "22-Oct-2026",
-      "purpose": "Interim Dividend",
-      "dividend_per_share": null,
-      "latest_price": 314.1,
-      "dividend_yield": 0,
-      "first_seen": "06-Oct-2026 02:19:29 pm"
-    },
     "543257|23 Oct 2026|Interim Dividend": {
       "scrip_code": "543257",
       "short_name": "IRFC",
@@ -109,28 +98,6 @@
       "latest_price": 1633.65,
       "dividend_yield": 0.43,
       "first_seen": "14-Oct-2026 06:06:34 pm"
-    },
-    "543235|22 Oct 2026|Interim Dividend - Rs. - 1.4000": {
-      "scrip_code": "543235",
-      "short_name": "ANGELONE",
-      "long_name": "Angel One Ltd",
-      "record_date": "22-Oct-2026",
-      "purpose": "Interim Dividend - Rs. - 1.4000",
-      "dividend_per_share": 1.4,
-      "latest_price": 291.5,
-      "dividend_yield": 0.48,
-      "first_seen": "15-Oct-2026 02:36:15 pm"
-    },
-    "532375|22 Oct 2026|Interim Dividend - Rs. - 6.5000": {
-      "scrip_code": "532375",
-      "short_name": "TIPSMUSIC",
-      "long_name": "Tips Music Ltd",
-      "record_date": "22-Oct-2026",
-      "purpose": "Interim Dividend - Rs. - 6.5000",
-      "dividend_per_share": 6.5,
-      "latest_price": 721.2,
-      "dividend_yield": 0.9,
-      "first_seen": "15-Oct-2026 02:36:15 pm"
     },
     "542772|23 Oct 2026|Interim Dividend - Rs. - 7.5000": {
       "scrip_code": "542772",
@@ -406,7 +373,29 @@
       "latest_price": 1215.5,
       "dividend_yield": 0,
       "first_seen": "22-Oct-2026 12:12:49 pm"
+    },
+    "544282|30 Oct 2026|Interim Dividend - Rs. - 0.1500": {
+      "scrip_code": "544282",
+      "short_name": "SAGILITY",
+      "long_name": "Sagility Ltd",
+      "record_date": "30-Oct-2026",
+      "purpose": "Interim Dividend - Rs. - 0.1500",
+      "dividend_per_share": 0.15,
+      "latest_price": 45.45,
+      "dividend_yield": 0.33,
+      "first_seen": "23-Oct-2026 02:55:03 am"
+    },
+    "513519|02 Nov 2026|Interim Dividend - Rs. - 2.0000": {
+      "scrip_code": "513519",
+      "short_name": "PITTIENG",
+      "long_name": "Pitti Engineering Ltd",
+      "record_date": "02-Nov-2026",
+      "purpose": "Interim Dividend - Rs. - 2.0000",
+      "dividend_per_share": 2,
+      "latest_price": 949.95,
+      "dividend_yield": 0.21,
+      "first_seen": "23-Oct-2026 02:55:03 am"
     }
   },
-  "last_checked": "22-Oct-2026 11:48:54 pm"
+  "last_checked": "23-Oct-2026 02:55:03 am"
 }

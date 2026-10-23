@@ -1,38 +1,8 @@
 {
-  "fetched_at": "22-Oct-2026 11:48:54 pm",
-  "from_date": "20261022",
-  "to_date": "20261221",
+  "fetched_at": "23-Oct-2026 02:55:03 am",
+  "from_date": "20261023",
+  "to_date": "20261222",
   "data": [
-    {
-      "scrip_code": "543235",
-      "short_name": "ANGELONE",
-      "long_name": "Angel One Ltd",
-      "RD_Date": "22 Oct 2026",
-      "Purpose": "Interim Dividend - Rs. - 1.4000",
-      "BCRD_FROM": "",
-      "BCRD_TO": "",
-      "ND_START_DATE": "22 Oct 2026",
-      "ND_END_DATE": "22 Oct 2026",
-      "payment_date": "",
-      "latest_price": 291.5,
-      "dividend_per_share": 1.4,
-      "dividend_yield": 0.48
-    },
-    {
-      "scrip_code": "532375",
-      "short_name": "TIPSMUSIC",
-      "long_name": "Tips Music Ltd",
-      "RD_Date": "22 Oct 2026",
-      "Purpose": "Interim Dividend - Rs. - 6.5000",
-      "BCRD_FROM": "",
-      "BCRD_TO": "",
-      "ND_START_DATE": "22 Oct 2026",
-      "ND_END_DATE": "22 Oct 2026",
-      "payment_date": "",
-      "latest_price": 721.2,
-      "dividend_per_share": 6.5,
-      "dividend_yield": 0.9
-    },
     {
       "scrip_code": "542772",
       "short_name": "360ONE",
@@ -319,6 +289,21 @@
       "dividend_yield": 0
     },
     {
+      "scrip_code": "544282",
+      "short_name": "SAGILITY",
+      "long_name": "Sagility Ltd",
+      "RD_Date": "30 Oct 2026",
+      "Purpose": "Interim Dividend - Rs. - 0.1500",
+      "BCRD_FROM": "",
+      "BCRD_TO": "",
+      "ND_START_DATE": "",
+      "ND_END_DATE": "",
+      "payment_date": "",
+      "latest_price": 45.45,
+      "dividend_per_share": 0.15,
+      "dividend_yield": 0.33
+    },
+    {
       "scrip_code": "500830",
       "short_name": "COLPAL",
       "long_name": "Colgate Palmolive (India) Ltd",
@@ -332,6 +317,21 @@
       "latest_price": 1685,
       "dividend_per_share": 24,
       "dividend_yield": 1.42
+    },
+    {
+      "scrip_code": "513519",
+      "short_name": "PITTIENG",
+      "long_name": "Pitti Engineering Ltd",
+      "RD_Date": "02 Nov 2026",
+      "Purpose": "Interim Dividend - Rs. - 2.0000",
+      "BCRD_FROM": "",
+      "BCRD_TO": "",
+      "ND_START_DATE": "",
+      "ND_END_DATE": "",
+      "payment_date": "",
+      "latest_price": 949.95,
+      "dividend_per_share": 2,
+      "dividend_yield": 0.21
     },
     {
       "scrip_code": "543228",
