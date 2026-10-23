@@ -1,5 +1,5 @@
 {
-  "fetched_at": "23-Oct-2026 01:40:40 pm",
+  "fetched_at": "23-Oct-2026 06:03:19 pm",
   "from_date": "20261023",
   "to_date": "20261222",
   "data": [
@@ -229,6 +229,21 @@
       "dividend_yield": 1.03
     },
     {
+      "scrip_code": "500092",
+      "short_name": "CRISIL",
+      "long_name": "Crisil Ltd",
+      "RD_Date": "29 Oct 2026",
+      "Purpose": "Interim Dividend - Rs. - 17.0000",
+      "BCRD_FROM": "",
+      "BCRD_TO": "",
+      "ND_START_DATE": "26 Oct 2026",
+      "ND_END_DATE": "29 Oct 2026",
+      "payment_date": "",
+      "latest_price": 4748.1,
+      "dividend_per_share": 17,
+      "dividend_yield": 0.36
+    },
+    {
       "scrip_code": "543599",
       "short_name": "KSOLVES",
       "long_name": "Ksolves India Ltd",
@@ -242,6 +257,21 @@
       "latest_price": 219.3,
       "dividend_per_share": 1,
       "dividend_yield": 0.46
+    },
+    {
+      "scrip_code": "511218",
+      "short_name": "SHRIRAMFIN",
+      "long_name": "Shriram Finance Ltd",
+      "RD_Date": "29 Oct 2026",
+      "Purpose": "Interim Dividend - Rs. - 6.5000",
+      "BCRD_FROM": "",
+      "BCRD_TO": "",
+      "ND_START_DATE": "26 Oct 2026",
+      "ND_END_DATE": "29 Oct 2026",
+      "payment_date": "",
+      "latest_price": 867,
+      "dividend_per_share": 6.5,
+      "dividend_yield": 0.75
     },
     {
       "scrip_code": "517041",
@@ -302,6 +332,21 @@
       "latest_price": 962.1,
       "dividend_per_share": null,
       "dividend_yield": 0
+    },
+    {
+      "scrip_code": "539724",
+      "short_name": "HYPERSOFT",
+      "long_name": "Hypersoft Technologies Ltd",
+      "RD_Date": "30 Oct 2026",
+      "Purpose": "Interim Dividend - Rs. - 0.2500",
+      "BCRD_FROM": "",
+      "BCRD_TO": "",
+      "ND_START_DATE": "26 Oct 2026",
+      "ND_END_DATE": "30 Oct 2026",
+      "payment_date": "",
+      "latest_price": 167.35,
+      "dividend_per_share": 0.25,
+      "dividend_yield": 0.15
     },
     {
       "scrip_code": "543265",
@@ -392,6 +437,21 @@
       "latest_price": 416.2,
       "dividend_per_share": null,
       "dividend_yield": 0
+    },
+    {
+      "scrip_code": "500209",
+      "short_name": "INFY",
+      "long_name": "Infosys Ltd",
+      "RD_Date": "03 Nov 2026",
+      "Purpose": "Interim Dividend - Rs. - 26.0000",
+      "BCRD_FROM": "",
+      "BCRD_TO": "",
+      "ND_START_DATE": "",
+      "ND_END_DATE": "",
+      "payment_date": "",
+      "latest_price": 1154.5,
+      "dividend_per_share": 26,
+      "dividend_yield": 2.25
     },
     {
       "scrip_code": "532663",
