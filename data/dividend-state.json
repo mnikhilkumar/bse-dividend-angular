@@ -340,7 +340,18 @@
       "latest_price": 1154.5,
       "dividend_yield": 2.25,
       "first_seen": "23-Oct-2026 06:03:19 pm"
+    },
+    "544140|06 Nov 2026|Interim Dividend": {
+      "scrip_code": "544140",
+      "short_name": "GOPAL",
+      "long_name": "Gopal Snacks Ltd",
+      "record_date": "06-Nov-2026",
+      "purpose": "Interim Dividend",
+      "dividend_per_share": null,
+      "latest_price": 243.1,
+      "dividend_yield": 0,
+      "first_seen": "24-Oct-2026 04:51:59 am"
     }
   },
-  "last_checked": "24-Oct-2026 12:10:26 am"
+  "last_checked": "24-Oct-2026 04:51:59 am"
 }

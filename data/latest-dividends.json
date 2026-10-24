@@ -1,5 +1,5 @@
 {
-  "fetched_at": "24-Oct-2026 12:10:26 am",
+  "fetched_at": "24-Oct-2026 04:51:59 am",
   "from_date": "20261024",
   "to_date": "20261223",
   "data": [
@@ -375,6 +375,21 @@
       "ND_END_DATE": "",
       "payment_date": "",
       "latest_price": 242.35,
+      "dividend_per_share": null,
+      "dividend_yield": 0
+    },
+    {
+      "scrip_code": "544140",
+      "short_name": "GOPAL",
+      "long_name": "Gopal Snacks Ltd",
+      "RD_Date": "06 Nov 2026",
+      "Purpose": "Interim Dividend",
+      "BCRD_FROM": "",
+      "BCRD_TO": "",
+      "ND_START_DATE": "",
+      "ND_END_DATE": "",
+      "payment_date": "",
+      "latest_price": 243.1,
       "dividend_per_share": null,
       "dividend_yield": 0
     },
