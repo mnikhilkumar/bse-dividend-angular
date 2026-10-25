@@ -1,7 +1,7 @@
 {
-  "fetched_at": "24-Oct-2026 11:55:37 pm",
-  "from_date": "20261024",
-  "to_date": "20261223",
+  "fetched_at": "25-Oct-2026 02:48:53 am",
+  "from_date": "20261025",
+  "to_date": "20261224",
   "data": [
     {
       "scrip_code": "544362",
@@ -216,7 +216,7 @@
     {
       "scrip_code": "513262",
       "short_name": "SSWL",
-      "long_name": "Steel Strips Wheels Ltd-$",
+      "long_name": "Steel Strips Wheels Ltd",
       "RD_Date": "30 Oct 2026",
       "Purpose": "Interim Dividend - Rs. - 1.5000",
       "BCRD_FROM": "",
@@ -246,7 +246,7 @@
     {
       "scrip_code": "513519",
       "short_name": "PITTIENG",
-      "long_name": "Pitti Engineering Ltd-$",
+      "long_name": "Pitti Engineering Ltd",
       "RD_Date": "02 Nov 2026",
       "Purpose": "Interim Dividend - Rs. - 2.0000",
       "BCRD_FROM": "",
