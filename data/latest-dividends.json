@@ -1,5 +1,5 @@
 {
-  "fetched_at": "27-Oct-2026 06:50:57 pm",
+  "fetched_at": "27-Oct-2026 10:48:07 pm",
   "from_date": "20261027",
   "to_date": "20261226",
   "data": [
@@ -261,7 +261,7 @@
     {
       "scrip_code": "503811",
       "short_name": "SIYSIL",
-      "long_name": "Siyaram Silk Mills Ltd",
+      "long_name": "Siyaram Silk Mills Ltd-$",
       "RD_Date": "31 Oct 2026",
       "Purpose": "Interim Dividend - Rs. - 4.0000",
       "BCRD_FROM": "",
@@ -306,7 +306,7 @@
     {
       "scrip_code": "513262",
       "short_name": "SSWL",
-      "long_name": "Steel Strips Wheels Ltd",
+      "long_name": "Steel Strips Wheels Ltd-$",
       "RD_Date": "30 Oct 2026",
       "Purpose": "Interim Dividend - Rs. - 1.5000",
       "BCRD_FROM": "",
@@ -366,7 +366,7 @@
     {
       "scrip_code": "513519",
       "short_name": "PITTIENG",
-      "long_name": "Pitti Engineering Ltd",
+      "long_name": "Pitti Engineering Ltd-$",
       "RD_Date": "02 Nov 2026",
       "Purpose": "Interim Dividend - Rs. - 2.0000",
       "BCRD_FROM": "",
@@ -546,7 +546,7 @@
     {
       "scrip_code": "505714",
       "short_name": "GABRIEL",
-      "long_name": "Gabriel India Ltd",
+      "long_name": "Gabriel India Ltd-$",
       "RD_Date": "06 Nov 2026",
       "Purpose": "Interim Dividend",
       "BCRD_FROM": "",
