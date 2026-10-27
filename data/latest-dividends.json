@@ -1,23 +1,8 @@
 {
-  "fetched_at": "26-Oct-2026 10:59:01 pm",
-  "from_date": "20261026",
-  "to_date": "20261225",
+  "fetched_at": "27-Oct-2026 01:53:10 am",
+  "from_date": "20261027",
+  "to_date": "20261226",
   "data": [
-    {
-      "scrip_code": "544362",
-      "short_name": "HEXT",
-      "long_name": "Hexaware Technologies Ltd",
-      "RD_Date": "26 Oct 2026",
-      "Purpose": "Interim Dividend - Rs. - 9.5000",
-      "BCRD_FROM": "",
-      "BCRD_TO": "",
-      "ND_START_DATE": "26 Oct 2026",
-      "ND_END_DATE": "26 Oct 2026",
-      "payment_date": "",
-      "latest_price": 592.3,
-      "dividend_per_share": 9.5,
-      "dividend_yield": 1.6
-    },
     {
       "scrip_code": "540115",
       "short_name": "LTTS",
@@ -62,6 +47,21 @@
       "latest_price": 919.6,
       "dividend_per_share": 9.5,
       "dividend_yield": 1.03
+    },
+    {
+      "scrip_code": "544739",
+      "short_name": "CMPDI",
+      "long_name": "Central Mine Planning & Design Institute Ltd",
+      "RD_Date": "29 Oct 2026",
+      "Purpose": "Interim Dividend - Rs. - 1.0500",
+      "BCRD_FROM": "",
+      "BCRD_TO": "",
+      "ND_START_DATE": "27 Oct 2026",
+      "ND_END_DATE": "29 Oct 2026",
+      "payment_date": "",
+      "latest_price": 183.6,
+      "dividend_per_share": 1.05,
+      "dividend_yield": 0.57
     },
     {
       "scrip_code": "500092",
@@ -188,15 +188,15 @@
       "short_name": "DCMSHRIRAM",
       "long_name": "DCM Shriram Ltd",
       "RD_Date": "30 Oct 2026",
-      "Purpose": "Interim Dividend",
+      "Purpose": "Interim Dividend - Rs. - 4.0000",
       "BCRD_FROM": "",
       "BCRD_TO": "",
       "ND_START_DATE": "27 Oct 2026",
       "ND_END_DATE": "30 Oct 2026",
       "payment_date": "",
       "latest_price": 969.05,
-      "dividend_per_share": null,
-      "dividend_yield": 0
+      "dividend_per_share": 4,
+      "dividend_yield": 0.41
     },
     {
       "scrip_code": "539724",
@@ -227,6 +227,21 @@
       "latest_price": 223.6,
       "dividend_per_share": 1,
       "dividend_yield": 0.45
+    },
+    {
+      "scrip_code": "532955",
+      "short_name": "RECLTD",
+      "long_name": "REC Ltd",
+      "RD_Date": "30 Oct 2026",
+      "Purpose": "Interim Dividend - Rs. - 3.5000",
+      "BCRD_FROM": "",
+      "BCRD_TO": "",
+      "ND_START_DATE": "27 Oct 2026",
+      "ND_END_DATE": "30 Oct 2026",
+      "payment_date": "",
+      "latest_price": 298,
+      "dividend_per_share": 3.5,
+      "dividend_yield": 1.17
     },
     {
       "scrip_code": "544282",
@@ -261,7 +276,7 @@
     {
       "scrip_code": "513262",
       "short_name": "SSWL",
-      "long_name": "Steel Strips Wheels Ltd-$",
+      "long_name": "Steel Strips Wheels Ltd",
       "RD_Date": "30 Oct 2026",
       "Purpose": "Interim Dividend - Rs. - 1.5000",
       "BCRD_FROM": "",
@@ -306,7 +321,7 @@
     {
       "scrip_code": "513519",
       "short_name": "PITTIENG",
-      "long_name": "Pitti Engineering Ltd-$",
+      "long_name": "Pitti Engineering Ltd",
       "RD_Date": "02 Nov 2026",
       "Purpose": "Interim Dividend - Rs. - 2.0000",
       "BCRD_FROM": "",
@@ -456,7 +471,7 @@
     {
       "scrip_code": "505714",
       "short_name": "GABRIEL",
-      "long_name": "Gabriel India Ltd-$",
+      "long_name": "Gabriel India Ltd",
       "RD_Date": "06 Nov 2026",
       "Purpose": "Interim Dividend",
       "BCRD_FROM": "",
@@ -518,13 +533,28 @@
       "short_name": "QGO",
       "long_name": "QGO Finance Ltd",
       "RD_Date": "06 Nov 2026",
-      "Purpose": "Interim Dividend",
+      "Purpose": "Interim Dividend - Rs. - 1.5000",
       "BCRD_FROM": "",
       "BCRD_TO": "",
       "ND_START_DATE": "",
       "ND_END_DATE": "",
       "payment_date": "",
       "latest_price": 41.3,
+      "dividend_per_share": 1.5,
+      "dividend_yield": 3.63
+    },
+    {
+      "scrip_code": "590051",
+      "short_name": "SAKSOFT",
+      "long_name": "Saksoft Ltd",
+      "RD_Date": "10 Nov 2026",
+      "Purpose": "Interim Dividend",
+      "BCRD_FROM": "",
+      "BCRD_TO": "",
+      "ND_START_DATE": "",
+      "ND_END_DATE": "",
+      "payment_date": "",
+      "latest_price": 131.25,
       "dividend_per_share": null,
       "dividend_yield": 0
     },

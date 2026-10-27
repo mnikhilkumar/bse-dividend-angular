@@ -143,17 +143,6 @@
       "dividend_yield": 0,
       "first_seen": "22-Oct-2026 01:08:40 am"
     },
-    "544362|26 Oct 2026|Interim Dividend - Rs. - 9.5000": {
-      "scrip_code": "544362",
-      "short_name": "HEXT",
-      "long_name": "Hexaware Technologies Ltd",
-      "record_date": "26-Oct-2026",
-      "purpose": "Interim Dividend - Rs. - 9.5000",
-      "dividend_per_share": 9.5,
-      "latest_price": 592.3,
-      "dividend_yield": 1.6,
-      "first_seen": "22-Oct-2026 12:12:49 pm"
-    },
     "532175|28 Oct 2026|Interim Dividend - Rs. - 12.0000": {
       "scrip_code": "532175",
       "short_name": "CYIENT",
@@ -428,7 +417,62 @@
       "latest_price": 521.3,
       "dividend_yield": 0,
       "first_seen": "26-Oct-2026 12:04:08 pm"
+    },
+    "544739|29 Oct 2026|Interim Dividend - Rs. - 1.0500": {
+      "scrip_code": "544739",
+      "short_name": "CMPDI",
+      "long_name": "Central Mine Planning & Design Institute Ltd",
+      "record_date": "29-Oct-2026",
+      "purpose": "Interim Dividend - Rs. - 1.0500",
+      "dividend_per_share": 1.05,
+      "latest_price": 183.6,
+      "dividend_yield": 0.57,
+      "first_seen": "27-Oct-2026 01:53:10 am"
+    },
+    "523367|30 Oct 2026|Interim Dividend - Rs. - 4.0000": {
+      "scrip_code": "523367",
+      "short_name": "DCMSHRIRAM",
+      "long_name": "DCM Shriram Ltd",
+      "record_date": "30-Oct-2026",
+      "purpose": "Interim Dividend - Rs. - 4.0000",
+      "dividend_per_share": 4,
+      "latest_price": 969.05,
+      "dividend_yield": 0.41,
+      "first_seen": "27-Oct-2026 01:53:10 am"
+    },
+    "532955|30 Oct 2026|Interim Dividend - Rs. - 3.5000": {
+      "scrip_code": "532955",
+      "short_name": "RECLTD",
+      "long_name": "REC Ltd",
+      "record_date": "30-Oct-2026",
+      "purpose": "Interim Dividend - Rs. - 3.5000",
+      "dividend_per_share": 3.5,
+      "latest_price": 298,
+      "dividend_yield": 1.17,
+      "first_seen": "27-Oct-2026 01:53:10 am"
+    },
+    "538646|06 Nov 2026|Interim Dividend - Rs. - 1.5000": {
+      "scrip_code": "538646",
+      "short_name": "QGO",
+      "long_name": "QGO Finance Ltd",
+      "record_date": "06-Nov-2026",
+      "purpose": "Interim Dividend - Rs. - 1.5000",
+      "dividend_per_share": 1.5,
+      "latest_price": 41.3,
+      "dividend_yield": 3.63,
+      "first_seen": "27-Oct-2026 01:53:10 am"
+    },
+    "590051|10 Nov 2026|Interim Dividend": {
+      "scrip_code": "590051",
+      "short_name": "SAKSOFT",
+      "long_name": "Saksoft Ltd",
+      "record_date": "10-Nov-2026",
+      "purpose": "Interim Dividend",
+      "dividend_per_share": null,
+      "latest_price": 131.25,
+      "dividend_yield": 0,
+      "first_seen": "27-Oct-2026 01:53:10 am"
     }
   },
-  "last_checked": "26-Oct-2026 10:59:01 pm"
+  "last_checked": "27-Oct-2026 01:53:10 am"
 }
