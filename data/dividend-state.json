@@ -66,17 +66,6 @@
       "dividend_yield": 0,
       "first_seen": "16-Oct-2026 02:05:34 pm"
     },
-    "540115|27 Oct 2026|Interim Dividend - Rs. - 20.0000": {
-      "scrip_code": "540115",
-      "short_name": "LTTS",
-      "long_name": "L&T Technology Services Ltd",
-      "record_date": "27-Oct-2026",
-      "purpose": "Interim Dividend - Rs. - 20.0000",
-      "dividend_per_share": 20,
-      "latest_price": 4172,
-      "dividend_yield": 0.48,
-      "first_seen": "19-Oct-2026 02:14:59 pm"
-    },
     "523367|30 Oct 2026|Interim Dividend": {
       "scrip_code": "523367",
       "short_name": "DCMSHRIRAM",
@@ -549,7 +538,29 @@
       "latest_price": 623.25,
       "dividend_yield": 0,
       "first_seen": "27-Oct-2026 01:27:29 pm"
+    },
+    "532790|02 Nov 2026|Interim Dividend - Rs. - 6.0000": {
+      "scrip_code": "532790",
+      "short_name": "TANLA",
+      "long_name": "Tanla Platforms Ltd",
+      "record_date": "02-Nov-2026",
+      "purpose": "Interim Dividend - Rs. - 6.0000",
+      "dividend_per_share": 6,
+      "latest_price": 579.3,
+      "dividend_yield": 1.04,
+      "first_seen": "28-Oct-2026 01:58:08 am"
+    },
+    "533282|03 Nov 2026|Interim Dividend - Rs. - 7.7000": {
+      "scrip_code": "533282",
+      "short_name": "GRAVITA",
+      "long_name": "Gravita India Ltd",
+      "record_date": "03-Nov-2026",
+      "purpose": "Interim Dividend - Rs. - 7.7000",
+      "dividend_per_share": 7.7,
+      "latest_price": 1341.1,
+      "dividend_yield": 0.57,
+      "first_seen": "28-Oct-2026 01:58:08 am"
     }
   },
-  "last_checked": "27-Oct-2026 10:48:07 pm"
+  "last_checked": "28-Oct-2026 01:58:08 am"
 }

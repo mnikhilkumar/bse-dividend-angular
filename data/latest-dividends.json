@@ -1,23 +1,8 @@
 {
-  "fetched_at": "27-Oct-2026 10:48:07 pm",
-  "from_date": "20261027",
-  "to_date": "20261226",
+  "fetched_at": "28-Oct-2026 01:58:08 am",
+  "from_date": "20261028",
+  "to_date": "20261227",
   "data": [
-    {
-      "scrip_code": "540115",
-      "short_name": "LTTS",
-      "long_name": "L&T Technology Services Ltd",
-      "RD_Date": "27 Oct 2026",
-      "Purpose": "Interim Dividend - Rs. - 20.0000",
-      "BCRD_FROM": "",
-      "BCRD_TO": "",
-      "ND_START_DATE": "27 Oct 2026",
-      "ND_END_DATE": "27 Oct 2026",
-      "payment_date": "",
-      "latest_price": 4172,
-      "dividend_per_share": 20,
-      "dividend_yield": 0.48
-    },
     {
       "scrip_code": "532175",
       "short_name": "CYIENT",
@@ -392,6 +377,36 @@
       "latest_price": 447.95,
       "dividend_per_share": null,
       "dividend_yield": 0
+    },
+    {
+      "scrip_code": "532790",
+      "short_name": "TANLA",
+      "long_name": "Tanla Platforms Ltd",
+      "RD_Date": "02 Nov 2026",
+      "Purpose": "Interim Dividend - Rs. - 6.0000",
+      "BCRD_FROM": "",
+      "BCRD_TO": "",
+      "ND_START_DATE": "28 Oct 2026",
+      "ND_END_DATE": "02 Nov 2026",
+      "payment_date": "",
+      "latest_price": 579.3,
+      "dividend_per_share": 6,
+      "dividend_yield": 1.04
+    },
+    {
+      "scrip_code": "533282",
+      "short_name": "GRAVITA",
+      "long_name": "Gravita India Ltd",
+      "RD_Date": "03 Nov 2026",
+      "Purpose": "Interim Dividend - Rs. - 7.7000",
+      "BCRD_FROM": "",
+      "BCRD_TO": "",
+      "ND_START_DATE": "28 Oct 2026",
+      "ND_END_DATE": "03 Nov 2026",
+      "payment_date": "",
+      "latest_price": 1341.1,
+      "dividend_per_share": 7.7,
+      "dividend_yield": 0.57
     },
     {
       "scrip_code": "500209",
