@@ -1,5 +1,5 @@
 {
-  "fetched_at": "31-Oct-2026 08:37:15 pm",
+  "fetched_at": "31-Oct-2026 11:54:00 pm",
   "from_date": "20261031",
   "to_date": "20261230",
   "data": [
@@ -21,7 +21,7 @@
     {
       "scrip_code": "513519",
       "short_name": "PITTIENG",
-      "long_name": "Pitti Engineering Ltd",
+      "long_name": "Pitti Engineering Ltd-$",
       "RD_Date": "02 Nov 2026",
       "Purpose": "Interim Dividend - Rs. - 2.0000",
       "BCRD_FROM": "",
@@ -291,7 +291,7 @@
     {
       "scrip_code": "523586",
       "short_name": "INDTONER",
-      "long_name": "Indian Toners & Developers Ltd",
+      "long_name": "Indian Toners & Developers Ltd-$",
       "RD_Date": "05 Nov 2026",
       "Purpose": "Interim Dividend - Rs. - 1.2000",
       "BCRD_FROM": "",
@@ -306,7 +306,7 @@
     {
       "scrip_code": "532504",
       "short_name": "NAVINFLUOR",
-      "long_name": "Navin Fluorine International Ltd",
+      "long_name": "Navin Fluorine International Ltd-$",
       "RD_Date": "05 Nov 2026",
       "Purpose": "Interim Dividend - Rs. - 8.0000",
       "BCRD_FROM": "",
@@ -411,7 +411,7 @@
     {
       "scrip_code": "505714",
       "short_name": "GABRIEL",
-      "long_name": "Gabriel India Ltd",
+      "long_name": "Gabriel India Ltd-$",
       "RD_Date": "06 Nov 2026",
       "Purpose": "Interim Dividend - Rs. - 2.1500",
       "BCRD_FROM": "",
@@ -621,7 +621,7 @@
     {
       "scrip_code": "502355",
       "short_name": "BALKRISIND",
-      "long_name": "Balkrishna Industries Ltd",
+      "long_name": "Balkrishna Industries Ltd-$",
       "RD_Date": "11 Nov 2026",
       "Purpose": "Interim Dividend",
       "BCRD_FROM": "",
@@ -711,7 +711,7 @@
     {
       "scrip_code": "500264",
       "short_name": "MAFATIND",
-      "long_name": "Mafatlal Industries Ltd",
+      "long_name": "Mafatlal Industries Ltd-$",
       "RD_Date": "13 Nov 2026",
       "Purpose": "Interim Dividend",
       "BCRD_FROM": "",
