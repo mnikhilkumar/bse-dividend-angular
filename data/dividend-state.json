@@ -231,17 +231,6 @@
       "dividend_yield": 0,
       "first_seen": "27-Oct-2026 01:53:10 am"
     },
-    "503811|31 Oct 2026|Interim Dividend - Rs. - 4.0000": {
-      "scrip_code": "503811",
-      "short_name": "SIYSIL",
-      "long_name": "Siyaram Silk Mills Ltd",
-      "record_date": "31-Oct-2026",
-      "purpose": "Interim Dividend - Rs. - 4.0000",
-      "dividend_per_share": 4,
-      "latest_price": 450.95,
-      "dividend_yield": 0.89,
-      "first_seen": "27-Oct-2026 01:27:29 pm"
-    },
     "543237|03 Nov 2026|Interim Dividend - Rs. - 5.0000": {
       "scrip_code": "543237",
       "short_name": "MAZDOCK",
@@ -771,5 +760,5 @@
       "first_seen": "31-Oct-2026 05:28:32 pm"
     }
   },
-  "last_checked": "31-Oct-2026 11:54:00 pm"
+  "last_checked": "01-Nov-2026 03:46:17 am"
 }
