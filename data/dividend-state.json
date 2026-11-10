@@ -198,17 +198,6 @@
       "dividend_yield": 0.4,
       "first_seen": "09-Nov-2026 05:42:50 pm"
     },
-    "544528|09 Nov 2026|Interim Dividend - Rs. - 3.7000": {
-      "scrip_code": "544528",
-      "short_name": "GANESHCP",
-      "long_name": "Ganesh Consumer Products Ltd",
-      "record_date": "09-Nov-2026",
-      "purpose": "Interim Dividend - Rs. - 3.7000",
-      "dividend_per_share": 3.7,
-      "latest_price": 181.2,
-      "dividend_yield": 2.04,
-      "first_seen": "09-Nov-2026 05:42:50 pm"
-    },
     "543830|10 Nov 2026|Interim Dividend - Rs. - 1.0000": {
       "scrip_code": "543830",
       "short_name": "LABELKRAFT",
@@ -218,17 +207,6 @@
       "dividend_per_share": 1,
       "latest_price": 63,
       "dividend_yield": 1.59,
-      "first_seen": "09-Nov-2026 05:42:50 pm"
-    },
-    "542650|09 Nov 2026|Interim Dividend - Rs. - 1.0000": {
-      "scrip_code": "542650",
-      "short_name": "METROPOLIS",
-      "long_name": "Metropolis Healthcare Ltd",
-      "record_date": "09-Nov-2026",
-      "purpose": "Interim Dividend - Rs. - 1.0000",
-      "dividend_per_share": 1,
-      "latest_price": 581.8,
-      "dividend_yield": 0.17,
       "first_seen": "09-Nov-2026 05:42:50 pm"
     },
     "500317|10 Nov 2026|Interim Dividend - Rs. - 0.5000": {
@@ -1024,5 +1002,5 @@
       "first_seen": "09-Nov-2026 05:42:50 pm"
     }
   },
-  "last_checked": "09-Nov-2026 05:42:50 pm"
+  "last_checked": "10-Nov-2026 01:03:51 am"
 }
