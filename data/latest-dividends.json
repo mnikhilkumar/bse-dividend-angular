@@ -1,12 +1,12 @@
 {
-  "fetched_at": "10-Nov-2026 04:43:24 pm",
+  "fetched_at": "10-Nov-2026 10:06:42 pm",
   "from_date": "20261110",
   "to_date": "20270109",
   "data": [
     {
       "scrip_code": "519183",
       "short_name": "ADFFOODS",
-      "long_name": "Adf Foods Ltd-$",
+      "long_name": "Adf Foods Ltd",
       "RD_Date": "11 Nov 2026",
       "Purpose": "Interim Dividend - Rs. - 0.6000",
       "BCRD_FROM": "",
@@ -36,7 +36,7 @@
     {
       "scrip_code": "502355",
       "short_name": "BALKRISIND",
-      "long_name": "Balkrishna Industries Ltd-$",
+      "long_name": "Balkrishna Industries Ltd",
       "RD_Date": "11 Nov 2026",
       "Purpose": "Interim Dividend - Rs. - 4.0000",
       "BCRD_FROM": "",
@@ -141,7 +141,7 @@
     {
       "scrip_code": "523405",
       "short_name": "JMFINANCIL",
-      "long_name": "JM Financial Ltd-$",
+      "long_name": "JM Financial Ltd",
       "RD_Date": "11 Nov 2026",
       "Purpose": "Interim Dividend - Rs. - 1.6500",
       "BCRD_FROM": "",
@@ -576,7 +576,7 @@
     {
       "scrip_code": "505242",
       "short_name": "DYNAMATECH",
-      "long_name": "Dynamatic Technologies Ltd-$",
+      "long_name": "Dynamatic Technologies Ltd",
       "RD_Date": "13 Nov 2026",
       "Purpose": "Interim Dividend - Rs. - 2.0000",
       "BCRD_FROM": "",
@@ -591,7 +591,7 @@
     {
       "scrip_code": "531162",
       "short_name": "EMAMILTD",
-      "long_name": "Emami Ltd-$",
+      "long_name": "Emami Ltd",
       "RD_Date": "13 Nov 2026",
       "Purpose": "Interim Dividend - Rs. - 5.0000",
       "BCRD_FROM": "",
@@ -666,7 +666,7 @@
     {
       "scrip_code": "500264",
       "short_name": "MAFATIND",
-      "long_name": "Mafatlal Industries Ltd-$",
+      "long_name": "Mafatlal Industries Ltd",
       "RD_Date": "13 Nov 2026",
       "Purpose": "Interim Dividend - Rs. - 1.0000",
       "BCRD_FROM": "",
@@ -771,7 +771,7 @@
     {
       "scrip_code": "530331",
       "short_name": "PREMCO",
-      "long_name": "Premco Global Ltd-$",
+      "long_name": "Premco Global Ltd",
       "RD_Date": "13 Nov 2026",
       "Purpose": "Interim Dividend - Rs. - 10.0000",
       "BCRD_FROM": "",
@@ -936,7 +936,7 @@
     {
       "scrip_code": "509162",
       "short_name": "INDAG",
-      "long_name": "Indag Rubber Ltd-$",
+      "long_name": "Indag Rubber Ltd",
       "RD_Date": "16 Nov 2026",
       "Purpose": "Interim Dividend - Rs. - 0.9000",
       "BCRD_FROM": "",
