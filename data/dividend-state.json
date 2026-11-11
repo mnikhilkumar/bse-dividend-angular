@@ -33,17 +33,6 @@
       "dividend_yield": 0,
       "first_seen": "26-Oct-2026 12:04:08 pm"
     },
-    "590051|10 Nov 2026|Interim Dividend": {
-      "scrip_code": "590051",
-      "short_name": "SAKSOFT",
-      "long_name": "Saksoft Ltd",
-      "record_date": "10-Nov-2026",
-      "purpose": "Interim Dividend",
-      "dividend_per_share": null,
-      "latest_price": 129.3,
-      "dividend_yield": 0,
-      "first_seen": "27-Oct-2026 01:53:10 am"
-    },
     "500696|12 Nov 2026|Interim Dividend - Rs. - 19.0000": {
       "scrip_code": "500696",
       "short_name": "HINDUNILVR",
@@ -76,17 +65,6 @@
       "latest_price": 543.65,
       "dividend_yield": 0,
       "first_seen": "28-Oct-2026 02:57:41 pm"
-    },
-    "544101|10 Nov 2026|Interim Dividend": {
-      "scrip_code": "544101",
-      "short_name": "BRISK",
-      "long_name": "Brisk Technovision Ltd",
-      "record_date": "10-Nov-2026",
-      "purpose": "Interim Dividend",
-      "dividend_per_share": null,
-      "latest_price": 76.8,
-      "dividend_yield": 0,
-      "first_seen": "31-Oct-2026 05:28:32 pm"
     },
     "502355|11 Nov 2026|Interim Dividend": {
       "scrip_code": "502355",
@@ -164,72 +142,6 @@
       "latest_price": 36337,
       "dividend_yield": 0,
       "first_seen": "31-Oct-2026 05:28:32 pm"
-    },
-    "544101|10 Nov 2026|Interim Dividend - Rs. - 2.0000": {
-      "scrip_code": "544101",
-      "short_name": "BRISK",
-      "long_name": "Brisk Technovision Ltd",
-      "record_date": "10-Nov-2026",
-      "purpose": "Interim Dividend - Rs. - 2.0000",
-      "dividend_per_share": 2,
-      "latest_price": 105,
-      "dividend_yield": 1.9,
-      "first_seen": "09-Nov-2026 05:42:50 pm"
-    },
-    "500096|10 Nov 2026|Interim Dividend - Rs. - 3.5000": {
-      "scrip_code": "500096",
-      "short_name": "DABUR",
-      "long_name": "Dabur India Ltd",
-      "record_date": "10-Nov-2026",
-      "purpose": "Interim Dividend - Rs. - 3.5000",
-      "dividend_per_share": 3.5,
-      "latest_price": 374.85,
-      "dividend_yield": 0.93,
-      "first_seen": "09-Nov-2026 05:42:50 pm"
-    },
-    "500133|10 Nov 2026|Interim Dividend - Rs. - 20.0000": {
-      "scrip_code": "500133",
-      "short_name": "ESABINDIA",
-      "long_name": "Esab India Ltd",
-      "record_date": "10-Nov-2026",
-      "purpose": "Interim Dividend - Rs. - 20.0000",
-      "dividend_per_share": 20,
-      "latest_price": 5054.55,
-      "dividend_yield": 0.4,
-      "first_seen": "09-Nov-2026 05:42:50 pm"
-    },
-    "543830|10 Nov 2026|Interim Dividend - Rs. - 1.0000": {
-      "scrip_code": "543830",
-      "short_name": "LABELKRAFT",
-      "long_name": "Labelkraft Technologies Ltd",
-      "record_date": "10-Nov-2026",
-      "purpose": "Interim Dividend - Rs. - 1.0000",
-      "dividend_per_share": 1,
-      "latest_price": 63,
-      "dividend_yield": 1.59,
-      "first_seen": "09-Nov-2026 05:42:50 pm"
-    },
-    "500317|10 Nov 2026|Interim Dividend - Rs. - 0.5000": {
-      "scrip_code": "500317",
-      "short_name": "OSWALAGRO",
-      "long_name": "Oswal Agro Mills Ltd",
-      "record_date": "10-Nov-2026",
-      "purpose": "Interim Dividend - Rs. - 0.5000",
-      "dividend_per_share": 0.5,
-      "latest_price": 39.19,
-      "dividend_yield": 1.28,
-      "first_seen": "09-Nov-2026 05:42:50 pm"
-    },
-    "590051|10 Nov 2026|Interim Dividend - Rs. - 0.5000": {
-      "scrip_code": "590051",
-      "short_name": "SAKSOFT",
-      "long_name": "Saksoft Ltd",
-      "record_date": "10-Nov-2026",
-      "purpose": "Interim Dividend - Rs. - 0.5000",
-      "dividend_per_share": 0.5,
-      "latest_price": 133.1,
-      "dividend_yield": 0.38,
-      "first_seen": "09-Nov-2026 05:42:50 pm"
     },
     "519183|11 Nov 2026|Interim Dividend - Rs. - 0.6000": {
       "scrip_code": "519183",
@@ -1002,5 +914,5 @@
       "first_seen": "09-Nov-2026 05:42:50 pm"
     }
   },
-  "last_checked": "10-Nov-2026 10:06:42 pm"
+  "last_checked": "11-Nov-2026 02:02:28 am"
 }
