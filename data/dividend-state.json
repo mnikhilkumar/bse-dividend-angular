@@ -1,93 +1,5 @@
 {
   "companies": {
-    "543335|13 Nov 2026|Interim Dividend": {
-      "scrip_code": "543335",
-      "short_name": "APTUS",
-      "long_name": "Aptus Value Housing Finance India Ltd",
-      "record_date": "13-Nov-2026",
-      "purpose": "Interim Dividend",
-      "dividend_per_share": null,
-      "latest_price": 191.8,
-      "dividend_yield": 0,
-      "first_seen": "14-Oct-2026 01:14:30 pm"
-    },
-    "543232|13 Nov 2026|Interim Dividend": {
-      "scrip_code": "543232",
-      "short_name": "CAMS",
-      "long_name": "Computer Age Management Services Ltd",
-      "record_date": "13-Nov-2026",
-      "purpose": "Interim Dividend",
-      "dividend_per_share": null,
-      "latest_price": 682.95,
-      "dividend_yield": 0,
-      "first_seen": "14-Oct-2026 01:14:30 pm"
-    },
-    "531548|13 Nov 2026|Interim Dividend": {
-      "scrip_code": "531548",
-      "short_name": "SOMANYCERA",
-      "long_name": "Somany Ceramics Ltd",
-      "record_date": "13-Nov-2026",
-      "purpose": "Interim Dividend",
-      "dividend_per_share": null,
-      "latest_price": 543.65,
-      "dividend_yield": 0,
-      "first_seen": "28-Oct-2026 02:57:41 pm"
-    },
-    "543232|13 Nov 2026|Interim Dividend - Rs. - 3.2500": {
-      "scrip_code": "543232",
-      "short_name": "CAMS",
-      "long_name": "Computer Age Management Services Ltd",
-      "record_date": "13-Nov-2026",
-      "purpose": "Interim Dividend - Rs. - 3.2500",
-      "dividend_per_share": 3.25,
-      "latest_price": 727,
-      "dividend_yield": 0.45,
-      "first_seen": "31-Oct-2026 05:28:32 pm"
-    },
-    "500264|13 Nov 2026|Interim Dividend": {
-      "scrip_code": "500264",
-      "short_name": "MAFATIND",
-      "long_name": "Mafatlal Industries Ltd",
-      "record_date": "13-Nov-2026",
-      "purpose": "Interim Dividend",
-      "dividend_per_share": null,
-      "latest_price": 106.65,
-      "dividend_yield": 0,
-      "first_seen": "31-Oct-2026 05:28:32 pm"
-    },
-    "523539|13 Nov 2026|Interim Dividend": {
-      "scrip_code": "523539",
-      "short_name": "PRECWIRE",
-      "long_name": "Precision Wires India Ltd",
-      "record_date": "13-Nov-2026",
-      "purpose": "Interim Dividend",
-      "dividend_per_share": null,
-      "latest_price": 390.25,
-      "dividend_yield": 0,
-      "first_seen": "31-Oct-2026 05:28:32 pm"
-    },
-    "530289|13 Nov 2026|Interim Dividend": {
-      "scrip_code": "530289",
-      "short_name": "SPCAPIT",
-      "long_name": "SP Capital Financing Ltd",
-      "record_date": "13-Nov-2026",
-      "purpose": "Interim Dividend",
-      "dividend_per_share": null,
-      "latest_price": 51.4,
-      "dividend_yield": 0,
-      "first_seen": "31-Oct-2026 05:28:32 pm"
-    },
-    "539956|13 Nov 2026|Interim Dividend": {
-      "scrip_code": "539956",
-      "short_name": "TAALTECH",
-      "long_name": "TAAL Tech Ltd",
-      "record_date": "13-Nov-2026",
-      "purpose": "Interim Dividend",
-      "dividend_per_share": null,
-      "latest_price": 833.95,
-      "dividend_yield": 0,
-      "first_seen": "31-Oct-2026 05:28:32 pm"
-    },
     "532827|18 Nov 2026|Interim Dividend": {
       "scrip_code": "532827",
       "short_name": "PAGEIND",
@@ -98,303 +10,6 @@
       "latest_price": 31460,
       "dividend_yield": 0,
       "first_seen": "31-Oct-2026 05:28:32 pm"
-    },
-    "543335|13 Nov 2026|Interim Dividend - Rs. - 2.0000": {
-      "scrip_code": "543335",
-      "short_name": "APTUS",
-      "long_name": "Aptus Value Housing Finance India Ltd",
-      "record_date": "13-Nov-2026",
-      "purpose": "Interim Dividend - Rs. - 2.0000",
-      "dividend_per_share": 2,
-      "latest_price": 175.05,
-      "dividend_yield": 1.14,
-      "first_seen": "09-Nov-2026 05:42:50 pm"
-    },
-    "532830|13 Nov 2026|Interim Dividend - Rs. - 1.5000": {
-      "scrip_code": "532830",
-      "short_name": "ASTRAL",
-      "long_name": "Astral Ltd",
-      "record_date": "13-Nov-2026",
-      "purpose": "Interim Dividend - Rs. - 1.5000",
-      "dividend_per_share": 1.5,
-      "latest_price": 1258,
-      "dividend_yield": 0.12,
-      "first_seen": "09-Nov-2026 05:42:50 pm"
-    },
-    "540956|13 Nov 2026|Interim Dividend - Rs. - 0.0100": {
-      "scrip_code": "540956",
-      "short_name": "BHATIA",
-      "long_name": "Bhatia Communications & Retail (India) Ltd",
-      "record_date": "13-Nov-2026",
-      "purpose": "Interim Dividend - Rs. - 0.0100",
-      "dividend_per_share": 0.01,
-      "latest_price": 38.53,
-      "dividend_yield": 0.03,
-      "first_seen": "09-Nov-2026 05:42:50 pm"
-    },
-    "544543|13 Nov 2026|Interim Dividend - Rs. - 1.5000": {
-      "scrip_code": "544543",
-      "short_name": "BMWVENTLTD",
-      "long_name": "BMW Ventures Ltd",
-      "record_date": "13-Nov-2026",
-      "purpose": "Interim Dividend - Rs. - 1.5000",
-      "dividend_per_share": 1.5,
-      "latest_price": 64.81,
-      "dividend_yield": 2.31,
-      "first_seen": "09-Nov-2026 05:42:50 pm"
-    },
-    "505242|13 Nov 2026|Interim Dividend - Rs. - 2.0000": {
-      "scrip_code": "505242",
-      "short_name": "DYNAMATECH",
-      "long_name": "Dynamatic Technologies Ltd-$",
-      "record_date": "13-Nov-2026",
-      "purpose": "Interim Dividend - Rs. - 2.0000",
-      "dividend_per_share": 2,
-      "latest_price": 13088.1,
-      "dividend_yield": 0.02,
-      "first_seen": "09-Nov-2026 05:42:50 pm"
-    },
-    "531162|13 Nov 2026|Interim Dividend - Rs. - 5.0000": {
-      "scrip_code": "531162",
-      "short_name": "EMAMILTD",
-      "long_name": "Emami Ltd-$",
-      "record_date": "13-Nov-2026",
-      "purpose": "Interim Dividend - Rs. - 5.0000",
-      "dividend_per_share": 5,
-      "latest_price": 407.3,
-      "dividend_yield": 1.23,
-      "first_seen": "09-Nov-2026 05:42:50 pm"
-    },
-    "500620|13 Nov 2026|Interim Dividend - Rs. - 14.4000": {
-      "scrip_code": "500620",
-      "short_name": "GESHIP",
-      "long_name": "Great Eastern Shipping Company Ltd",
-      "record_date": "13-Nov-2026",
-      "purpose": "Interim Dividend - Rs. - 14.4000",
-      "dividend_per_share": 14.4,
-      "latest_price": 1517.8,
-      "dividend_yield": 0.95,
-      "first_seen": "09-Nov-2026 05:42:50 pm"
-    },
-    "526729|13 Nov 2026|Interim Dividend - Rs. - 2.0000": {
-      "scrip_code": "526729",
-      "short_name": "GOLDIAM",
-      "long_name": "Goldiam International Ltd",
-      "record_date": "13-Nov-2026",
-      "purpose": "Interim Dividend - Rs. - 2.0000",
-      "dividend_per_share": 2,
-      "latest_price": 312.3,
-      "dividend_yield": 0.64,
-      "first_seen": "09-Nov-2026 05:42:50 pm"
-    },
-    "500199|13 Nov 2026|Interim Dividend": {
-      "scrip_code": "500199",
-      "short_name": "IGPL",
-      "long_name": "IG Petrochemicals Ltd",
-      "record_date": "13-Nov-2026",
-      "purpose": "Interim Dividend",
-      "dividend_per_share": null,
-      "latest_price": 588.35,
-      "dividend_yield": 0,
-      "first_seen": "09-Nov-2026 05:42:50 pm"
-    },
-    "524622|13 Nov 2026|Interim Dividend - Rs. - 0.0500": {
-      "scrip_code": "524622",
-      "short_name": "ISTRNETWK",
-      "long_name": "iStreet Network Ltd",
-      "record_date": "13-Nov-2026",
-      "purpose": "Interim Dividend - Rs. - 0.0500",
-      "dividend_per_share": 0.05,
-      "latest_price": 34.87,
-      "dividend_yield": 0.14,
-      "first_seen": "09-Nov-2026 05:42:50 pm"
-    },
-    "500264|13 Nov 2026|Interim Dividend - Rs. - 1.0000": {
-      "scrip_code": "500264",
-      "short_name": "MAFATIND",
-      "long_name": "Mafatlal Industries Ltd-$",
-      "record_date": "13-Nov-2026",
-      "purpose": "Interim Dividend - Rs. - 1.0000",
-      "dividend_per_share": 1,
-      "latest_price": 110.9,
-      "dividend_yield": 0.9,
-      "first_seen": "09-Nov-2026 05:42:50 pm"
-    },
-    "539682|13 Nov 2026|Interim Dividend - Rs. - 0.1000": {
-      "scrip_code": "539682",
-      "short_name": "MOBAVENUE",
-      "long_name": "Mobavenue AI Tech Ltd",
-      "record_date": "13-Nov-2026",
-      "purpose": "Interim Dividend - Rs. - 0.1000",
-      "dividend_per_share": 0.1,
-      "latest_price": 257.45,
-      "dividend_yield": 0.04,
-      "first_seen": "09-Nov-2026 05:42:50 pm"
-    },
-    "544278|13 Nov 2026|Interim Dividend - Rs. - 2.0000": {
-      "scrip_code": "544278",
-      "short_name": "OCCLLTD",
-      "long_name": "OCCL Ltd",
-      "record_date": "13-Nov-2026",
-      "purpose": "Interim Dividend - Rs. - 2.0000",
-      "dividend_per_share": 2,
-      "latest_price": 153.5,
-      "dividend_yield": 1.3,
-      "first_seen": "09-Nov-2026 05:42:50 pm"
-    },
-    "544235|13 Nov 2026|Interim Dividend - Rs. - 2.0000": {
-      "scrip_code": "544235",
-      "short_name": "ORIENTTECH",
-      "long_name": "Orient Technologies Ltd",
-      "record_date": "13-Nov-2026",
-      "purpose": "Interim Dividend - Rs. - 2.0000",
-      "dividend_per_share": 2,
-      "latest_price": 208.5,
-      "dividend_yield": 0.96,
-      "first_seen": "09-Nov-2026 05:42:50 pm"
-    },
-    "532808|13 Nov 2026|Interim Dividend - Rs. - 5.0000": {
-      "scrip_code": "532808",
-      "short_name": "PGIL",
-      "long_name": "Pearl Global Industries Ltd",
-      "record_date": "13-Nov-2026",
-      "purpose": "Interim Dividend - Rs. - 5.0000",
-      "dividend_per_share": 5,
-      "latest_price": 1332.5,
-      "dividend_yield": 0.38,
-      "first_seen": "09-Nov-2026 05:42:50 pm"
-    },
-    "532934|13 Nov 2026|Interim Dividend - Rs. - 1.5000": {
-      "scrip_code": "532934",
-      "short_name": "PPAP",
-      "long_name": "PPAP Automotive Ltd",
-      "record_date": "13-Nov-2026",
-      "purpose": "Interim Dividend - Rs. - 1.5000",
-      "dividend_per_share": 1.5,
-      "latest_price": 264,
-      "dividend_yield": 0.57,
-      "first_seen": "09-Nov-2026 05:42:50 pm"
-    },
-    "523539|13 Nov 2026|Interim Dividend - Rs. - 0.3500": {
-      "scrip_code": "523539",
-      "short_name": "PRECWIRE",
-      "long_name": "Precision Wires India Ltd",
-      "record_date": "13-Nov-2026",
-      "purpose": "Interim Dividend - Rs. - 0.3500",
-      "dividend_per_share": 0.35,
-      "latest_price": 407.3,
-      "dividend_yield": 0.09,
-      "first_seen": "09-Nov-2026 05:42:50 pm"
-    },
-    "530331|13 Nov 2026|Interim Dividend - Rs. - 10.0000": {
-      "scrip_code": "530331",
-      "short_name": "PREMCO",
-      "long_name": "Premco Global Ltd-$",
-      "record_date": "13-Nov-2026",
-      "purpose": "Interim Dividend - Rs. - 10.0000",
-      "dividend_per_share": 10,
-      "latest_price": 395,
-      "dividend_yield": 2.53,
-      "first_seen": "09-Nov-2026 05:42:50 pm"
-    },
-    "500339|13 Nov 2026|Interim Dividend - Rs. - 0.5000": {
-      "scrip_code": "500339",
-      "short_name": "RAIN",
-      "long_name": "Rain Industries Ltd",
-      "record_date": "13-Nov-2026",
-      "purpose": "Interim Dividend - Rs. - 0.5000",
-      "dividend_per_share": 0.5,
-      "latest_price": 162.65,
-      "dividend_yield": 0.31,
-      "first_seen": "09-Nov-2026 05:42:50 pm"
-    },
-    "535322|13 Nov 2026|Interim Dividend - Rs. - 5.0000": {
-      "scrip_code": "535322",
-      "short_name": "REPCOHOME",
-      "long_name": "Repco Home Finance Ltd",
-      "record_date": "13-Nov-2026",
-      "purpose": "Interim Dividend - Rs. - 5.0000",
-      "dividend_per_share": 5,
-      "latest_price": 380,
-      "dividend_yield": 1.32,
-      "first_seen": "09-Nov-2026 05:42:50 pm"
-    },
-    "513097|13 Nov 2026|Interim Dividend - Rs. - 2.0000": {
-      "scrip_code": "513097",
-      "short_name": "SBCL",
-      "long_name": "Shivalik Bimetal Controls Ltd",
-      "record_date": "13-Nov-2026",
-      "purpose": "Interim Dividend - Rs. - 2.0000",
-      "dividend_per_share": 2,
-      "latest_price": 1035.9,
-      "dividend_yield": 0.19,
-      "first_seen": "09-Nov-2026 05:42:50 pm"
-    },
-    "531548|13 Nov 2026|Interim Dividend - Rs. - 6.0000": {
-      "scrip_code": "531548",
-      "short_name": "SOMANYCERA",
-      "long_name": "Somany Ceramics Ltd",
-      "record_date": "13-Nov-2026",
-      "purpose": "Interim Dividend - Rs. - 6.0000",
-      "dividend_per_share": 6,
-      "latest_price": 523.85,
-      "dividend_yield": 1.15,
-      "first_seen": "09-Nov-2026 05:42:50 pm"
-    },
-    "530289|13 Nov 2026|Interim Dividend - Rs. - 0.7500": {
-      "scrip_code": "530289",
-      "short_name": "SPCAPIT",
-      "long_name": "SP Capital Financing Ltd",
-      "record_date": "13-Nov-2026",
-      "purpose": "Interim Dividend - Rs. - 0.7500",
-      "dividend_per_share": 0.75,
-      "latest_price": 58.32,
-      "dividend_yield": 1.29,
-      "first_seen": "09-Nov-2026 05:42:50 pm"
-    },
-    "540575|13 Nov 2026|Interim Dividend - Rs. - 1.0000": {
-      "scrip_code": "540575",
-      "short_name": "STARCEMENT",
-      "long_name": "Star Cement Ltd",
-      "record_date": "13-Nov-2026",
-      "purpose": "Interim Dividend - Rs. - 1.0000",
-      "dividend_per_share": 1,
-      "latest_price": 176,
-      "dividend_yield": 0.57,
-      "first_seen": "09-Nov-2026 05:42:50 pm"
-    },
-    "539956|13 Nov 2026|Interim Dividend - Rs. - 5.0000": {
-      "scrip_code": "539956",
-      "short_name": "TAALTECH",
-      "long_name": "TAAL Tech Ltd",
-      "record_date": "13-Nov-2026",
-      "purpose": "Interim Dividend - Rs. - 5.0000",
-      "dividend_per_share": 5,
-      "latest_price": 936.35,
-      "dividend_yield": 0.53,
-      "first_seen": "09-Nov-2026 05:42:50 pm"
-    },
-    "543991|13 Nov 2026|Interim Dividend - Rs. - 0.5000": {
-      "scrip_code": "543991",
-      "short_name": "TECHKGREEN",
-      "long_name": "Techknowgreen Solutions Ltd",
-      "record_date": "13-Nov-2026",
-      "purpose": "Interim Dividend - Rs. - 0.5000",
-      "dividend_per_share": 0.5,
-      "latest_price": 114.95,
-      "dividend_yield": 0.43,
-      "first_seen": "09-Nov-2026 05:42:50 pm"
-    },
-    "520151|13 Nov 2026|Interim Dividend - Rs. - 11.0000": {
-      "scrip_code": "520151",
-      "short_name": "TRANSWORLD",
-      "long_name": "Transworld Shipping Lines Ltd",
-      "record_date": "13-Nov-2026",
-      "purpose": "Interim Dividend - Rs. - 11.0000",
-      "dividend_per_share": 11,
-      "latest_price": 228.1,
-      "dividend_yield": 4.82,
-      "first_seen": "09-Nov-2026 05:42:50 pm"
     },
     "526433|16 Nov 2026|Interim Dividend - Rs. - 6.0000": {
       "scrip_code": "526433",
@@ -550,17 +165,6 @@
       "dividend_yield": 0.07,
       "first_seen": "11-Nov-2026 05:37:47 pm"
     },
-    "500199|13 Nov 2026|Interim Dividend - Rs. - 10.0000": {
-      "scrip_code": "500199",
-      "short_name": "IGPL",
-      "long_name": "IG Petrochemicals Ltd",
-      "record_date": "13-Nov-2026",
-      "purpose": "Interim Dividend - Rs. - 10.0000",
-      "dividend_per_share": 10,
-      "latest_price": 564.05,
-      "dividend_yield": 1.77,
-      "first_seen": "12-Nov-2026 02:27:54 pm"
-    },
     "500290|17 Nov 2026|Interim Dividend - Rs. - 3.0000": {
       "scrip_code": "500290",
       "short_name": "MRF",
@@ -681,7 +285,73 @@
       "latest_price": 31399.65,
       "dividend_yield": 0,
       "first_seen": "13-Nov-2026 10:45:58 pm"
+    },
+    "532827|18 Nov 2026|Interim Dividend - Rs. - 150.0000": {
+      "scrip_code": "532827",
+      "short_name": "PAGEIND",
+      "long_name": "Page Industries Ltd",
+      "record_date": "18-Nov-2026",
+      "purpose": "Interim Dividend - Rs. - 150.0000",
+      "dividend_per_share": 150,
+      "latest_price": 31399.65,
+      "dividend_yield": 0.48,
+      "first_seen": "14-Nov-2026 02:51:33 am"
+    },
+    "524816|19 Nov 2026|Interim Dividend - Rs. - 1.2500": {
+      "scrip_code": "524816",
+      "short_name": "NATCOPHARM",
+      "long_name": "Natco Pharma Ltd",
+      "record_date": "19-Nov-2026",
+      "purpose": "Interim Dividend - Rs. - 1.2500",
+      "dividend_per_share": 1.25,
+      "latest_price": 812.25,
+      "dividend_yield": 0.15,
+      "first_seen": "14-Nov-2026 02:51:33 am"
+    },
+    "533303|20 Nov 2026|Interim Dividend - Rs. - 20.0000": {
+      "scrip_code": "533303",
+      "short_name": "BFINVEST",
+      "long_name": "BF Investment Ltd",
+      "record_date": "20-Nov-2026",
+      "purpose": "Interim Dividend - Rs. - 20.0000",
+      "dividend_per_share": 20,
+      "latest_price": 444.9,
+      "dividend_yield": 4.5,
+      "first_seen": "14-Nov-2026 02:51:33 am"
+    },
+    "517467|20 Nov 2026|Interim Dividend - Rs. - 0.0500": {
+      "scrip_code": "517467",
+      "short_name": "MARSONS",
+      "long_name": "Marsons Ltd",
+      "record_date": "20-Nov-2026",
+      "purpose": "Interim Dividend - Rs. - 0.0500",
+      "dividend_per_share": 0.05,
+      "latest_price": 147.15,
+      "dividend_yield": 0.03,
+      "first_seen": "14-Nov-2026 02:51:33 am"
+    },
+    "524037|20 Nov 2026|Interim Dividend - Rs. - 0.5000": {
+      "scrip_code": "524037",
+      "short_name": "RAMAPHO",
+      "long_name": "Rama Phosphates Ltd",
+      "record_date": "20-Nov-2026",
+      "purpose": "Interim Dividend - Rs. - 0.5000",
+      "dividend_per_share": 0.5,
+      "latest_price": 125.7,
+      "dividend_yield": 0.4,
+      "first_seen": "14-Nov-2026 02:51:33 am"
+    },
+    "513517|20 Nov 2026|Interim Dividend - Rs. - 0.4500": {
+      "scrip_code": "513517",
+      "short_name": "STEELCAS",
+      "long_name": "Steelcast Ltd",
+      "record_date": "20-Nov-2026",
+      "purpose": "Interim Dividend - Rs. - 0.4500",
+      "dividend_per_share": 0.45,
+      "latest_price": 385.2,
+      "dividend_yield": 0.12,
+      "first_seen": "14-Nov-2026 02:51:33 am"
     }
   },
-  "last_checked": "13-Nov-2026 10:45:58 pm"
+  "last_checked": "14-Nov-2026 02:51:33 am"
 }
