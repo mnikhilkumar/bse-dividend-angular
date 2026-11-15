@@ -1,7 +1,7 @@
 {
-  "fetched_at": "14-Nov-2026 08:51:22 pm",
-  "from_date": "20261114",
-  "to_date": "20270113",
+  "fetched_at": "15-Nov-2026 12:36:29 am",
+  "from_date": "20261115",
+  "to_date": "20270114",
   "data": [
     {
       "scrip_code": "526433",
@@ -36,7 +36,7 @@
     {
       "scrip_code": "509162",
       "short_name": "INDAG",
-      "long_name": "Indag Rubber Ltd",
+      "long_name": "Indag Rubber Ltd-$",
       "RD_Date": "16 Nov 2026",
       "Purpose": "Interim Dividend - Rs. - 0.9000",
       "BCRD_FROM": "",
