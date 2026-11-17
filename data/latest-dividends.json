@@ -1,68 +1,8 @@
 {
-  "fetched_at": "16-Nov-2026 04:51:07 pm",
-  "from_date": "20261116",
-  "to_date": "20270115",
+  "fetched_at": "17-Nov-2026 12:36:43 am",
+  "from_date": "20261117",
+  "to_date": "20270116",
   "data": [
-    {
-      "scrip_code": "526433",
-      "short_name": "ASMTEC",
-      "long_name": "ASM Technologies Ltd",
-      "RD_Date": "16 Nov 2026",
-      "Purpose": "Interim Dividend - Rs. - 6.0000",
-      "BCRD_FROM": "",
-      "BCRD_TO": "",
-      "ND_START_DATE": "16 Nov 2026",
-      "ND_END_DATE": "16 Nov 2026",
-      "payment_date": "",
-      "latest_price": 5898.3,
-      "dividend_per_share": 6,
-      "dividend_yield": 0.1
-    },
-    {
-      "scrip_code": "540678",
-      "short_name": "COCHINSHIP",
-      "long_name": "Cochin Shipyard Ltd",
-      "RD_Date": "16 Nov 2026",
-      "Purpose": "Interim Dividend - Rs. - 3.0000",
-      "BCRD_FROM": "",
-      "BCRD_TO": "",
-      "ND_START_DATE": "16 Nov 2026",
-      "ND_END_DATE": "16 Nov 2026",
-      "payment_date": "",
-      "latest_price": 1159,
-      "dividend_per_share": 3,
-      "dividend_yield": 0.26
-    },
-    {
-      "scrip_code": "509162",
-      "short_name": "INDAG",
-      "long_name": "Indag Rubber Ltd",
-      "RD_Date": "16 Nov 2026",
-      "Purpose": "Interim Dividend - Rs. - 0.9000",
-      "BCRD_FROM": "",
-      "BCRD_TO": "",
-      "ND_START_DATE": "16 Nov 2026",
-      "ND_END_DATE": "16 Nov 2026",
-      "payment_date": "",
-      "latest_price": 108.65,
-      "dividend_per_share": 0.9,
-      "dividend_yield": 0.83
-    },
-    {
-      "scrip_code": "523598",
-      "short_name": "SCI",
-      "long_name": "Shipping Corporation of India Ltd",
-      "RD_Date": "16 Nov 2026",
-      "Purpose": "Interim Dividend - Rs. - 4.0000",
-      "BCRD_FROM": "",
-      "BCRD_TO": "",
-      "ND_START_DATE": "16 Nov 2026",
-      "ND_END_DATE": "16 Nov 2026",
-      "payment_date": "",
-      "latest_price": 264.85,
-      "dividend_per_share": 4,
-      "dividend_yield": 1.51
-    },
     {
       "scrip_code": "545008",
       "short_name": "EDELALTS",
@@ -199,6 +139,21 @@
       "dividend_yield": 0.1
     },
     {
+      "scrip_code": "523874",
+      "short_name": "EASTINDIA",
+      "long_name": "East India Drums and Barrels Manufacturing Ltd",
+      "RD_Date": "19 Nov 2026",
+      "Purpose": "Interim Dividend - Rs. - 1.0000",
+      "BCRD_FROM": "",
+      "BCRD_TO": "",
+      "ND_START_DATE": "17 Nov 2026",
+      "ND_END_DATE": "19 Nov 2026",
+      "payment_date": "",
+      "latest_price": 127.55,
+      "dividend_per_share": 1,
+      "dividend_yield": 0.78
+    },
+    {
       "scrip_code": "500210",
       "short_name": "INGERRAND",
       "long_name": "Ingersoll-Rand (India) Ltd",
@@ -227,6 +182,51 @@
       "latest_price": 828.15,
       "dividend_per_share": 1.25,
       "dividend_yield": 0.15
+    },
+    {
+      "scrip_code": "531726",
+      "short_name": "PANCHSHEEL",
+      "long_name": "Panchsheel Organics Ltd",
+      "RD_Date": "19 Nov 2026",
+      "Purpose": "Interim Dividend - Rs. - 0.8000",
+      "BCRD_FROM": "",
+      "BCRD_TO": "",
+      "ND_START_DATE": "17 Nov 2026",
+      "ND_END_DATE": "19 Nov 2026",
+      "payment_date": "",
+      "latest_price": 107.3,
+      "dividend_per_share": 0.8,
+      "dividend_yield": 0.75
+    },
+    {
+      "scrip_code": "538732",
+      "short_name": "VGCL",
+      "long_name": "Vibrant Global Capital Ltd",
+      "RD_Date": "19 Nov 2026",
+      "Purpose": "Interim Dividend - Rs. - 1.0000",
+      "BCRD_FROM": "",
+      "BCRD_TO": "",
+      "ND_START_DATE": "17 Nov 2026",
+      "ND_END_DATE": "19 Nov 2026",
+      "payment_date": "",
+      "latest_price": 63.05,
+      "dividend_per_share": 1,
+      "dividend_yield": 1.59
+    },
+    {
+      "scrip_code": "524634",
+      "short_name": "ALUFLUOR",
+      "long_name": "Alufluoride Ltd",
+      "RD_Date": "20 Nov 2026",
+      "Purpose": "Interim Dividend - Rs. - 2.5000",
+      "BCRD_FROM": "",
+      "BCRD_TO": "",
+      "ND_START_DATE": "17 Nov 2026",
+      "ND_END_DATE": "20 Nov 2026",
+      "payment_date": "",
+      "latest_price": 640.5,
+      "dividend_per_share": 2.5,
+      "dividend_yield": 0.39
     },
     {
       "scrip_code": "500477",
@@ -304,6 +304,21 @@
       "dividend_yield": 1.59
     },
     {
+      "scrip_code": "524051",
+      "short_name": "POLYPLEX",
+      "long_name": "Polyplex Corporation Ltd",
+      "RD_Date": "20 Nov 2026",
+      "Purpose": "Interim Dividend - Rs. - 12.0000",
+      "BCRD_FROM": "",
+      "BCRD_TO": "",
+      "ND_START_DATE": "17 Nov 2026",
+      "ND_END_DATE": "20 Nov 2026",
+      "payment_date": "",
+      "latest_price": 995.3,
+      "dividend_per_share": 12,
+      "dividend_yield": 1.21
+    },
+    {
       "scrip_code": "543363",
       "short_name": "PREVEST",
       "long_name": "Prevest Denpro Ltd",
@@ -323,15 +338,15 @@
       "short_name": "PSPL",
       "long_name": "PDP Shipping & Projects Ltd",
       "RD_Date": "20 Nov 2026",
-      "Purpose": "Interim Dividend",
+      "Purpose": "Interim Dividend - Rs. - 1.5000",
       "BCRD_FROM": "",
       "BCRD_TO": "",
       "ND_START_DATE": "17 Nov 2026",
       "ND_END_DATE": "20 Nov 2026",
       "payment_date": "",
       "latest_price": 63.03,
-      "dividend_per_share": null,
-      "dividend_yield": 0
+      "dividend_per_share": 1.5,
+      "dividend_yield": 2.38
     },
     {
       "scrip_code": "524037",
@@ -362,6 +377,21 @@
       "latest_price": 46.5,
       "dividend_per_share": 0.1,
       "dividend_yield": 0.22
+    },
+    {
+      "scrip_code": "544890",
+      "short_name": "SKYWAYS",
+      "long_name": "Skyways Air Services Ltd",
+      "RD_Date": "20 Nov 2026",
+      "Purpose": "Interim Dividend - Rs. - 0.4000",
+      "BCRD_FROM": "",
+      "BCRD_TO": "",
+      "ND_START_DATE": "17 Nov 2026",
+      "ND_END_DATE": "20 Nov 2026",
+      "payment_date": "",
+      "latest_price": 131.74,
+      "dividend_per_share": 0.4,
+      "dividend_yield": 0.3
     },
     {
       "scrip_code": "513517",
@@ -422,6 +452,36 @@
       "latest_price": 33.3,
       "dividend_per_share": 0.02,
       "dividend_yield": 0.06
+    },
+    {
+      "scrip_code": "544204",
+      "short_name": "VRAJ",
+      "long_name": "Vraj Iron And Steel Ltd",
+      "RD_Date": "25 Nov 2026",
+      "Purpose": "Interim Dividend - Rs. - 0.6000",
+      "BCRD_FROM": "",
+      "BCRD_TO": "",
+      "ND_START_DATE": "",
+      "ND_END_DATE": "",
+      "payment_date": "",
+      "latest_price": 127.75,
+      "dividend_per_share": 0.6,
+      "dividend_yield": 0.47
+    },
+    {
+      "scrip_code": "544995",
+      "short_name": "FUSIONCX",
+      "long_name": "Fusion CX Ltd",
+      "RD_Date": "27 Nov 2026",
+      "Purpose": "Final Dividend - Rs. - 0.7500",
+      "BCRD_FROM": "",
+      "BCRD_TO": "",
+      "ND_START_DATE": "",
+      "ND_END_DATE": "",
+      "payment_date": "",
+      "latest_price": 290.7,
+      "dividend_per_share": 0.75,
+      "dividend_yield": 0.26
     }
   ]
 }
