@@ -11,28 +11,6 @@
       "dividend_yield": 0,
       "first_seen": "31-Oct-2026 05:28:32 pm"
     },
-    "500290|17 Nov 2026|Interim Dividend": {
-      "scrip_code": "500290",
-      "short_name": "MRF",
-      "long_name": "MRF Ltd",
-      "record_date": "17-Nov-2026",
-      "purpose": "Interim Dividend",
-      "dividend_per_share": null,
-      "latest_price": 128354.75,
-      "dividend_yield": 0,
-      "first_seen": "09-Nov-2026 05:42:50 pm"
-    },
-    "532810|17 Nov 2026|Interim Dividend - Rs. - 4.1000": {
-      "scrip_code": "532810",
-      "short_name": "PFC",
-      "long_name": "Power Finance Corporation Ltd",
-      "record_date": "17-Nov-2026",
-      "purpose": "Interim Dividend - Rs. - 4.1000",
-      "dividend_per_share": 4.1,
-      "latest_price": 328.5,
-      "dividend_yield": 1.25,
-      "first_seen": "09-Nov-2026 05:42:50 pm"
-    },
     "500210|19 Nov 2026|Interim Dividend - Rs. - 20.0000": {
       "scrip_code": "500210",
       "short_name": "INGERRAND",
@@ -99,17 +77,6 @@
       "dividend_yield": 0.06,
       "first_seen": "09-Nov-2026 05:42:50 pm"
     },
-    "545008|17 Nov 2026|Interim Dividend - Rs. - 7.0000": {
-      "scrip_code": "545008",
-      "short_name": "EDELALTS",
-      "long_name": "EAAA India Alternatives Ltd",
-      "record_date": "17-Nov-2026",
-      "purpose": "Interim Dividend - Rs. - 7.0000",
-      "dividend_per_share": 7,
-      "latest_price": 1965.45,
-      "dividend_yield": 0.36,
-      "first_seen": "11-Nov-2026 05:37:47 pm"
-    },
     "500477|20 Nov 2026|Interim Dividend": {
       "scrip_code": "500477",
       "short_name": "ASHOKLEY",
@@ -132,17 +99,6 @@
       "dividend_yield": 0.07,
       "first_seen": "11-Nov-2026 05:37:47 pm"
     },
-    "500290|17 Nov 2026|Interim Dividend - Rs. - 3.0000": {
-      "scrip_code": "500290",
-      "short_name": "MRF",
-      "long_name": "MRF Ltd",
-      "record_date": "17-Nov-2026",
-      "purpose": "Interim Dividend - Rs. - 3.0000",
-      "dividend_per_share": 3,
-      "latest_price": 128907.05,
-      "dividend_yield": 0,
-      "first_seen": "12-Nov-2026 02:27:54 pm"
-    },
     "543993|18 Nov 2026|Interim Dividend - Rs. - 1.0000": {
       "scrip_code": "543993",
       "short_name": "ARCL",
@@ -153,17 +109,6 @@
       "latest_price": 232.25,
       "dividend_yield": 0.43,
       "first_seen": "12-Nov-2026 02:27:54 pm"
-    },
-    "530129|17 Nov 2026|Interim Dividend - Rs. - 3.0000": {
-      "scrip_code": "530129",
-      "short_name": "NILE",
-      "long_name": "Nile Ltd",
-      "record_date": "17-Nov-2026",
-      "purpose": "Interim Dividend - Rs. - 3.0000",
-      "dividend_per_share": 3,
-      "latest_price": 1229.65,
-      "dividend_yield": 0.24,
-      "first_seen": "13-Nov-2026 02:19:39 am"
     },
     "530499|18 Nov 2026|Interim Dividend - Rs. - 18.0000": {
       "scrip_code": "530499",
@@ -430,5 +375,5 @@
       "first_seen": "17-Nov-2026 12:36:43 am"
     }
   },
-  "last_checked": "17-Nov-2026 06:02:33 pm"
+  "last_checked": "18-Nov-2026 01:06:07 am"
 }
