@@ -1,5 +1,5 @@
 {
-  "fetched_at": "18-Nov-2026 08:46:43 am",
+  "fetched_at": "18-Nov-2026 05:43:27 pm",
   "from_date": "20261118",
   "to_date": "20270117",
   "data": [
@@ -14,9 +14,9 @@
       "ND_START_DATE": "18 Nov 2026",
       "ND_END_DATE": "18 Nov 2026",
       "payment_date": "",
-      "latest_price": 1994,
+      "latest_price": 2016.25,
       "dividend_per_share": 18,
-      "dividend_yield": 0.9
+      "dividend_yield": 0.89
     },
     {
       "scrip_code": "543993",
@@ -44,7 +44,7 @@
       "ND_START_DATE": "18 Nov 2026",
       "ND_END_DATE": "18 Nov 2026",
       "payment_date": "",
-      "latest_price": 283.65,
+      "latest_price": 282.65,
       "dividend_per_share": 1,
       "dividend_yield": 0.35
     },
@@ -59,7 +59,7 @@
       "ND_START_DATE": "18 Nov 2026",
       "ND_END_DATE": "18 Nov 2026",
       "payment_date": "",
-      "latest_price": 30850,
+      "latest_price": 30820,
       "dividend_per_share": 150,
       "dividend_yield": 0.49
     },
@@ -74,7 +74,7 @@
       "ND_START_DATE": "18 Nov 2026",
       "ND_END_DATE": "18 Nov 2026",
       "payment_date": "",
-      "latest_price": 631.7,
+      "latest_price": 633.25,
       "dividend_per_share": 0.65,
       "dividend_yield": 0.1
     },
@@ -86,10 +86,10 @@
       "Purpose": "Interim Dividend - Rs. - 1.0000",
       "BCRD_FROM": "",
       "BCRD_TO": "",
-      "ND_START_DATE": "18 Nov 2026",
+      "ND_START_DATE": "19 Nov 2026",
       "ND_END_DATE": "19 Nov 2026",
       "payment_date": "",
-      "latest_price": 140.55,
+      "latest_price": 140.3,
       "dividend_per_share": 1,
       "dividend_yield": 0.71
     },
@@ -101,10 +101,10 @@
       "Purpose": "Interim Dividend - Rs. - 20.0000",
       "BCRD_FROM": "",
       "BCRD_TO": "",
-      "ND_START_DATE": "18 Nov 2026",
+      "ND_START_DATE": "19 Nov 2026",
       "ND_END_DATE": "19 Nov 2026",
       "payment_date": "",
-      "latest_price": 3885,
+      "latest_price": 3907.85,
       "dividend_per_share": 20,
       "dividend_yield": 0.51
     },
@@ -116,10 +116,10 @@
       "Purpose": "Interim Dividend - Rs. - 1.2500",
       "BCRD_FROM": "",
       "BCRD_TO": "",
-      "ND_START_DATE": "18 Nov 2026",
+      "ND_START_DATE": "19 Nov 2026",
       "ND_END_DATE": "19 Nov 2026",
       "payment_date": "",
-      "latest_price": 823.45,
+      "latest_price": 820.4,
       "dividend_per_share": 1.25,
       "dividend_yield": 0.15
     },
@@ -131,12 +131,12 @@
       "Purpose": "Interim Dividend - Rs. - 0.8000",
       "BCRD_FROM": "",
       "BCRD_TO": "",
-      "ND_START_DATE": "18 Nov 2026",
+      "ND_START_DATE": "19 Nov 2026",
       "ND_END_DATE": "19 Nov 2026",
       "payment_date": "",
-      "latest_price": 105.03,
+      "latest_price": 102.06,
       "dividend_per_share": 0.8,
-      "dividend_yield": 0.76
+      "dividend_yield": 0.78
     },
     {
       "scrip_code": "538732",
@@ -146,12 +146,12 @@
       "Purpose": "Interim Dividend - Rs. - 1.0000",
       "BCRD_FROM": "",
       "BCRD_TO": "",
-      "ND_START_DATE": "18 Nov 2026",
+      "ND_START_DATE": "19 Nov 2026",
       "ND_END_DATE": "19 Nov 2026",
       "payment_date": "",
-      "latest_price": 62.5,
+      "latest_price": 62.29,
       "dividend_per_share": 1,
-      "dividend_yield": 1.6
+      "dividend_yield": 1.61
     },
     {
       "scrip_code": "524634",
@@ -161,10 +161,10 @@
       "Purpose": "Interim Dividend - Rs. - 2.5000",
       "BCRD_FROM": "",
       "BCRD_TO": "",
-      "ND_START_DATE": "18 Nov 2026",
+      "ND_START_DATE": "19 Nov 2026",
       "ND_END_DATE": "20 Nov 2026",
       "payment_date": "",
-      "latest_price": 706.1,
+      "latest_price": 705,
       "dividend_per_share": 2.5,
       "dividend_yield": 0.35
     },
@@ -176,10 +176,10 @@
       "Purpose": "Interim Dividend - Rs. - 1.0000",
       "BCRD_FROM": "",
       "BCRD_TO": "",
-      "ND_START_DATE": "18 Nov 2026",
+      "ND_START_DATE": "19 Nov 2026",
       "ND_END_DATE": "20 Nov 2026",
       "payment_date": "",
-      "latest_price": 161.25,
+      "latest_price": 162.25,
       "dividend_per_share": 1,
       "dividend_yield": 0.62
     },
@@ -191,12 +191,12 @@
       "Purpose": "Interim Dividend - Rs. - 20.0000",
       "BCRD_FROM": "",
       "BCRD_TO": "",
-      "ND_START_DATE": "18 Nov 2026",
+      "ND_START_DATE": "19 Nov 2026",
       "ND_END_DATE": "20 Nov 2026",
       "payment_date": "",
-      "latest_price": 494,
+      "latest_price": 493,
       "dividend_per_share": 20,
-      "dividend_yield": 4.05
+      "dividend_yield": 4.06
     },
     {
       "scrip_code": "520051",
@@ -206,10 +206,10 @@
       "Purpose": "Interim Dividend - Rs. - 1.0000",
       "BCRD_FROM": "",
       "BCRD_TO": "",
-      "ND_START_DATE": "18 Nov 2026",
+      "ND_START_DATE": "19 Nov 2026",
       "ND_END_DATE": "20 Nov 2026",
       "payment_date": "",
-      "latest_price": 137.6,
+      "latest_price": 136.35,
       "dividend_per_share": 1,
       "dividend_yield": 0.73
     },
@@ -221,10 +221,10 @@
       "Purpose": "Interim Dividend - Rs. - 0.0500",
       "BCRD_FROM": "",
       "BCRD_TO": "",
-      "ND_START_DATE": "18 Nov 2026",
+      "ND_START_DATE": "19 Nov 2026",
       "ND_END_DATE": "20 Nov 2026",
       "payment_date": "",
-      "latest_price": 164.5,
+      "latest_price": 164.85,
       "dividend_per_share": 0.05,
       "dividend_yield": 0.03
     },
@@ -236,10 +236,10 @@
       "Purpose": "Interim Dividend - Rs. - 7.0000",
       "BCRD_FROM": "",
       "BCRD_TO": "",
-      "ND_START_DATE": "18 Nov 2026",
+      "ND_START_DATE": "19 Nov 2026",
       "ND_END_DATE": "20 Nov 2026",
       "payment_date": "",
-      "latest_price": 435.95,
+      "latest_price": 436,
       "dividend_per_share": 7,
       "dividend_yield": 1.61
     },
@@ -251,10 +251,10 @@
       "Purpose": "Interim Dividend - Rs. - 12.0000",
       "BCRD_FROM": "",
       "BCRD_TO": "",
-      "ND_START_DATE": "18 Nov 2026",
+      "ND_START_DATE": "19 Nov 2026",
       "ND_END_DATE": "20 Nov 2026",
       "payment_date": "",
-      "latest_price": 990,
+      "latest_price": 988.75,
       "dividend_per_share": 12,
       "dividend_yield": 1.21
     },
@@ -266,7 +266,7 @@
       "Purpose": "Interim Dividend - Rs. - 1.0000",
       "BCRD_FROM": "",
       "BCRD_TO": "",
-      "ND_START_DATE": "18 Nov 2026",
+      "ND_START_DATE": "19 Nov 2026",
       "ND_END_DATE": "20 Nov 2026",
       "payment_date": "",
       "latest_price": 390,
@@ -281,12 +281,12 @@
       "Purpose": "Interim Dividend - Rs. - 1.5000",
       "BCRD_FROM": "",
       "BCRD_TO": "",
-      "ND_START_DATE": "18 Nov 2026",
+      "ND_START_DATE": "19 Nov 2026",
       "ND_END_DATE": "20 Nov 2026",
       "payment_date": "",
-      "latest_price": 89.5,
+      "latest_price": 90.75,
       "dividend_per_share": 1.5,
-      "dividend_yield": 1.68
+      "dividend_yield": 1.65
     },
     {
       "scrip_code": "524037",
@@ -296,12 +296,12 @@
       "Purpose": "Interim Dividend - Rs. - 0.5000",
       "BCRD_FROM": "",
       "BCRD_TO": "",
-      "ND_START_DATE": "18 Nov 2026",
+      "ND_START_DATE": "19 Nov 2026",
       "ND_END_DATE": "20 Nov 2026",
       "payment_date": "",
-      "latest_price": 119.95,
+      "latest_price": 121.45,
       "dividend_per_share": 0.5,
-      "dividend_yield": 0.42
+      "dividend_yield": 0.41
     },
     {
       "scrip_code": "544365",
@@ -311,12 +311,12 @@
       "Purpose": "Interim Dividend - Rs. - 0.1000",
       "BCRD_FROM": "",
       "BCRD_TO": "",
-      "ND_START_DATE": "18 Nov 2026",
+      "ND_START_DATE": "19 Nov 2026",
       "ND_END_DATE": "20 Nov 2026",
       "payment_date": "",
-      "latest_price": 47.11,
+      "latest_price": 46,
       "dividend_per_share": 0.1,
-      "dividend_yield": 0.21
+      "dividend_yield": 0.22
     },
     {
       "scrip_code": "544890",
@@ -326,10 +326,10 @@
       "Purpose": "Interim Dividend - Rs. - 0.4000",
       "BCRD_FROM": "",
       "BCRD_TO": "",
-      "ND_START_DATE": "18 Nov 2026",
+      "ND_START_DATE": "19 Nov 2026",
       "ND_END_DATE": "20 Nov 2026",
       "payment_date": "",
-      "latest_price": 129.5,
+      "latest_price": 128.95,
       "dividend_per_share": 0.4,
       "dividend_yield": 0.31
     },
@@ -341,10 +341,10 @@
       "Purpose": "Interim Dividend - Rs. - 0.4500",
       "BCRD_FROM": "",
       "BCRD_TO": "",
-      "ND_START_DATE": "18 Nov 2026",
+      "ND_START_DATE": "19 Nov 2026",
       "ND_END_DATE": "20 Nov 2026",
       "payment_date": "",
-      "latest_price": 357.65,
+      "latest_price": 356.3,
       "dividend_per_share": 0.45,
       "dividend_yield": 0.13
     },
@@ -356,10 +356,10 @@
       "Purpose": "Interim Dividend - Rs. - 0.3000",
       "BCRD_FROM": "",
       "BCRD_TO": "",
-      "ND_START_DATE": "18 Nov 2026",
+      "ND_START_DATE": "19 Nov 2026",
       "ND_END_DATE": "20 Nov 2026",
       "payment_date": "",
-      "latest_price": 401,
+      "latest_price": 407.3,
       "dividend_per_share": 0.3,
       "dividend_yield": 0.07
     },
@@ -371,10 +371,10 @@
       "Purpose": "Interim Dividend - Rs. - 0.5000",
       "BCRD_FROM": "",
       "BCRD_TO": "",
-      "ND_START_DATE": "18 Nov 2026",
+      "ND_START_DATE": "19 Nov 2026",
       "ND_END_DATE": "20 Nov 2026",
       "payment_date": "",
-      "latest_price": 1795.7,
+      "latest_price": 1804.5,
       "dividend_per_share": 0.5,
       "dividend_yield": 0.03
     },
@@ -386,10 +386,10 @@
       "Purpose": "Interim Dividend - Rs. - 0.0200",
       "BCRD_FROM": "",
       "BCRD_TO": "",
-      "ND_START_DATE": "18 Nov 2026",
+      "ND_START_DATE": "19 Nov 2026",
       "ND_END_DATE": "23 Nov 2026",
       "payment_date": "",
-      "latest_price": 30.1,
+      "latest_price": 30.15,
       "dividend_per_share": 0.02,
       "dividend_yield": 0.07
     },
@@ -401,12 +401,12 @@
       "Purpose": "Interim Dividend - Rs. - 0.6000",
       "BCRD_FROM": "",
       "BCRD_TO": "",
-      "ND_START_DATE": "18 Nov 2026",
+      "ND_START_DATE": "19 Nov 2026",
       "ND_END_DATE": "25 Nov 2026",
       "payment_date": "",
-      "latest_price": 127,
+      "latest_price": 129.2,
       "dividend_per_share": 0.6,
-      "dividend_yield": 0.47
+      "dividend_yield": 0.46
     },
     {
       "scrip_code": "544995",
@@ -419,7 +419,7 @@
       "ND_START_DATE": "",
       "ND_END_DATE": "",
       "payment_date": "",
-      "latest_price": 280.7,
+      "latest_price": 277.55,
       "dividend_per_share": 0.75,
       "dividend_yield": 0.27
     }
