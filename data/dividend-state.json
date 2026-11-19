@@ -1,16 +1,5 @@
 {
   "companies": {
-    "532827|18 Nov 2026|Interim Dividend": {
-      "scrip_code": "532827",
-      "short_name": "PAGEIND",
-      "long_name": "Page Industries Ltd",
-      "record_date": "18-Nov-2026",
-      "purpose": "Interim Dividend",
-      "dividend_per_share": null,
-      "latest_price": 31460,
-      "dividend_yield": 0,
-      "first_seen": "31-Oct-2026 05:28:32 pm"
-    },
     "500210|19 Nov 2026|Interim Dividend - Rs. - 20.0000": {
       "scrip_code": "500210",
       "short_name": "INGERRAND",
@@ -18,8 +7,8 @@
       "record_date": "19-Nov-2026",
       "purpose": "Interim Dividend - Rs. - 20.0000",
       "dividend_per_share": 20,
-      "latest_price": 3907.85,
-      "dividend_yield": 0.51,
+      "latest_price": 3822,
+      "dividend_yield": 0.52,
       "first_seen": "09-Nov-2026 05:42:50 pm"
     },
     "544378|20 Nov 2026|Interim Dividend": {
@@ -62,7 +51,7 @@
       "record_date": "20-Nov-2026",
       "purpose": "Interim Dividend - Rs. - 0.5000",
       "dividend_per_share": 0.5,
-      "latest_price": 1804.5,
+      "latest_price": 1787,
       "dividend_yield": 0.03,
       "first_seen": "09-Nov-2026 05:42:50 pm"
     },
@@ -73,7 +62,7 @@
       "record_date": "23-Nov-2026",
       "purpose": "Interim Dividend - Rs. - 0.0200",
       "dividend_per_share": 0.02,
-      "latest_price": 30.15,
+      "latest_price": 28.65,
       "dividend_yield": 0.07,
       "first_seen": "09-Nov-2026 05:42:50 pm"
     },
@@ -95,53 +84,9 @@
       "record_date": "20-Nov-2026",
       "purpose": "Interim Dividend - Rs. - 0.3000",
       "dividend_per_share": 0.3,
-      "latest_price": 407.3,
+      "latest_price": 403.45,
       "dividend_yield": 0.07,
       "first_seen": "11-Nov-2026 05:37:47 pm"
-    },
-    "543993|18 Nov 2026|Interim Dividend - Rs. - 1.0000": {
-      "scrip_code": "543993",
-      "short_name": "ARCL",
-      "long_name": "ARCL Organics Ltd",
-      "record_date": "18-Nov-2026",
-      "purpose": "Interim Dividend - Rs. - 1.0000",
-      "dividend_per_share": 1,
-      "latest_price": 220,
-      "dividend_yield": 0.45,
-      "first_seen": "12-Nov-2026 02:27:54 pm"
-    },
-    "530499|18 Nov 2026|Interim Dividend - Rs. - 18.0000": {
-      "scrip_code": "530499",
-      "short_name": "AKCAPIT",
-      "long_name": "AK Capital Services Ltd",
-      "record_date": "18-Nov-2026",
-      "purpose": "Interim Dividend - Rs. - 18.0000",
-      "dividend_per_share": 18,
-      "latest_price": 2016.25,
-      "dividend_yield": 0.89,
-      "first_seen": "13-Nov-2026 02:19:39 am"
-    },
-    "531213|18 Nov 2026|Interim Dividend - Rs. - 1.0000": {
-      "scrip_code": "531213",
-      "short_name": "MANAPPURAM",
-      "long_name": "Manappuram Finance Ltd",
-      "record_date": "18-Nov-2026",
-      "purpose": "Interim Dividend - Rs. - 1.0000",
-      "dividend_per_share": 1,
-      "latest_price": 282.65,
-      "dividend_yield": 0.35,
-      "first_seen": "13-Nov-2026 02:19:39 am"
-    },
-    "533553|18 Nov 2026|Interim Dividend - Rs. - 0.6500": {
-      "scrip_code": "533553",
-      "short_name": "TDPOWERSYS",
-      "long_name": "TD Power Systems Ltd",
-      "record_date": "18-Nov-2026",
-      "purpose": "Interim Dividend - Rs. - 0.6500",
-      "dividend_per_share": 0.65,
-      "latest_price": 633.25,
-      "dividend_yield": 0.1,
-      "first_seen": "13-Nov-2026 02:19:39 am"
     },
     "533106|20 Nov 2026|Interim Dividend - Rs. - 7.0000": {
       "scrip_code": "533106",
@@ -150,8 +95,8 @@
       "record_date": "20-Nov-2026",
       "purpose": "Interim Dividend - Rs. - 7.0000",
       "dividend_per_share": 7,
-      "latest_price": 436,
-      "dividend_yield": 1.61,
+      "latest_price": 436.3,
+      "dividend_yield": 1.6,
       "first_seen": "13-Nov-2026 02:19:39 am"
     },
     "543363|20 Nov 2026|Interim Dividend - Rs. - 1.0000": {
@@ -161,7 +106,7 @@
       "record_date": "20-Nov-2026",
       "purpose": "Interim Dividend - Rs. - 1.0000",
       "dividend_per_share": 1,
-      "latest_price": 390,
+      "latest_price": 380,
       "dividend_yield": 0.26,
       "first_seen": "13-Nov-2026 02:19:39 am"
     },
@@ -176,28 +121,6 @@
       "dividend_yield": 0.22,
       "first_seen": "13-Nov-2026 02:19:39 am"
     },
-    "532827|18 Nov 2026|Interim Dividend - Rs. - 1.5000": {
-      "scrip_code": "532827",
-      "short_name": "PAGEIND",
-      "long_name": "Page Industries Ltd",
-      "record_date": "18-Nov-2026",
-      "purpose": "Interim Dividend - Rs. - 1.5000",
-      "dividend_per_share": 1.5,
-      "latest_price": 31399.65,
-      "dividend_yield": 0,
-      "first_seen": "13-Nov-2026 10:45:58 pm"
-    },
-    "532827|18 Nov 2026|Interim Dividend - Rs. - 150.0000": {
-      "scrip_code": "532827",
-      "short_name": "PAGEIND",
-      "long_name": "Page Industries Ltd",
-      "record_date": "18-Nov-2026",
-      "purpose": "Interim Dividend - Rs. - 150.0000",
-      "dividend_per_share": 150,
-      "latest_price": 30820,
-      "dividend_yield": 0.49,
-      "first_seen": "14-Nov-2026 02:51:33 am"
-    },
     "524816|19 Nov 2026|Interim Dividend - Rs. - 1.2500": {
       "scrip_code": "524816",
       "short_name": "NATCOPHARM",
@@ -205,7 +128,7 @@
       "record_date": "19-Nov-2026",
       "purpose": "Interim Dividend - Rs. - 1.2500",
       "dividend_per_share": 1.25,
-      "latest_price": 820.4,
+      "latest_price": 808.85,
       "dividend_yield": 0.15,
       "first_seen": "14-Nov-2026 02:51:33 am"
     },
@@ -216,8 +139,8 @@
       "record_date": "20-Nov-2026",
       "purpose": "Interim Dividend - Rs. - 20.0000",
       "dividend_per_share": 20,
-      "latest_price": 493,
-      "dividend_yield": 4.06,
+      "latest_price": 499,
+      "dividend_yield": 4.01,
       "first_seen": "14-Nov-2026 02:51:33 am"
     },
     "517467|20 Nov 2026|Interim Dividend - Rs. - 0.0500": {
@@ -227,7 +150,7 @@
       "record_date": "20-Nov-2026",
       "purpose": "Interim Dividend - Rs. - 0.0500",
       "dividend_per_share": 0.05,
-      "latest_price": 164.85,
+      "latest_price": 160.7,
       "dividend_yield": 0.03,
       "first_seen": "14-Nov-2026 02:51:33 am"
     },
@@ -238,7 +161,7 @@
       "record_date": "20-Nov-2026",
       "purpose": "Interim Dividend - Rs. - 0.5000",
       "dividend_per_share": 0.5,
-      "latest_price": 121.45,
+      "latest_price": 120.6,
       "dividend_yield": 0.41,
       "first_seen": "14-Nov-2026 02:51:33 am"
     },
@@ -249,8 +172,8 @@
       "record_date": "20-Nov-2026",
       "purpose": "Interim Dividend - Rs. - 0.4500",
       "dividend_per_share": 0.45,
-      "latest_price": 356.3,
-      "dividend_yield": 0.13,
+      "latest_price": 364.15,
+      "dividend_yield": 0.12,
       "first_seen": "14-Nov-2026 02:51:33 am"
     },
     "500477|20 Nov 2026|Interim Dividend - Rs. - 1.0000": {
@@ -260,8 +183,8 @@
       "record_date": "20-Nov-2026",
       "purpose": "Interim Dividend - Rs. - 1.0000",
       "dividend_per_share": 1,
-      "latest_price": 162.25,
-      "dividend_yield": 0.62,
+      "latest_price": 166.3,
+      "dividend_yield": 0.6,
       "first_seen": "16-Nov-2026 04:51:07 pm"
     },
     "520051|20 Nov 2026|Interim Dividend - Rs. - 1.0000": {
@@ -271,8 +194,8 @@
       "record_date": "20-Nov-2026",
       "purpose": "Interim Dividend - Rs. - 1.0000",
       "dividend_per_share": 1,
-      "latest_price": 136.35,
-      "dividend_yield": 0.73,
+      "latest_price": 139.45,
+      "dividend_yield": 0.72,
       "first_seen": "16-Nov-2026 04:51:07 pm"
     },
     "523874|19 Nov 2026|Interim Dividend - Rs. - 1.0000": {
@@ -282,7 +205,7 @@
       "record_date": "19-Nov-2026",
       "purpose": "Interim Dividend - Rs. - 1.0000",
       "dividend_per_share": 1,
-      "latest_price": 140.3,
+      "latest_price": 141,
       "dividend_yield": 0.71,
       "first_seen": "17-Nov-2026 12:36:43 am"
     },
@@ -293,8 +216,8 @@
       "record_date": "19-Nov-2026",
       "purpose": "Interim Dividend - Rs. - 0.8000",
       "dividend_per_share": 0.8,
-      "latest_price": 102.06,
-      "dividend_yield": 0.78,
+      "latest_price": 104.95,
+      "dividend_yield": 0.76,
       "first_seen": "17-Nov-2026 12:36:43 am"
     },
     "538732|19 Nov 2026|Interim Dividend - Rs. - 1.0000": {
@@ -304,8 +227,8 @@
       "record_date": "19-Nov-2026",
       "purpose": "Interim Dividend - Rs. - 1.0000",
       "dividend_per_share": 1,
-      "latest_price": 62.29,
-      "dividend_yield": 1.61,
+      "latest_price": 59.5,
+      "dividend_yield": 1.68,
       "first_seen": "17-Nov-2026 12:36:43 am"
     },
     "524634|20 Nov 2026|Interim Dividend - Rs. - 2.5000": {
@@ -315,8 +238,8 @@
       "record_date": "20-Nov-2026",
       "purpose": "Interim Dividend - Rs. - 2.5000",
       "dividend_per_share": 2.5,
-      "latest_price": 705,
-      "dividend_yield": 0.35,
+      "latest_price": 696.5,
+      "dividend_yield": 0.36,
       "first_seen": "17-Nov-2026 12:36:43 am"
     },
     "524051|20 Nov 2026|Interim Dividend - Rs. - 12.0000": {
@@ -326,7 +249,7 @@
       "record_date": "20-Nov-2026",
       "purpose": "Interim Dividend - Rs. - 12.0000",
       "dividend_per_share": 12,
-      "latest_price": 988.75,
+      "latest_price": 993.3,
       "dividend_yield": 1.21,
       "first_seen": "17-Nov-2026 12:36:43 am"
     },
@@ -337,8 +260,8 @@
       "record_date": "20-Nov-2026",
       "purpose": "Interim Dividend - Rs. - 1.5000",
       "dividend_per_share": 1.5,
-      "latest_price": 90.75,
-      "dividend_yield": 1.65,
+      "latest_price": 97.5,
+      "dividend_yield": 1.54,
       "first_seen": "17-Nov-2026 12:36:43 am"
     },
     "544890|20 Nov 2026|Interim Dividend - Rs. - 0.4000": {
@@ -348,8 +271,8 @@
       "record_date": "20-Nov-2026",
       "purpose": "Interim Dividend - Rs. - 0.4000",
       "dividend_per_share": 0.4,
-      "latest_price": 128.95,
-      "dividend_yield": 0.31,
+      "latest_price": 123.96,
+      "dividend_yield": 0.32,
       "first_seen": "17-Nov-2026 12:36:43 am"
     },
     "544204|25 Nov 2026|Interim Dividend - Rs. - 0.6000": {
@@ -359,8 +282,8 @@
       "record_date": "25-Nov-2026",
       "purpose": "Interim Dividend - Rs. - 0.6000",
       "dividend_per_share": 0.6,
-      "latest_price": 129.2,
-      "dividend_yield": 0.46,
+      "latest_price": 127.05,
+      "dividend_yield": 0.47,
       "first_seen": "17-Nov-2026 12:36:43 am"
     },
     "544995|27 Nov 2026|Final Dividend - Rs. - 0.7500": {
@@ -370,10 +293,10 @@
       "record_date": "27-Nov-2026",
       "purpose": "Final Dividend - Rs. - 0.7500",
       "dividend_per_share": 0.75,
-      "latest_price": 277.55,
+      "latest_price": 275.15,
       "dividend_yield": 0.27,
       "first_seen": "17-Nov-2026 12:36:43 am"
     }
   },
-  "last_checked": "18-Nov-2026 11:46:58 pm"
+  "last_checked": "19-Nov-2026 05:28:56 am"
 }
